@@ -5,6 +5,7 @@ CREATE TABLE "Streams" (
         "SongID"    INTEGER,
         "PlaylistID"    INTEGER,
         "Time"  BLOB NOT NULL,
+        FOREIGN KEY("UserID") REFERENCES "Users"("UserID")
         FOREIGN KEY("SongID") REFERENCES "Songs"("SongID")
         FOREIGN KEY("PlaylistID") REFERENCES "Playlists"("PlaylistID")
         PRIMARY KEY("StreamID")
@@ -23,7 +24,7 @@ CREATE TABLE "Songs" (
 CREATE TABLE "StreamingSessions" (
         "SessionID" INTEGER,
         "StreamID"  INTEGER,
-        "Starting Time" TEXT,
+        "StartingTime" TEXT,
         "End Time" TEXT,
         FOREIGN KEY("StreamID") REFERENCES "Streams"("StreamID"),
         PRIMARY KEY("SessionID", "StreamID")
@@ -54,6 +55,7 @@ from datetime import datetime, timedelta
 from dateutil import parser
 import random
 from faker import Faker
+import os
 
 
 fake = Faker()
@@ -74,16 +76,17 @@ tab_char = "\t"
 
 
 def create_insert(table_name, data):
-    users = f"""
+    output = f"""
     INSERT INTO {table_name}
     VALUES {data[0]},
            {new_line_char.join([ str(value) + "," for value in data[1:-1]])}
            {data[-1]}{end_char}
     """
-    print(users)
+    print(output)
+    return output + "\n"
 
 
-p = create_insert("Users", users)
+insert_user = create_insert("Users", users)
 
 
 creators = list(
@@ -104,7 +107,7 @@ playlist = [
     for creator_id in creators
 ]
 
-create_insert("Playlists", playlist)
+insert_playlist = create_insert("Playlists", playlist)
 
 
 num_songs = 2000
@@ -120,7 +123,7 @@ songs = [
         for _ in range(num_songs)
         ]
 
-create_insert("Songs", songs)
+insert_song = create_insert("Songs", songs)
 
 streams = [(fake.unique.iana_id(), random.sample(users, 1)[0][0], 'NULL', x[0], fake.iso8601()) for x in random.sample(playlist, 5)] + [(fake.unique.iana_id(), random.sample(users, 1)[0][0], x[0], 'NULL', fake.iso8601()) for x in random.sample(songs, 50)]
 
@@ -136,5 +139,8 @@ streamingsessions = [
         )
         for stream in streams
         ]
-create_insert("StreamingSessions", streamingsessions)
+instert_ss = create_insert("StreamingSessions", streamingsessions)
+
+os.system(f"rm spot_hw.db && sqlite3 spot_hw.db -cmd {PRELIM}{insert_user}{insert_song}{insert_playlist}{instert_ss}")
+
 
