@@ -16,7 +16,7 @@ CREATE TABLE "Songs" (
         "Artist"    TEXT NOT NULL,
         "Album"     TEXT,
         "Duration"  INTEGER,
-        "Release Year" TEXT,
+        "ReleaseYear" TEXT,
         PRIMARY KEY("SongID")
         );
 
