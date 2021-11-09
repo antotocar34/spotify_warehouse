@@ -1,0 +1,81 @@
+\documentclass{article}
+
+\usepackage[a4paper]{geometry}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{bm}
+\usepackage{mathtools}
+\usepackage{microtype}
+\usepackage{enumerate}
+\usepackage{upgreek}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{svg}
+\usepackage[]{xcolor}
+\usepackage{setspace}
+\usepackage{pdfpages}
+%\usepackage{fullpage}
+\usepackage[justification=centering]{caption}
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{titlesec}
+\usepackage{import}
+\usepackage[hyphens]{url}
+
+\newcommand{\incfig}[2][1]{%
+\fontsize{15pt}{16pt}\selectfont 
+    \def\svgwidth{#1\columnwidth}
+    \import{./figures/}{#2.pdf_tex}
+}
+% \pdfsuppresswarningpagegroup=1
+
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{theorem}{Theorem}[section]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem*{definition*}{Definition}
+\theoremstyle{exercise}
+\newtheorem{exercise}{Exercise}[section]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+% Font
+% \usepackage[T1]{fontenc}
+% \usepackage[utf8]{inputenc}
+% \usepackage[urw-garamond]{mathdesign}
+
+\newcommand{\eq}{&=}
+\newcommand\nt{\addtocounter{equation}{1}\tag{\theequation}}
+
+
+
+\title{}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\noindent
+
+\begin{figure}[htpb]
+    \centering
+    {\includegraphics[width=0.8\textwidth]{/home/carneca/Downloads/test.png}}
+    \caption{}
+    \label{}
+\end{figure}
+\section*{The Entity Relationship Model}%
+\section*{section name}%
+\section*{Questions and Queries}%
+Here are some possible business questions that this database could answer and some queries to answer those.
+
+
+
+%\newpage
+%\bibliography{/home/carneca/Documents/Latex/bibmaster.bib}
+\end{document}
