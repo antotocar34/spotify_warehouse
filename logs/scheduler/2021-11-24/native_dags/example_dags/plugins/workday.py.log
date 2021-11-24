@@ -1,0 +1,340 @@
+[2021-11-24 13:01:42,170] {processor.py:163} INFO - Started process (PID=42650) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:01:42,173] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:01:42,174] {logging_mixin.py:109} INFO - [2021-11-24 13:01:42,174] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:01:42,191] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:01:42,193] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2021-11-24 13:02:19,555] {processor.py:163} INFO - Started process (PID=42731) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:02:19,557] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:02:19,557] {logging_mixin.py:109} INFO - [2021-11-24 13:02:19,557] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:02:19,568] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:02:19,570] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2021-11-24 13:02:58,750] {processor.py:163} INFO - Started process (PID=42783) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:02:58,752] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:02:58,752] {logging_mixin.py:109} INFO - [2021-11-24 13:02:58,752] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:02:58,760] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:02:58,761] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2021-11-24 13:03:36,469] {processor.py:163} INFO - Started process (PID=42899) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:03:36,479] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:03:36,480] {logging_mixin.py:109} INFO - [2021-11-24 13:03:36,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:03:36,491] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:03:36,493] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2021-11-24 13:04:13,959] {processor.py:163} INFO - Started process (PID=42958) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:04:13,968] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:04:13,969] {logging_mixin.py:109} INFO - [2021-11-24 13:04:13,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:04:13,981] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:04:13,984] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2021-11-24 13:04:55,798] {processor.py:163} INFO - Started process (PID=43168) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:04:55,807] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:04:55,808] {logging_mixin.py:109} INFO - [2021-11-24 13:04:55,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:04:55,818] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:04:55,821] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2021-11-24 13:05:32,105] {processor.py:163} INFO - Started process (PID=43238) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:05:32,114] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:05:32,115] {logging_mixin.py:109} INFO - [2021-11-24 13:05:32,114] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:05:32,128] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:05:32,130] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2021-11-24 13:06:05,730] {processor.py:163} INFO - Started process (PID=43292) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:06:05,739] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:06:05,739] {logging_mixin.py:109} INFO - [2021-11-24 13:06:05,739] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:06:05,747] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:06:05,748] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2021-11-24 13:06:39,262] {processor.py:163} INFO - Started process (PID=43363) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:06:39,271] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:06:39,271] {logging_mixin.py:109} INFO - [2021-11-24 13:06:39,271] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:06:39,282] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:06:39,284] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2021-11-24 13:07:13,924] {processor.py:163} INFO - Started process (PID=43416) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:07:13,935] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:07:13,937] {logging_mixin.py:109} INFO - [2021-11-24 13:07:13,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:07:13,958] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:07:13,960] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+[2021-11-24 13:07:50,716] {processor.py:163} INFO - Started process (PID=43464) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:07:50,717] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:07:50,717] {logging_mixin.py:109} INFO - [2021-11-24 13:07:50,717] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:07:50,725] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:07:50,727] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2021-11-24 13:08:29,709] {processor.py:163} INFO - Started process (PID=43530) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:08:29,712] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:08:29,712] {logging_mixin.py:109} INFO - [2021-11-24 13:08:29,712] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:08:29,722] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:08:29,724] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2021-11-24 13:09:05,038] {processor.py:163} INFO - Started process (PID=43592) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:09:05,049] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:09:05,051] {logging_mixin.py:109} INFO - [2021-11-24 13:09:05,050] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:09:05,072] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:09:05,074] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.043 seconds
+[2021-11-24 13:09:44,681] {processor.py:163} INFO - Started process (PID=43724) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:09:44,684] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:09:44,685] {logging_mixin.py:109} INFO - [2021-11-24 13:09:44,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:09:44,702] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:09:44,713] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.039 seconds
+[2021-11-24 13:10:20,944] {processor.py:163} INFO - Started process (PID=43929) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:10:20,947] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:10:20,948] {logging_mixin.py:109} INFO - [2021-11-24 13:10:20,948] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:10:20,966] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:10:20,970] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2021-11-24 13:11:00,630] {processor.py:163} INFO - Started process (PID=44124) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:11:00,633] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:11:00,634] {logging_mixin.py:109} INFO - [2021-11-24 13:11:00,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:11:00,646] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:11:00,648] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2021-11-24 13:11:33,663] {processor.py:163} INFO - Started process (PID=44197) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:11:33,664] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:11:33,665] {logging_mixin.py:109} INFO - [2021-11-24 13:11:33,665] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:11:33,671] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:11:33,672] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.011 seconds
+[2021-11-24 13:12:12,804] {processor.py:163} INFO - Started process (PID=44298) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:12:12,815] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:12:12,817] {logging_mixin.py:109} INFO - [2021-11-24 13:12:12,816] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:12:12,838] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:12:12,841] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.039 seconds
+[2021-11-24 13:12:50,123] {processor.py:163} INFO - Started process (PID=44346) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:12:50,133] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:12:50,134] {logging_mixin.py:109} INFO - [2021-11-24 13:12:50,134] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:12:50,145] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:12:50,147] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2021-11-24 13:13:23,220] {processor.py:163} INFO - Started process (PID=44491) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:13:23,223] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:13:23,225] {logging_mixin.py:109} INFO - [2021-11-24 13:13:23,225] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:13:23,244] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:13:23,246] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2021-11-24 13:14:02,025] {processor.py:163} INFO - Started process (PID=44557) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:14:02,034] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:14:02,034] {logging_mixin.py:109} INFO - [2021-11-24 13:14:02,034] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:14:02,041] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:14:02,042] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2021-11-24 13:14:41,106] {processor.py:163} INFO - Started process (PID=44694) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:14:41,116] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:14:41,116] {logging_mixin.py:109} INFO - [2021-11-24 13:14:41,116] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:14:41,126] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:14:41,128] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2021-11-24 13:15:17,983] {processor.py:163} INFO - Started process (PID=44784) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:15:17,987] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:15:17,988] {logging_mixin.py:109} INFO - [2021-11-24 13:15:17,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:15:18,008] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:15:18,010] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2021-11-24 13:15:50,312] {processor.py:163} INFO - Started process (PID=44911) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:15:50,316] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:15:50,317] {logging_mixin.py:109} INFO - [2021-11-24 13:15:50,317] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:15:50,337] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:15:50,340] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.035 seconds
+[2021-11-24 13:16:24,837] {processor.py:163} INFO - Started process (PID=45353) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:16:24,844] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:16:24,844] {logging_mixin.py:109} INFO - [2021-11-24 13:16:24,844] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:16:24,856] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:16:24,858] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2021-11-24 13:16:57,777] {processor.py:163} INFO - Started process (PID=45443) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:16:57,780] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:16:57,780] {logging_mixin.py:109} INFO - [2021-11-24 13:16:57,780] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:16:57,792] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:16:57,794] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2021-11-24 13:17:34,606] {processor.py:163} INFO - Started process (PID=45570) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:17:34,609] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:17:34,610] {logging_mixin.py:109} INFO - [2021-11-24 13:17:34,609] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:17:34,618] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:17:34,620] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2021-11-24 13:18:09,569] {processor.py:163} INFO - Started process (PID=45615) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:18:09,575] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:18:09,575] {logging_mixin.py:109} INFO - [2021-11-24 13:18:09,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:18:09,581] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:18:09,583] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2021-11-24 13:18:41,415] {processor.py:163} INFO - Started process (PID=45686) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:18:41,417] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:18:41,418] {logging_mixin.py:109} INFO - [2021-11-24 13:18:41,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:18:41,426] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:18:41,428] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2021-11-24 13:19:18,919] {processor.py:163} INFO - Started process (PID=45738) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:19:18,930] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:19:18,930] {logging_mixin.py:109} INFO - [2021-11-24 13:19:18,930] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:19:18,943] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:19:18,945] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2021-11-24 13:19:52,159] {processor.py:163} INFO - Started process (PID=45782) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:19:52,170] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:19:52,172] {logging_mixin.py:109} INFO - [2021-11-24 13:19:52,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:19:52,196] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:19:52,200] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.044 seconds
+[2021-11-24 13:20:27,020] {processor.py:163} INFO - Started process (PID=45829) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:20:27,030] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:20:27,031] {logging_mixin.py:109} INFO - [2021-11-24 13:20:27,031] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:20:27,041] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:20:27,043] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2021-11-24 13:21:03,326] {processor.py:163} INFO - Started process (PID=45885) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:21:03,335] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:21:03,335] {logging_mixin.py:109} INFO - [2021-11-24 13:21:03,335] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:21:03,347] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:21:03,351] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2021-11-24 13:21:41,355] {processor.py:163} INFO - Started process (PID=45985) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:21:41,365] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:21:41,367] {logging_mixin.py:109} INFO - [2021-11-24 13:21:41,367] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:21:41,390] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:21:41,394] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+[2021-11-24 13:22:20,161] {processor.py:163} INFO - Started process (PID=46055) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:22:20,170] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:22:20,171] {logging_mixin.py:109} INFO - [2021-11-24 13:22:20,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:22:20,180] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:22:20,183] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2021-11-24 13:22:54,806] {processor.py:163} INFO - Started process (PID=46240) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:22:54,812] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:22:54,815] {logging_mixin.py:109} INFO - [2021-11-24 13:22:54,815] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:22:54,838] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:22:54,846] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.045 seconds
+[2021-11-24 13:23:28,840] {processor.py:163} INFO - Started process (PID=46488) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:23:28,849] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:23:28,850] {logging_mixin.py:109} INFO - [2021-11-24 13:23:28,850] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:23:28,863] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:23:28,866] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2021-11-24 13:24:07,609] {processor.py:163} INFO - Started process (PID=46556) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:24:07,619] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:24:07,620] {logging_mixin.py:109} INFO - [2021-11-24 13:24:07,620] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:24:07,634] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:24:07,638] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2021-11-24 13:24:41,427] {processor.py:163} INFO - Started process (PID=46722) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:24:41,430] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:24:41,431] {logging_mixin.py:109} INFO - [2021-11-24 13:24:41,431] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:24:41,449] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:24:41,453] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2021-11-24 13:25:17,258] {processor.py:163} INFO - Started process (PID=46800) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:25:17,269] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:25:17,271] {logging_mixin.py:109} INFO - [2021-11-24 13:25:17,270] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:25:17,283] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:25:17,285] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2021-11-24 13:25:53,923] {processor.py:163} INFO - Started process (PID=46852) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:25:53,924] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:25:53,925] {logging_mixin.py:109} INFO - [2021-11-24 13:25:53,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:25:53,932] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:25:53,933] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2021-11-24 13:26:29,617] {processor.py:163} INFO - Started process (PID=46930) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:26:29,619] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:26:29,619] {logging_mixin.py:109} INFO - [2021-11-24 13:26:29,619] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:26:29,626] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:26:29,628] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2021-11-24 13:27:09,846] {processor.py:163} INFO - Started process (PID=47066) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:27:09,850] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:27:09,851] {logging_mixin.py:109} INFO - [2021-11-24 13:27:09,851] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:27:09,874] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:27:09,877] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2021-11-24 13:27:47,257] {processor.py:163} INFO - Started process (PID=47122) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:27:47,266] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:27:47,267] {logging_mixin.py:109} INFO - [2021-11-24 13:27:47,266] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:27:47,278] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:27:47,281] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2021-11-24 13:28:26,046] {processor.py:163} INFO - Started process (PID=47299) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:28:26,055] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:28:26,056] {logging_mixin.py:109} INFO - [2021-11-24 13:28:26,056] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:28:26,063] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:28:26,064] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2021-11-24 13:29:02,935] {processor.py:163} INFO - Started process (PID=47386) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:29:02,946] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:29:02,949] {logging_mixin.py:109} INFO - [2021-11-24 13:29:02,948] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:29:02,967] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:29:02,969] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds
+[2021-11-24 13:29:39,786] {processor.py:163} INFO - Started process (PID=47451) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:29:39,796] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:29:39,796] {logging_mixin.py:109} INFO - [2021-11-24 13:29:39,796] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:29:39,809] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:29:39,813] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2021-11-24 13:30:16,561] {processor.py:163} INFO - Started process (PID=47538) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:30:16,562] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:30:16,563] {logging_mixin.py:109} INFO - [2021-11-24 13:30:16,563] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:30:16,570] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:30:16,572] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2021-11-24 13:30:52,602] {processor.py:163} INFO - Started process (PID=47589) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:30:52,604] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:30:52,604] {logging_mixin.py:109} INFO - [2021-11-24 13:30:52,604] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:30:52,610] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:30:52,612] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.012 seconds
+[2021-11-24 13:31:26,532] {processor.py:163} INFO - Started process (PID=47643) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:31:26,541] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:31:26,542] {logging_mixin.py:109} INFO - [2021-11-24 13:31:26,542] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:31:26,550] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:31:26,552] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2021-11-24 13:32:02,567] {processor.py:163} INFO - Started process (PID=47786) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:32:02,578] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:32:02,580] {logging_mixin.py:109} INFO - [2021-11-24 13:32:02,580] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:32:02,598] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:32:02,601] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+[2021-11-24 13:32:39,744] {processor.py:163} INFO - Started process (PID=48283) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:32:39,754] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:32:39,755] {logging_mixin.py:109} INFO - [2021-11-24 13:32:39,755] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:32:39,768] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:32:39,771] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2021-11-24 13:33:14,978] {processor.py:163} INFO - Started process (PID=48498) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:33:14,986] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:33:14,987] {logging_mixin.py:109} INFO - [2021-11-24 13:33:14,987] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:33:14,993] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:33:14,995] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2021-11-24 13:33:51,412] {processor.py:163} INFO - Started process (PID=48631) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:33:51,422] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:33:51,423] {logging_mixin.py:109} INFO - [2021-11-24 13:33:51,423] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:33:51,430] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:33:51,432] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2021-11-24 13:34:30,854] {processor.py:163} INFO - Started process (PID=48739) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:34:30,865] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:34:30,866] {logging_mixin.py:109} INFO - [2021-11-24 13:34:30,866] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:34:30,885] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:34:30,887] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds
+[2021-11-24 13:35:03,023] {processor.py:163} INFO - Started process (PID=48836) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:35:03,035] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:35:03,036] {logging_mixin.py:109} INFO - [2021-11-24 13:35:03,036] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:35:03,059] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:35:03,061] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.045 seconds
+[2021-11-24 13:35:40,691] {processor.py:163} INFO - Started process (PID=48931) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:35:40,701] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:35:40,703] {logging_mixin.py:109} INFO - [2021-11-24 13:35:40,703] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:35:40,725] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:35:40,729] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds
+[2021-11-24 13:36:13,132] {processor.py:163} INFO - Started process (PID=48985) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:36:13,143] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:36:13,143] {logging_mixin.py:109} INFO - [2021-11-24 13:36:13,143] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:36:13,154] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:36:13,157] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2021-11-24 13:36:45,477] {processor.py:163} INFO - Started process (PID=49104) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:36:45,481] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:36:45,483] {logging_mixin.py:109} INFO - [2021-11-24 13:36:45,482] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:36:45,496] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:36:45,498] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2021-11-24 13:37:19,273] {processor.py:163} INFO - Started process (PID=49261) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:37:19,274] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:37:19,275] {logging_mixin.py:109} INFO - [2021-11-24 13:37:19,275] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:37:19,284] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:37:19,286] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2021-11-24 13:37:56,053] {processor.py:163} INFO - Started process (PID=49330) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:37:56,057] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:37:56,057] {logging_mixin.py:109} INFO - [2021-11-24 13:37:56,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:37:56,064] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:37:56,066] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2021-11-24 13:38:30,336] {processor.py:163} INFO - Started process (PID=49408) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:38:30,347] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:38:30,348] {logging_mixin.py:109} INFO - [2021-11-24 13:38:30,348] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:38:30,373] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:38:30,378] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.045 seconds
+[2021-11-24 13:39:06,585] {processor.py:163} INFO - Started process (PID=49498) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:39:06,594] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:39:06,595] {logging_mixin.py:109} INFO - [2021-11-24 13:39:06,594] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:39:06,603] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:39:06,605] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2021-11-24 13:39:42,664] {processor.py:163} INFO - Started process (PID=49611) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:39:42,673] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:39:42,673] {logging_mixin.py:109} INFO - [2021-11-24 13:39:42,673] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:39:42,681] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:39:42,683] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2021-11-24 13:40:16,027] {processor.py:163} INFO - Started process (PID=49673) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:40:16,037] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:40:16,037] {logging_mixin.py:109} INFO - [2021-11-24 13:40:16,037] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:40:16,047] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:40:16,048] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2021-11-24 13:40:54,518] {processor.py:163} INFO - Started process (PID=49768) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:40:54,529] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:40:54,530] {logging_mixin.py:109} INFO - [2021-11-24 13:40:54,530] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:40:54,552] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:40:54,555] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.044 seconds
+[2021-11-24 13:41:31,121] {processor.py:163} INFO - Started process (PID=49832) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:41:31,131] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:41:31,132] {logging_mixin.py:109} INFO - [2021-11-24 13:41:31,132] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:41:31,157] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:41:31,161] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+[2021-11-24 13:42:02,033] {processor.py:163} INFO - Started process (PID=49952) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:42:02,043] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2021-11-24 13:42:02,045] {logging_mixin.py:109} INFO - [2021-11-24 13:42:02,044] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:42:02,065] {processor.py:634} WARNING - No viable dags retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2021-11-24 13:42:02,069] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds

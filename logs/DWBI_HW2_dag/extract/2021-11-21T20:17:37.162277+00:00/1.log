@@ -1,0 +1,25 @@
+[2021-11-21 21:17:40,148] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.extract manual__2021-11-21T20:17:37.162277+00:00 [queued]>
+[2021-11-21 21:17:40,153] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.extract manual__2021-11-21T20:17:37.162277+00:00 [queued]>
+[2021-11-21 21:17:40,154] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:17:40,154] {taskinstance.py:1242} INFO - Starting attempt 1 of 6
+[2021-11-21 21:17:40,154] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:17:40,164] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): extract> on 2021-11-21 20:17:37.162277+00:00
+[2021-11-21 21:17:40,167] {standard_task_runner.py:52} INFO - Started process 33350 to run task
+[2021-11-21 21:17:40,169] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'DWBI_HW2_dag', 'extract', 'manual__2021-11-21T20:17:37.162277+00:00', '--job-id', '104', '--raw', '--subdir', '/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py', '--cfg-path', '/tmp/tmp3im4f9tv', '--error-file', '/tmp/tmpom3mryvq']
+[2021-11-21 21:17:40,170] {standard_task_runner.py:77} INFO - Job 104: Subtask extract
+[2021-11-21 21:17:40,192] {logging_mixin.py:109} INFO - Running <TaskInstance: DWBI_HW2_dag.extract manual__2021-11-21T20:17:37.162277+00:00 [running]> on host dj-XPS
+[2021-11-21 21:17:40,214] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=dj
+AIRFLOW_CTX_DAG_ID=DWBI_HW2_dag
+AIRFLOW_CTX_TASK_ID=extract
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-21T20:17:37.162277+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-21T20:17:37.162277+00:00
+[2021-11-21 21:17:40,215] {logging_mixin.py:109} INFO - Successfully made contact with the database.
+[2021-11-21 21:17:40,217] {logging_mixin.py:109} INFO - Successfully placed data in dataframe.
+[2021-11-21 21:17:40,221] {logging_mixin.py:109} INFO - Saved file for future use to /home/dante/DWBI/Apache/2021-11-21
+[2021-11-21 21:17:40,221] {python.py:152} INFO - Done. Returned value was: 2021-11-21
+[2021-11-21 21:17:40,230] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=DWBI_HW2_dag, task_id=extract, execution_date=20211121T201737, start_date=20211121T201740, end_date=20211121T201740
+[2021-11-21 21:17:40,261] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-21 21:17:40,281] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

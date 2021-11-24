@@ -1,0 +1,448 @@
+[2021-11-24 13:01:54,940] {processor.py:163} INFO - Started process (PID=42697) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:01:54,943] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:01:54,944] {logging_mixin.py:109} INFO - [2021-11-24 13:01:54,944] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:01:54,969] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:01:54,977] {logging_mixin.py:109} INFO - [2021-11-24 13:01:54,977] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:01:54,989] {logging_mixin.py:109} INFO - [2021-11-24 13:01:54,989] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:01:54.989004+00:00
+[2021-11-24 13:01:54,997] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:02:32,468] {processor.py:163} INFO - Started process (PID=42747) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:02:32,478] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:02:32,479] {logging_mixin.py:109} INFO - [2021-11-24 13:02:32,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:02:32,502] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:02:32,512] {logging_mixin.py:109} INFO - [2021-11-24 13:02:32,512] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:32,523] {logging_mixin.py:109} INFO - [2021-11-24 13:02:32,523] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:02:32.523430+00:00
+[2021-11-24 13:02:32,537] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.072 seconds
+[2021-11-24 13:03:11,770] {processor.py:163} INFO - Started process (PID=42862) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:03:11,781] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:03:11,782] {logging_mixin.py:109} INFO - [2021-11-24 13:03:11,782] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:03:11,811] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:03:11,822] {logging_mixin.py:109} INFO - [2021-11-24 13:03:11,822] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:11,832] {logging_mixin.py:109} INFO - [2021-11-24 13:03:11,832] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:03:11.831821+00:00
+[2021-11-24 13:03:11,857] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.089 seconds
+[2021-11-24 13:03:48,256] {processor.py:163} INFO - Started process (PID=42923) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:03:48,260] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:03:48,261] {logging_mixin.py:109} INFO - [2021-11-24 13:03:48,261] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:03:48,289] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:03:48,298] {logging_mixin.py:109} INFO - [2021-11-24 13:03:48,298] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:48,307] {logging_mixin.py:109} INFO - [2021-11-24 13:03:48,307] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:03:48.307151+00:00
+[2021-11-24 13:03:48,315] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.065 seconds
+[2021-11-24 13:04:28,535] {processor.py:163} INFO - Started process (PID=42980) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:04:28,540] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:04:28,541] {logging_mixin.py:109} INFO - [2021-11-24 13:04:28,541] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:04:28,569] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:04:28,576] {logging_mixin.py:109} INFO - [2021-11-24 13:04:28,576] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:28,586] {logging_mixin.py:109} INFO - [2021-11-24 13:04:28,586] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:04:28.585997+00:00
+[2021-11-24 13:04:28,595] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.066 seconds
+[2021-11-24 13:05:11,280] {processor.py:163} INFO - Started process (PID=43198) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:05:11,290] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:05:11,291] {logging_mixin.py:109} INFO - [2021-11-24 13:05:11,291] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:05:11,308] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:05:11,316] {logging_mixin.py:109} INFO - [2021-11-24 13:05:11,316] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:11,325] {logging_mixin.py:109} INFO - [2021-11-24 13:05:11,325] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:05:11.325098+00:00
+[2021-11-24 13:05:11,335] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.057 seconds
+[2021-11-24 13:05:47,776] {processor.py:163} INFO - Started process (PID=43265) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:05:47,787] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:05:47,789] {logging_mixin.py:109} INFO - [2021-11-24 13:05:47,789] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:05:47,827] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:05:47,835] {logging_mixin.py:109} INFO - [2021-11-24 13:05:47,835] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:47,845] {logging_mixin.py:109} INFO - [2021-11-24 13:05:47,845] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:05:47.845286+00:00
+[2021-11-24 13:05:47,860] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.087 seconds
+[2021-11-24 13:06:24,955] {processor.py:163} INFO - Started process (PID=43314) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:06:24,964] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:06:24,965] {logging_mixin.py:109} INFO - [2021-11-24 13:06:24,965] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:06:24,978] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:06:24,985] {logging_mixin.py:109} INFO - [2021-11-24 13:06:24,984] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:24,993] {logging_mixin.py:109} INFO - [2021-11-24 13:06:24,993] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:06:24.993633+00:00
+[2021-11-24 13:06:25,002] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.048 seconds
+[2021-11-24 13:07:06,316] {processor.py:163} INFO - Started process (PID=43404) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:07:06,327] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:07:06,327] {logging_mixin.py:109} INFO - [2021-11-24 13:07:06,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:07:06,343] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:07:06,351] {logging_mixin.py:109} INFO - [2021-11-24 13:07:06,351] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:06,360] {logging_mixin.py:109} INFO - [2021-11-24 13:07:06,360] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:07:06.360405+00:00
+[2021-11-24 13:07:06,368] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.054 seconds
+[2021-11-24 13:07:43,127] {processor.py:163} INFO - Started process (PID=43453) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:07:43,135] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:07:43,136] {logging_mixin.py:109} INFO - [2021-11-24 13:07:43,136] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:07:43,152] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:07:43,160] {logging_mixin.py:109} INFO - [2021-11-24 13:07:43,160] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:43,170] {logging_mixin.py:109} INFO - [2021-11-24 13:07:43,170] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:07:43.170417+00:00
+[2021-11-24 13:07:43,186] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.061 seconds
+[2021-11-24 13:08:21,721] {processor.py:163} INFO - Started process (PID=43523) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:08:21,722] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:08:21,723] {logging_mixin.py:109} INFO - [2021-11-24 13:08:21,722] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:08:21,740] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:08:21,750] {logging_mixin.py:109} INFO - [2021-11-24 13:08:21,749] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:21,760] {logging_mixin.py:109} INFO - [2021-11-24 13:08:21,760] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:08:21.759772+00:00
+[2021-11-24 13:08:21,767] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.049 seconds
+[2021-11-24 13:08:58,702] {processor.py:163} INFO - Started process (PID=43585) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:08:58,705] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:08:58,705] {logging_mixin.py:109} INFO - [2021-11-24 13:08:58,705] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:08:58,720] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:08:58,727] {logging_mixin.py:109} INFO - [2021-11-24 13:08:58,727] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:58,736] {logging_mixin.py:109} INFO - [2021-11-24 13:08:58,736] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:08:58.736313+00:00
+[2021-11-24 13:08:58,744] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.045 seconds
+[2021-11-24 13:09:38,530] {processor.py:163} INFO - Started process (PID=43714) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:09:38,541] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:09:38,543] {logging_mixin.py:109} INFO - [2021-11-24 13:09:38,543] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:09:38,572] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:09:38,580] {logging_mixin.py:109} INFO - [2021-11-24 13:09:38,580] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:38,589] {logging_mixin.py:109} INFO - [2021-11-24 13:09:38,589] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:09:38.589147+00:00
+[2021-11-24 13:09:38,631] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.108 seconds
+[2021-11-24 13:10:15,185] {processor.py:163} INFO - Started process (PID=43870) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:10:15,194] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:10:15,194] {logging_mixin.py:109} INFO - [2021-11-24 13:10:15,194] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:10:15,209] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:10:15,216] {logging_mixin.py:109} INFO - [2021-11-24 13:10:15,216] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:15,225] {logging_mixin.py:109} INFO - [2021-11-24 13:10:15,225] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:10:15.225049+00:00
+[2021-11-24 13:10:15,235] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.052 seconds
+[2021-11-24 13:10:54,472] {processor.py:163} INFO - Started process (PID=44111) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:10:54,482] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:10:54,483] {logging_mixin.py:109} INFO - [2021-11-24 13:10:54,483] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:10:54,509] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:10:54,517] {logging_mixin.py:109} INFO - [2021-11-24 13:10:54,517] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:54,527] {logging_mixin.py:109} INFO - [2021-11-24 13:10:54,527] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:10:54.527245+00:00
+[2021-11-24 13:10:54,537] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.071 seconds
+[2021-11-24 13:11:34,043] {processor.py:163} INFO - Started process (PID=44202) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:11:34,047] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:11:34,048] {logging_mixin.py:109} INFO - [2021-11-24 13:11:34,048] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:11:34,076] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:11:34,084] {logging_mixin.py:109} INFO - [2021-11-24 13:11:34,084] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:34,093] {logging_mixin.py:109} INFO - [2021-11-24 13:11:34,093] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:11:34.093371+00:00
+[2021-11-24 13:11:34,101] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:12:13,976] {processor.py:163} INFO - Started process (PID=44299) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:12:13,980] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:12:13,982] {logging_mixin.py:109} INFO - [2021-11-24 13:12:13,981] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:12:14,010] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:12:14,017] {logging_mixin.py:109} INFO - [2021-11-24 13:12:14,017] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:14,026] {logging_mixin.py:109} INFO - [2021-11-24 13:12:14,026] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:12:14.026422+00:00
+[2021-11-24 13:12:14,035] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.065 seconds
+[2021-11-24 13:12:52,894] {processor.py:163} INFO - Started process (PID=44349) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:12:52,898] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:12:52,899] {logging_mixin.py:109} INFO - [2021-11-24 13:12:52,899] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:12:52,927] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:12:52,935] {logging_mixin.py:109} INFO - [2021-11-24 13:12:52,935] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:52,949] {logging_mixin.py:109} INFO - [2021-11-24 13:12:52,949] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:12:52.949201+00:00
+[2021-11-24 13:12:52,963] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.075 seconds
+[2021-11-24 13:13:32,664] {processor.py:163} INFO - Started process (PID=44511) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:13:32,675] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:13:32,676] {logging_mixin.py:109} INFO - [2021-11-24 13:13:32,676] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:13:32,697] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:13:32,706] {logging_mixin.py:109} INFO - [2021-11-24 13:13:32,706] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:32,716] {logging_mixin.py:109} INFO - [2021-11-24 13:13:32,716] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:13:32.715953+00:00
+[2021-11-24 13:13:32,750] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.088 seconds
+[2021-11-24 13:14:11,459] {processor.py:163} INFO - Started process (PID=44570) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:14:11,469] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:14:11,470] {logging_mixin.py:109} INFO - [2021-11-24 13:14:11,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:14:11,490] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:14:11,498] {logging_mixin.py:109} INFO - [2021-11-24 13:14:11,498] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:11,508] {logging_mixin.py:109} INFO - [2021-11-24 13:14:11,508] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:14:11.508384+00:00
+[2021-11-24 13:14:11,542] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.085 seconds
+[2021-11-24 13:14:50,120] {processor.py:163} INFO - Started process (PID=44708) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:14:50,124] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:14:50,125] {logging_mixin.py:109} INFO - [2021-11-24 13:14:50,125] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:14:50,156] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:14:50,163] {logging_mixin.py:109} INFO - [2021-11-24 13:14:50,163] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:50,172] {logging_mixin.py:109} INFO - [2021-11-24 13:14:50,172] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:14:50.172505+00:00
+[2021-11-24 13:14:50,180] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.066 seconds
+[2021-11-24 13:15:29,453] {processor.py:163} INFO - Started process (PID=44803) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:15:29,465] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:15:29,467] {logging_mixin.py:109} INFO - [2021-11-24 13:15:29,466] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:15:29,494] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:15:29,502] {logging_mixin.py:109} INFO - [2021-11-24 13:15:29,502] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:29,511] {logging_mixin.py:109} INFO - [2021-11-24 13:15:29,511] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:15:29.511201+00:00
+[2021-11-24 13:15:29,539] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.088 seconds
+[2021-11-24 13:16:10,838] {processor.py:163} INFO - Started process (PID=45330) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:16:10,840] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:16:10,842] {logging_mixin.py:109} INFO - [2021-11-24 13:16:10,842] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:16:10,869] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:16:10,884] {logging_mixin.py:109} INFO - [2021-11-24 13:16:10,884] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:10,904] {logging_mixin.py:109} INFO - [2021-11-24 13:16:10,904] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:16:10.903949+00:00
+[2021-11-24 13:16:10,918] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.083 seconds
+[2021-11-24 13:16:46,312] {processor.py:163} INFO - Started process (PID=45420) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:16:46,314] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:16:46,315] {logging_mixin.py:109} INFO - [2021-11-24 13:16:46,314] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:16:46,327] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:16:46,333] {logging_mixin.py:109} INFO - [2021-11-24 13:16:46,333] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:46,343] {logging_mixin.py:109} INFO - [2021-11-24 13:16:46,343] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:16:46.343311+00:00
+[2021-11-24 13:16:46,352] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.042 seconds
+[2021-11-24 13:17:22,920] {processor.py:163} INFO - Started process (PID=45558) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:17:22,929] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:17:22,929] {logging_mixin.py:109} INFO - [2021-11-24 13:17:22,929] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:17:22,943] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:17:22,950] {logging_mixin.py:109} INFO - [2021-11-24 13:17:22,950] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:22,959] {logging_mixin.py:109} INFO - [2021-11-24 13:17:22,959] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:17:22.959491+00:00
+[2021-11-24 13:17:22,968] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.050 seconds
+[2021-11-24 13:18:03,159] {processor.py:163} INFO - Started process (PID=45606) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:18:03,170] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:18:03,172] {logging_mixin.py:109} INFO - [2021-11-24 13:18:03,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:18:03,200] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:18:03,208] {logging_mixin.py:109} INFO - [2021-11-24 13:18:03,208] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:03,216] {logging_mixin.py:109} INFO - [2021-11-24 13:18:03,216] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:18:03.216453+00:00
+[2021-11-24 13:18:03,227] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.074 seconds
+[2021-11-24 13:18:43,694] {processor.py:163} INFO - Started process (PID=45688) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:18:43,704] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:18:43,705] {logging_mixin.py:109} INFO - [2021-11-24 13:18:43,704] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:18:43,721] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:18:43,729] {logging_mixin.py:109} INFO - [2021-11-24 13:18:43,729] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:43,738] {logging_mixin.py:109} INFO - [2021-11-24 13:18:43,738] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:18:43.738627+00:00
+[2021-11-24 13:18:43,748] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.056 seconds
+[2021-11-24 13:19:20,623] {processor.py:163} INFO - Started process (PID=45740) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:19:20,625] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:19:20,625] {logging_mixin.py:109} INFO - [2021-11-24 13:19:20,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:19:20,638] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:19:20,645] {logging_mixin.py:109} INFO - [2021-11-24 13:19:20,645] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:20,657] {logging_mixin.py:109} INFO - [2021-11-24 13:19:20,656] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:19:20.656609+00:00
+[2021-11-24 13:19:20,667] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.046 seconds
+[2021-11-24 13:20:03,393] {processor.py:163} INFO - Started process (PID=45800) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:20:03,396] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:20:03,398] {logging_mixin.py:109} INFO - [2021-11-24 13:20:03,397] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:20:03,428] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:20:03,435] {logging_mixin.py:109} INFO - [2021-11-24 13:20:03,435] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:03,444] {logging_mixin.py:109} INFO - [2021-11-24 13:20:03,444] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:20:03.444110+00:00
+[2021-11-24 13:20:03,451] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:20:43,868] {processor.py:163} INFO - Started process (PID=45860) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:20:43,878] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:20:43,879] {logging_mixin.py:109} INFO - [2021-11-24 13:20:43,879] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:20:43,900] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:20:43,910] {logging_mixin.py:109} INFO - [2021-11-24 13:20:43,910] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:43,919] {logging_mixin.py:109} INFO - [2021-11-24 13:20:43,919] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:20:43.919323+00:00
+[2021-11-24 13:20:43,930] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:21:21,665] {processor.py:163} INFO - Started process (PID=45924) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:21:21,668] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:21:21,669] {logging_mixin.py:109} INFO - [2021-11-24 13:21:21,669] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:21:21,697] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:21:21,711] {logging_mixin.py:109} INFO - [2021-11-24 13:21:21,711] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:21,726] {logging_mixin.py:109} INFO - [2021-11-24 13:21:21,726] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:21:21.726317+00:00
+[2021-11-24 13:21:21,742] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.082 seconds
+[2021-11-24 13:21:57,874] {processor.py:163} INFO - Started process (PID=46009) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:21:57,883] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:21:57,884] {logging_mixin.py:109} INFO - [2021-11-24 13:21:57,884] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:21:57,900] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:21:57,907] {logging_mixin.py:109} INFO - [2021-11-24 13:21:57,907] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:57,916] {logging_mixin.py:109} INFO - [2021-11-24 13:21:57,916] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:21:57.915845+00:00
+[2021-11-24 13:21:57,923] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.051 seconds
+[2021-11-24 13:22:36,056] {processor.py:163} INFO - Started process (PID=46074) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:22:36,068] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:22:36,070] {logging_mixin.py:109} INFO - [2021-11-24 13:22:36,069] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:22:36,096] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:22:36,103] {logging_mixin.py:109} INFO - [2021-11-24 13:22:36,103] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:36,113] {logging_mixin.py:109} INFO - [2021-11-24 13:22:36,113] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:22:36.113036+00:00
+[2021-11-24 13:22:36,122] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.073 seconds
+[2021-11-24 13:23:11,100] {processor.py:163} INFO - Started process (PID=46456) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:23:11,109] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:23:11,110] {logging_mixin.py:109} INFO - [2021-11-24 13:23:11,110] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:23:11,133] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:23:11,143] {logging_mixin.py:109} INFO - [2021-11-24 13:23:11,143] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:11,153] {logging_mixin.py:109} INFO - [2021-11-24 13:23:11,153] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:23:11.152891+00:00
+[2021-11-24 13:23:11,161] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:23:50,194] {processor.py:163} INFO - Started process (PID=46519) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:23:50,203] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:23:50,204] {logging_mixin.py:109} INFO - [2021-11-24 13:23:50,203] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:23:50,225] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:23:50,235] {logging_mixin.py:109} INFO - [2021-11-24 13:23:50,235] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:50,244] {logging_mixin.py:109} INFO - [2021-11-24 13:23:50,244] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:23:50.244152+00:00
+[2021-11-24 13:23:50,253] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.062 seconds
+[2021-11-24 13:24:26,300] {processor.py:163} INFO - Started process (PID=46603) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:24:26,302] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:24:26,302] {logging_mixin.py:109} INFO - [2021-11-24 13:24:26,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:24:26,322] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:24:26,332] {logging_mixin.py:109} INFO - [2021-11-24 13:24:26,332] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:26,344] {logging_mixin.py:109} INFO - [2021-11-24 13:24:26,344] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:24:26.344388+00:00
+[2021-11-24 13:24:26,356] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.059 seconds
+[2021-11-24 13:25:01,729] {processor.py:163} INFO - Started process (PID=46760) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:25:01,739] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:25:01,739] {logging_mixin.py:109} INFO - [2021-11-24 13:25:01,739] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:25:01,753] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:25:01,760] {logging_mixin.py:109} INFO - [2021-11-24 13:25:01,760] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:01,769] {logging_mixin.py:109} INFO - [2021-11-24 13:25:01,769] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:25:01.769121+00:00
+[2021-11-24 13:25:01,781] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.054 seconds
+[2021-11-24 13:25:38,461] {processor.py:163} INFO - Started process (PID=46834) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:25:38,464] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:25:38,465] {logging_mixin.py:109} INFO - [2021-11-24 13:25:38,465] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:25:38,486] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:25:38,495] {logging_mixin.py:109} INFO - [2021-11-24 13:25:38,495] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:38,507] {logging_mixin.py:109} INFO - [2021-11-24 13:25:38,507] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:25:38.506873+00:00
+[2021-11-24 13:25:38,518] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.061 seconds
+[2021-11-24 13:26:13,977] {processor.py:163} INFO - Started process (PID=46908) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:26:13,980] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:26:13,982] {logging_mixin.py:109} INFO - [2021-11-24 13:26:13,981] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:26:14,008] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:26:14,015] {logging_mixin.py:109} INFO - [2021-11-24 13:26:14,015] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:14,026] {logging_mixin.py:109} INFO - [2021-11-24 13:26:14,025] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:26:14.025659+00:00
+[2021-11-24 13:26:14,035] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.065 seconds
+[2021-11-24 13:26:53,228] {processor.py:163} INFO - Started process (PID=47042) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:26:53,231] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:26:53,233] {logging_mixin.py:109} INFO - [2021-11-24 13:26:53,232] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:26:53,260] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:26:53,267] {logging_mixin.py:109} INFO - [2021-11-24 13:26:53,267] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:53,276] {logging_mixin.py:109} INFO - [2021-11-24 13:26:53,276] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:26:53.276412+00:00
+[2021-11-24 13:26:53,284] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.063 seconds
+[2021-11-24 13:27:32,083] {processor.py:163} INFO - Started process (PID=47100) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:27:32,087] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:27:32,089] {logging_mixin.py:109} INFO - [2021-11-24 13:27:32,089] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:27:32,115] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:27:32,122] {logging_mixin.py:109} INFO - [2021-11-24 13:27:32,122] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:32,131] {logging_mixin.py:109} INFO - [2021-11-24 13:27:32,131] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:27:32.131396+00:00
+[2021-11-24 13:27:32,139] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.062 seconds
+[2021-11-24 13:28:11,210] {processor.py:163} INFO - Started process (PID=47242) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:28:11,220] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:28:11,222] {logging_mixin.py:109} INFO - [2021-11-24 13:28:11,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:28:11,239] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:28:11,246] {logging_mixin.py:109} INFO - [2021-11-24 13:28:11,246] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:11,256] {logging_mixin.py:109} INFO - [2021-11-24 13:28:11,256] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:28:11.256435+00:00
+[2021-11-24 13:28:11,265] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.058 seconds
+[2021-11-24 13:28:49,192] {processor.py:163} INFO - Started process (PID=47365) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:28:49,203] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:28:49,205] {logging_mixin.py:109} INFO - [2021-11-24 13:28:49,204] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:28:49,233] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:28:49,240] {logging_mixin.py:109} INFO - [2021-11-24 13:28:49,240] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:49,249] {logging_mixin.py:109} INFO - [2021-11-24 13:28:49,249] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:28:49.248917+00:00
+[2021-11-24 13:28:49,268] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.083 seconds
+[2021-11-24 13:29:26,014] {processor.py:163} INFO - Started process (PID=47428) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:29:26,023] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:29:26,023] {logging_mixin.py:109} INFO - [2021-11-24 13:29:26,023] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:29:26,040] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:29:26,048] {logging_mixin.py:109} INFO - [2021-11-24 13:29:26,048] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:26,058] {logging_mixin.py:109} INFO - [2021-11-24 13:29:26,058] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:29:26.058363+00:00
+[2021-11-24 13:29:26,071] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.060 seconds
+[2021-11-24 13:30:01,770] {processor.py:163} INFO - Started process (PID=47487) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:30:01,781] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:30:01,782] {logging_mixin.py:109} INFO - [2021-11-24 13:30:01,782] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:30:01,818] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:30:01,825] {logging_mixin.py:109} INFO - [2021-11-24 13:30:01,825] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:01,835] {logging_mixin.py:109} INFO - [2021-11-24 13:30:01,835] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:30:01.834821+00:00
+[2021-11-24 13:30:01,843] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.075 seconds
+[2021-11-24 13:30:38,433] {processor.py:163} INFO - Started process (PID=47566) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:30:38,442] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:30:38,443] {logging_mixin.py:109} INFO - [2021-11-24 13:30:38,443] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:30:38,467] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:30:38,476] {logging_mixin.py:109} INFO - [2021-11-24 13:30:38,476] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:38,485] {logging_mixin.py:109} INFO - [2021-11-24 13:30:38,485] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:30:38.485223+00:00
+[2021-11-24 13:30:38,503] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.073 seconds
+[2021-11-24 13:31:13,487] {processor.py:163} INFO - Started process (PID=47618) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:31:13,490] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:31:13,492] {logging_mixin.py:109} INFO - [2021-11-24 13:31:13,492] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:31:13,512] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:31:13,519] {logging_mixin.py:109} INFO - [2021-11-24 13:31:13,519] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:13,530] {logging_mixin.py:109} INFO - [2021-11-24 13:31:13,530] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:31:13.530448+00:00
+[2021-11-24 13:31:13,539] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.058 seconds
+[2021-11-24 13:31:47,958] {processor.py:163} INFO - Started process (PID=47735) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:31:47,969] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:31:47,970] {logging_mixin.py:109} INFO - [2021-11-24 13:31:47,970] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:31:47,996] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:31:48,004] {logging_mixin.py:109} INFO - [2021-11-24 13:31:48,004] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:48,013] {logging_mixin.py:109} INFO - [2021-11-24 13:31:48,013] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:31:48.013357+00:00
+[2021-11-24 13:31:48,025] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.074 seconds
+[2021-11-24 13:32:23,054] {processor.py:163} INFO - Started process (PID=48137) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:32:23,063] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:32:23,064] {logging_mixin.py:109} INFO - [2021-11-24 13:32:23,064] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:32:23,086] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:32:23,096] {logging_mixin.py:109} INFO - [2021-11-24 13:32:23,096] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:23,107] {logging_mixin.py:109} INFO - [2021-11-24 13:32:23,107] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:32:23.106817+00:00
+[2021-11-24 13:32:23,120] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.069 seconds
+[2021-11-24 13:32:58,251] {processor.py:163} INFO - Started process (PID=48414) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:32:58,262] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:32:58,263] {logging_mixin.py:109} INFO - [2021-11-24 13:32:58,263] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:32:58,291] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:32:58,299] {logging_mixin.py:109} INFO - [2021-11-24 13:32:58,299] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:58,308] {logging_mixin.py:109} INFO - [2021-11-24 13:32:58,307] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:32:58.307749+00:00
+[2021-11-24 13:32:58,330] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.086 seconds
+[2021-11-24 13:33:38,741] {processor.py:163} INFO - Started process (PID=48526) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:33:38,750] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:33:38,750] {logging_mixin.py:109} INFO - [2021-11-24 13:33:38,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:33:38,764] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:33:38,771] {logging_mixin.py:109} INFO - [2021-11-24 13:33:38,771] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:38,780] {logging_mixin.py:109} INFO - [2021-11-24 13:33:38,780] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:33:38.779916+00:00
+[2021-11-24 13:33:38,788] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.049 seconds
+[2021-11-24 13:34:18,434] {processor.py:163} INFO - Started process (PID=48711) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:34:18,436] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:34:18,437] {logging_mixin.py:109} INFO - [2021-11-24 13:34:18,436] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:34:18,450] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:34:18,457] {logging_mixin.py:109} INFO - [2021-11-24 13:34:18,456] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:18,465] {logging_mixin.py:109} INFO - [2021-11-24 13:34:18,465] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:34:18.465454+00:00
+[2021-11-24 13:34:18,473] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.040 seconds
+[2021-11-24 13:34:58,673] {processor.py:163} INFO - Started process (PID=48819) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:34:58,683] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:34:58,684] {logging_mixin.py:109} INFO - [2021-11-24 13:34:58,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:34:58,706] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:34:58,715] {logging_mixin.py:109} INFO - [2021-11-24 13:34:58,715] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:58,725] {logging_mixin.py:109} INFO - [2021-11-24 13:34:58,725] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:34:58.725078+00:00
+[2021-11-24 13:34:58,732] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.062 seconds
+[2021-11-24 13:35:36,493] {processor.py:163} INFO - Started process (PID=48927) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:35:36,503] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:35:36,504] {logging_mixin.py:109} INFO - [2021-11-24 13:35:36,504] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:35:36,530] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:35:36,538] {logging_mixin.py:109} INFO - [2021-11-24 13:35:36,538] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:36,546] {logging_mixin.py:109} INFO - [2021-11-24 13:35:36,546] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:35:36.546417+00:00
+[2021-11-24 13:35:36,554] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:36:15,786] {processor.py:163} INFO - Started process (PID=49023) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:36:15,795] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:36:15,796] {logging_mixin.py:109} INFO - [2021-11-24 13:36:15,796] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:36:15,842] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:36:15,877] {logging_mixin.py:109} INFO - [2021-11-24 13:36:15,876] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:15,927] {logging_mixin.py:109} INFO - [2021-11-24 13:36:15,925] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:36:15.924830+00:00
+[2021-11-24 13:36:15,959] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.177 seconds
+[2021-11-24 13:36:56,938] {processor.py:163} INFO - Started process (PID=49146) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:36:56,947] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:36:56,948] {logging_mixin.py:109} INFO - [2021-11-24 13:36:56,947] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:36:56,965] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:36:56,973] {logging_mixin.py:109} INFO - [2021-11-24 13:36:56,973] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:56,982] {logging_mixin.py:109} INFO - [2021-11-24 13:36:56,982] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:36:56.982217+00:00
+[2021-11-24 13:36:57,000] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:37:35,566] {processor.py:163} INFO - Started process (PID=49288) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:37:35,578] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:37:35,579] {logging_mixin.py:109} INFO - [2021-11-24 13:37:35,579] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:37:35,611] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:37:35,619] {logging_mixin.py:109} INFO - [2021-11-24 13:37:35,619] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:35,628] {logging_mixin.py:109} INFO - [2021-11-24 13:37:35,628] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:37:35.627905+00:00
+[2021-11-24 13:37:35,651] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.091 seconds
+[2021-11-24 13:38:14,726] {processor.py:163} INFO - Started process (PID=49376) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:38:14,730] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:38:14,731] {logging_mixin.py:109} INFO - [2021-11-24 13:38:14,731] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:38:14,759] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:38:14,767] {logging_mixin.py:109} INFO - [2021-11-24 13:38:14,767] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:14,776] {logging_mixin.py:109} INFO - [2021-11-24 13:38:14,776] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:38:14.776080+00:00
+[2021-11-24 13:38:14,791] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.072 seconds
+[2021-11-24 13:38:50,318] {processor.py:163} INFO - Started process (PID=49441) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:38:50,327] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:38:50,327] {logging_mixin.py:109} INFO - [2021-11-24 13:38:50,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:38:50,341] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:38:50,349] {logging_mixin.py:109} INFO - [2021-11-24 13:38:50,348] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:50,358] {logging_mixin.py:109} INFO - [2021-11-24 13:38:50,358] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:38:50.358636+00:00
+[2021-11-24 13:38:50,387] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.071 seconds
+[2021-11-24 13:39:26,040] {processor.py:163} INFO - Started process (PID=49577) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:39:26,049] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:39:26,049] {logging_mixin.py:109} INFO - [2021-11-24 13:39:26,049] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:39:26,063] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:39:26,070] {logging_mixin.py:109} INFO - [2021-11-24 13:39:26,070] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:26,081] {logging_mixin.py:109} INFO - [2021-11-24 13:39:26,080] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:39:26.080748+00:00
+[2021-11-24 13:39:26,089] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.052 seconds
+[2021-11-24 13:40:02,581] {processor.py:163} INFO - Started process (PID=49656) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:40:02,591] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:40:02,592] {logging_mixin.py:109} INFO - [2021-11-24 13:40:02,592] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:40:02,617] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:40:02,624] {logging_mixin.py:109} INFO - [2021-11-24 13:40:02,624] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:02,633] {logging_mixin.py:109} INFO - [2021-11-24 13:40:02,633] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:40:02.633174+00:00
+[2021-11-24 13:40:02,641] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.064 seconds
+[2021-11-24 13:40:41,723] {processor.py:163} INFO - Started process (PID=49746) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:40:41,725] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:40:41,725] {logging_mixin.py:109} INFO - [2021-11-24 13:40:41,725] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:40:41,740] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:40:41,750] {logging_mixin.py:109} INFO - [2021-11-24 13:40:41,750] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:41,761] {logging_mixin.py:109} INFO - [2021-11-24 13:40:41,761] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:40:41.760938+00:00
+[2021-11-24 13:40:41,772] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.052 seconds
+[2021-11-24 13:41:20,961] {processor.py:163} INFO - Started process (PID=49810) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:41:20,964] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:41:20,965] {logging_mixin.py:109} INFO - [2021-11-24 13:41:20,965] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:41:20,993] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:41:21,001] {logging_mixin.py:109} INFO - [2021-11-24 13:41:21,000] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:21,009] {logging_mixin.py:109} INFO - [2021-11-24 13:41:21,009] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:41:21.009501+00:00
+[2021-11-24 13:41:21,016] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.059 seconds
+[2021-11-24 13:41:58,586] {processor.py:163} INFO - Started process (PID=49949) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:41:58,589] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2021-11-24 13:41:58,590] {logging_mixin.py:109} INFO - [2021-11-24 13:41:58,590] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:41:58,610] {processor.py:632} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2021-11-24 13:41:58,617] {logging_mixin.py:109} INFO - [2021-11-24 13:41:58,617] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:58,629] {logging_mixin.py:109} INFO - [2021-11-24 13:41:58,628] {dag.py:2921} INFO - Setting next_dagrun for latest_only_with_trigger to 2021-11-24T08:41:58.628615+00:00
+[2021-11-24 13:41:58,639] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.059 seconds

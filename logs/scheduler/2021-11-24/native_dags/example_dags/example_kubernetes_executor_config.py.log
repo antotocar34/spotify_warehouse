@@ -1,0 +1,434 @@
+[2021-11-24 13:02:06,465] {processor.py:163} INFO - Started process (PID=42709) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:02:06,466] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:02:06,466] {logging_mixin.py:109} INFO - [2021-11-24 13:02:06,466] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:02:06,484] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:02:06,492] {logging_mixin.py:109} INFO - [2021-11-24 13:02:06,492] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:06,503] {logging_mixin.py:109} INFO - [2021-11-24 13:02:06,503] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:02:06,511] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.049 seconds
+[2021-11-24 13:02:45,564] {processor.py:163} INFO - Started process (PID=42767) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:02:45,575] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:02:45,575] {logging_mixin.py:109} INFO - [2021-11-24 13:02:45,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:02:45,592] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:02:45,602] {logging_mixin.py:109} INFO - [2021-11-24 13:02:45,602] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:45,610] {logging_mixin.py:109} INFO - [2021-11-24 13:02:45,610] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:02:45,632] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.070 seconds
+[2021-11-24 13:03:24,788] {processor.py:163} INFO - Started process (PID=42887) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:03:24,797] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:03:24,797] {logging_mixin.py:109} INFO - [2021-11-24 13:03:24,797] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:03:24,816] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:03:24,825] {logging_mixin.py:109} INFO - [2021-11-24 13:03:24,825] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:24,835] {logging_mixin.py:109} INFO - [2021-11-24 13:03:24,835] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:03:24,846] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.060 seconds
+[2021-11-24 13:04:03,544] {processor.py:163} INFO - Started process (PID=42947) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:04:03,548] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:04:03,549] {logging_mixin.py:109} INFO - [2021-11-24 13:04:03,549] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:04:03,581] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:04:03,589] {logging_mixin.py:109} INFO - [2021-11-24 13:04:03,589] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:03,597] {logging_mixin.py:109} INFO - [2021-11-24 13:04:03,597] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:04:03,604] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.067 seconds
+[2021-11-24 13:04:50,561] {processor.py:163} INFO - Started process (PID=43151) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:04:50,570] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:04:50,571] {logging_mixin.py:109} INFO - [2021-11-24 13:04:50,571] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:04:50,593] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:04:50,603] {logging_mixin.py:109} INFO - [2021-11-24 13:04:50,603] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:50,614] {logging_mixin.py:109} INFO - [2021-11-24 13:04:50,614] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:04:50,637] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.078 seconds
+[2021-11-24 13:05:29,256] {processor.py:163} INFO - Started process (PID=43232) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:05:29,267] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:05:29,268] {logging_mixin.py:109} INFO - [2021-11-24 13:05:29,268] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:05:29,293] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:05:29,303] {logging_mixin.py:109} INFO - [2021-11-24 13:05:29,302] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:29,311] {logging_mixin.py:109} INFO - [2021-11-24 13:05:29,311] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:05:29,335] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.080 seconds
+[2021-11-24 13:06:10,707] {processor.py:163} INFO - Started process (PID=43299) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:06:10,709] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:06:10,709] {logging_mixin.py:109} INFO - [2021-11-24 13:06:10,709] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:06:10,727] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:06:10,736] {logging_mixin.py:109} INFO - [2021-11-24 13:06:10,736] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:10,745] {logging_mixin.py:109} INFO - [2021-11-24 13:06:10,745] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:06:10,752] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.048 seconds
+[2021-11-24 13:06:51,898] {processor.py:163} INFO - Started process (PID=43382) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:06:51,909] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:06:51,910] {logging_mixin.py:109} INFO - [2021-11-24 13:06:51,910] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:06:51,941] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:06:51,950] {logging_mixin.py:109} INFO - [2021-11-24 13:06:51,950] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:51,959] {logging_mixin.py:109} INFO - [2021-11-24 13:06:51,959] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:06:51,968] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.076 seconds
+[2021-11-24 13:07:29,044] {processor.py:163} INFO - Started process (PID=43431) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:07:29,056] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:07:29,057] {logging_mixin.py:109} INFO - [2021-11-24 13:07:29,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:07:29,093] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:07:29,102] {logging_mixin.py:109} INFO - [2021-11-24 13:07:29,102] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:29,110] {logging_mixin.py:109} INFO - [2021-11-24 13:07:29,110] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:07:29,121] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.079 seconds
+[2021-11-24 13:08:08,482] {processor.py:163} INFO - Started process (PID=43495) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:08:08,484] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:08:08,486] {logging_mixin.py:109} INFO - [2021-11-24 13:08:08,485] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:08:08,512] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:08:08,522] {logging_mixin.py:109} INFO - [2021-11-24 13:08:08,522] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:08,532] {logging_mixin.py:109} INFO - [2021-11-24 13:08:08,532] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:08:08,540] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.064 seconds
+[2021-11-24 13:08:49,359] {processor.py:163} INFO - Started process (PID=43570) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:08:49,369] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:08:49,370] {logging_mixin.py:109} INFO - [2021-11-24 13:08:49,370] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:08:49,388] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:08:49,397] {logging_mixin.py:109} INFO - [2021-11-24 13:08:49,397] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:49,406] {logging_mixin.py:109} INFO - [2021-11-24 13:08:49,406] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:08:49,416] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.059 seconds
+[2021-11-24 13:09:29,656] {processor.py:163} INFO - Started process (PID=43672) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:09:29,666] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:09:29,666] {logging_mixin.py:109} INFO - [2021-11-24 13:09:29,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:09:29,696] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:09:29,707] {logging_mixin.py:109} INFO - [2021-11-24 13:09:29,707] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:29,719] {logging_mixin.py:109} INFO - [2021-11-24 13:09:29,719] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:09:29,727] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.074 seconds
+[2021-11-24 13:10:08,909] {processor.py:163} INFO - Started process (PID=43858) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:10:08,920] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:10:08,921] {logging_mixin.py:109} INFO - [2021-11-24 13:10:08,921] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:10:08,948] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:10:08,957] {logging_mixin.py:109} INFO - [2021-11-24 13:10:08,957] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:08,966] {logging_mixin.py:109} INFO - [2021-11-24 13:10:08,966] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:10:08,981] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.078 seconds
+[2021-11-24 13:10:49,333] {processor.py:163} INFO - Started process (PID=44077) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:10:49,344] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:10:49,345] {logging_mixin.py:109} INFO - [2021-11-24 13:10:49,345] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:10:49,374] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:10:49,392] {logging_mixin.py:109} INFO - [2021-11-24 13:10:49,391] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:49,408] {logging_mixin.py:109} INFO - [2021-11-24 13:10:49,408] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:10:49,419] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.090 seconds
+[2021-11-24 13:11:29,764] {processor.py:163} INFO - Started process (PID=44186) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:11:29,773] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:11:29,774] {logging_mixin.py:109} INFO - [2021-11-24 13:11:29,774] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:11:29,789] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:11:29,801] {logging_mixin.py:109} INFO - [2021-11-24 13:11:29,801] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:29,812] {logging_mixin.py:109} INFO - [2021-11-24 13:11:29,812] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:11:29,821] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.058 seconds
+[2021-11-24 13:12:09,874] {processor.py:163} INFO - Started process (PID=44293) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:12:09,877] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:12:09,878] {logging_mixin.py:109} INFO - [2021-11-24 13:12:09,878] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:12:09,905] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:12:09,914] {logging_mixin.py:109} INFO - [2021-11-24 13:12:09,914] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:09,924] {logging_mixin.py:109} INFO - [2021-11-24 13:12:09,924] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:12:09,941] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.072 seconds
+[2021-11-24 13:12:48,973] {processor.py:163} INFO - Started process (PID=44345) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:12:48,982] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:12:48,983] {logging_mixin.py:109} INFO - [2021-11-24 13:12:48,982] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:12:49,003] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:12:49,013] {logging_mixin.py:109} INFO - [2021-11-24 13:12:49,013] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:49,026] {logging_mixin.py:109} INFO - [2021-11-24 13:12:49,025] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:12:49,047] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.076 seconds
+[2021-11-24 13:13:27,968] {processor.py:163} INFO - Started process (PID=44505) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:13:27,977] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:13:27,978] {logging_mixin.py:109} INFO - [2021-11-24 13:13:27,977] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:13:27,998] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:13:28,007] {logging_mixin.py:109} INFO - [2021-11-24 13:13:28,006] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:28,015] {logging_mixin.py:109} INFO - [2021-11-24 13:13:28,015] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:13:28,047] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.082 seconds
+[2021-11-24 13:14:06,304] {processor.py:163} INFO - Started process (PID=44563) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:14:06,315] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:14:06,316] {logging_mixin.py:109} INFO - [2021-11-24 13:14:06,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:14:06,352] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:14:06,361] {logging_mixin.py:109} INFO - [2021-11-24 13:14:06,361] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:06,370] {logging_mixin.py:109} INFO - [2021-11-24 13:14:06,370] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:14:06,387] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.085 seconds
+[2021-11-24 13:14:46,361] {processor.py:163} INFO - Started process (PID=44702) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:14:46,372] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:14:46,374] {logging_mixin.py:109} INFO - [2021-11-24 13:14:46,373] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:14:46,411] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:14:46,420] {logging_mixin.py:109} INFO - [2021-11-24 13:14:46,420] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:46,429] {logging_mixin.py:109} INFO - [2021-11-24 13:14:46,429] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:14:46,436] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.082 seconds
+[2021-11-24 13:15:24,313] {processor.py:163} INFO - Started process (PID=44792) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:15:24,324] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:15:24,325] {logging_mixin.py:109} INFO - [2021-11-24 13:15:24,325] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:15:24,357] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:15:24,366] {logging_mixin.py:109} INFO - [2021-11-24 13:15:24,366] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:24,375] {logging_mixin.py:109} INFO - [2021-11-24 13:15:24,375] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:15:24,384] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.078 seconds
+[2021-11-24 13:16:05,666] {processor.py:163} INFO - Started process (PID=45266) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:16:05,676] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:16:05,677] {logging_mixin.py:109} INFO - [2021-11-24 13:16:05,676] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:16:05,707] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:16:05,719] {logging_mixin.py:109} INFO - [2021-11-24 13:16:05,719] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:05,735] {logging_mixin.py:109} INFO - [2021-11-24 13:16:05,735] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:16:05,751] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.087 seconds
+[2021-11-24 13:16:43,447] {processor.py:163} INFO - Started process (PID=45416) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:16:43,449] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:16:43,450] {logging_mixin.py:109} INFO - [2021-11-24 13:16:43,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:16:43,468] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:16:43,477] {logging_mixin.py:109} INFO - [2021-11-24 13:16:43,477] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:43,487] {logging_mixin.py:109} INFO - [2021-11-24 13:16:43,487] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:16:43,495] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.050 seconds
+[2021-11-24 13:17:19,606] {processor.py:163} INFO - Started process (PID=45555) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:17:19,615] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:17:19,615] {logging_mixin.py:109} INFO - [2021-11-24 13:17:19,615] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:17:19,634] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:17:19,646] {logging_mixin.py:109} INFO - [2021-11-24 13:17:19,646] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:19,657] {logging_mixin.py:109} INFO - [2021-11-24 13:17:19,657] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:17:19,674] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.070 seconds
+[2021-11-24 13:17:57,989] {processor.py:163} INFO - Started process (PID=45601) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:17:58,000] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:17:58,001] {logging_mixin.py:109} INFO - [2021-11-24 13:17:58,001] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:17:58,036] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:17:58,045] {logging_mixin.py:109} INFO - [2021-11-24 13:17:58,045] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:58,054] {logging_mixin.py:109} INFO - [2021-11-24 13:17:58,053] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:17:58,085] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.099 seconds
+[2021-11-24 13:18:38,566] {processor.py:163} INFO - Started process (PID=45682) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:18:38,577] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:18:38,578] {logging_mixin.py:109} INFO - [2021-11-24 13:18:38,578] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:18:38,604] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:18:38,613] {logging_mixin.py:109} INFO - [2021-11-24 13:18:38,613] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:38,622] {logging_mixin.py:109} INFO - [2021-11-24 13:18:38,622] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:18:38,631] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.068 seconds
+[2021-11-24 13:19:16,038] {processor.py:163} INFO - Started process (PID=45734) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:19:16,049] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:19:16,051] {logging_mixin.py:109} INFO - [2021-11-24 13:19:16,050] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:19:16,088] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:19:16,097] {logging_mixin.py:109} INFO - [2021-11-24 13:19:16,097] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:16,106] {logging_mixin.py:109} INFO - [2021-11-24 13:19:16,106] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:19:16,114] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.078 seconds
+[2021-11-24 13:19:57,136] {processor.py:163} INFO - Started process (PID=45787) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:19:57,146] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:19:57,146] {logging_mixin.py:109} INFO - [2021-11-24 13:19:57,146] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:19:57,169] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:19:57,179] {logging_mixin.py:109} INFO - [2021-11-24 13:19:57,179] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:57,188] {logging_mixin.py:109} INFO - [2021-11-24 13:19:57,188] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:19:57,206] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.073 seconds
+[2021-11-24 13:20:39,852] {processor.py:163} INFO - Started process (PID=45850) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:20:39,854] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:20:39,854] {logging_mixin.py:109} INFO - [2021-11-24 13:20:39,854] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:20:39,874] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:20:39,884] {logging_mixin.py:109} INFO - [2021-11-24 13:20:39,884] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:39,893] {logging_mixin.py:109} INFO - [2021-11-24 13:20:39,893] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:20:39,901] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.051 seconds
+[2021-11-24 13:21:18,786] {processor.py:163} INFO - Started process (PID=45914) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:21:18,788] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:21:18,789] {logging_mixin.py:109} INFO - [2021-11-24 13:21:18,789] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:21:18,804] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:21:18,813] {logging_mixin.py:109} INFO - [2021-11-24 13:21:18,813] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:18,822] {logging_mixin.py:109} INFO - [2021-11-24 13:21:18,822] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:21:18,830] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.045 seconds
+[2021-11-24 13:22:00,519] {processor.py:163} INFO - Started process (PID=46014) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:22:00,522] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:22:00,524] {logging_mixin.py:109} INFO - [2021-11-24 13:22:00,523] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:22:00,550] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:22:00,560] {logging_mixin.py:109} INFO - [2021-11-24 13:22:00,560] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:00,569] {logging_mixin.py:109} INFO - [2021-11-24 13:22:00,569] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:22:00,579] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.064 seconds
+[2021-11-24 13:22:39,528] {processor.py:163} INFO - Started process (PID=46077) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:22:39,531] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:22:39,533] {logging_mixin.py:109} INFO - [2021-11-24 13:22:39,532] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:22:39,564] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:22:39,573] {logging_mixin.py:109} INFO - [2021-11-24 13:22:39,573] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:39,582] {logging_mixin.py:109} INFO - [2021-11-24 13:22:39,582] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:22:39,589] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.066 seconds
+[2021-11-24 13:23:22,584] {processor.py:163} INFO - Started process (PID=46479) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:23:22,594] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:23:22,595] {logging_mixin.py:109} INFO - [2021-11-24 13:23:22,595] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:23:22,619] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:23:22,629] {logging_mixin.py:109} INFO - [2021-11-24 13:23:22,629] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:22,638] {logging_mixin.py:109} INFO - [2021-11-24 13:23:22,638] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:23:22,645] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.064 seconds
+[2021-11-24 13:24:01,164] {processor.py:163} INFO - Started process (PID=46549) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:24:01,175] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:24:01,176] {logging_mixin.py:109} INFO - [2021-11-24 13:24:01,176] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:24:01,210] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:24:01,218] {logging_mixin.py:109} INFO - [2021-11-24 13:24:01,218] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:01,227] {logging_mixin.py:109} INFO - [2021-11-24 13:24:01,227] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:24:01,243] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.086 seconds
+[2021-11-24 13:24:36,053] {processor.py:163} INFO - Started process (PID=46712) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:24:36,056] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:24:36,056] {logging_mixin.py:109} INFO - [2021-11-24 13:24:36,056] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:24:36,070] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:24:36,078] {logging_mixin.py:109} INFO - [2021-11-24 13:24:36,078] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:36,087] {logging_mixin.py:109} INFO - [2021-11-24 13:24:36,087] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:24:36,096] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.045 seconds
+[2021-11-24 13:25:13,330] {processor.py:163} INFO - Started process (PID=46794) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:25:13,333] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:25:13,334] {logging_mixin.py:109} INFO - [2021-11-24 13:25:13,334] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:25:13,355] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:25:13,367] {logging_mixin.py:109} INFO - [2021-11-24 13:25:13,367] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:13,378] {logging_mixin.py:109} INFO - [2021-11-24 13:25:13,378] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:25:13,388] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.065 seconds
+[2021-11-24 13:25:49,915] {processor.py:163} INFO - Started process (PID=46848) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:25:49,924] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:25:49,924] {logging_mixin.py:109} INFO - [2021-11-24 13:25:49,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:25:49,939] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:25:49,947] {logging_mixin.py:109} INFO - [2021-11-24 13:25:49,947] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:49,956] {logging_mixin.py:109} INFO - [2021-11-24 13:25:49,955] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:25:49,963] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.051 seconds
+[2021-11-24 13:26:32,105] {processor.py:163} INFO - Started process (PID=46932) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:26:32,115] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:26:32,116] {logging_mixin.py:109} INFO - [2021-11-24 13:26:32,116] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:26:32,148] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:26:32,158] {logging_mixin.py:109} INFO - [2021-11-24 13:26:32,158] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:32,167] {logging_mixin.py:109} INFO - [2021-11-24 13:26:32,167] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:26:32,180] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.077 seconds
+[2021-11-24 13:27:11,345] {processor.py:163} INFO - Started process (PID=47070) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:27:11,350] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:27:11,352] {logging_mixin.py:109} INFO - [2021-11-24 13:27:11,352] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:27:11,388] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:27:11,396] {logging_mixin.py:109} INFO - [2021-11-24 13:27:11,396] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:11,405] {logging_mixin.py:109} INFO - [2021-11-24 13:27:11,405] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:27:11,415] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.076 seconds
+[2021-11-24 13:27:51,359] {processor.py:163} INFO - Started process (PID=47135) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:27:51,370] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:27:51,372] {logging_mixin.py:109} INFO - [2021-11-24 13:27:51,372] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:27:51,405] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:27:51,414] {logging_mixin.py:109} INFO - [2021-11-24 13:27:51,414] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:51,423] {logging_mixin.py:109} INFO - [2021-11-24 13:27:51,423] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:27:51,431] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.079 seconds
+[2021-11-24 13:28:29,942] {processor.py:163} INFO - Started process (PID=47304) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:28:29,950] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:28:29,951] {logging_mixin.py:109} INFO - [2021-11-24 13:28:29,950] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:28:29,974] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:28:29,984] {logging_mixin.py:109} INFO - [2021-11-24 13:28:29,984] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:29,993] {logging_mixin.py:109} INFO - [2021-11-24 13:28:29,993] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:28:30,000] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.061 seconds
+[2021-11-24 13:29:06,934] {processor.py:163} INFO - Started process (PID=47397) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:29:06,936] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:29:06,937] {logging_mixin.py:109} INFO - [2021-11-24 13:29:06,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:29:06,954] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:29:06,964] {logging_mixin.py:109} INFO - [2021-11-24 13:29:06,964] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:06,977] {logging_mixin.py:109} INFO - [2021-11-24 13:29:06,976] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:29:06,985] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.058 seconds
+[2021-11-24 13:29:43,784] {processor.py:163} INFO - Started process (PID=47458) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:29:43,787] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:29:43,787] {logging_mixin.py:109} INFO - [2021-11-24 13:29:43,787] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:29:43,805] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:29:43,815] {logging_mixin.py:109} INFO - [2021-11-24 13:29:43,815] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:43,824] {logging_mixin.py:109} INFO - [2021-11-24 13:29:43,823] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:29:43,832] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.050 seconds
+[2021-11-24 13:30:20,565] {processor.py:163} INFO - Started process (PID=47542) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:30:20,567] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:30:20,568] {logging_mixin.py:109} INFO - [2021-11-24 13:30:20,568] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:30:20,590] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:30:20,600] {logging_mixin.py:109} INFO - [2021-11-24 13:30:20,600] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:20,612] {logging_mixin.py:109} INFO - [2021-11-24 13:30:20,612] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:30:20,622] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.060 seconds
+[2021-11-24 13:30:57,744] {processor.py:163} INFO - Started process (PID=47594) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:30:57,753] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:30:57,753] {logging_mixin.py:109} INFO - [2021-11-24 13:30:57,753] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:30:57,768] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:30:57,777] {logging_mixin.py:109} INFO - [2021-11-24 13:30:57,777] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:57,786] {logging_mixin.py:109} INFO - [2021-11-24 13:30:57,786] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:30:57,804] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.063 seconds
+[2021-11-24 13:31:37,013] {processor.py:163} INFO - Started process (PID=47706) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:31:37,022] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:31:37,022] {logging_mixin.py:109} INFO - [2021-11-24 13:31:37,022] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:31:37,035] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:31:37,042] {logging_mixin.py:109} INFO - [2021-11-24 13:31:37,041] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:37,049] {logging_mixin.py:109} INFO - [2021-11-24 13:31:37,049] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:31:37,069] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.057 seconds
+[2021-11-24 13:32:13,858] {processor.py:163} INFO - Started process (PID=47994) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:32:13,860] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:32:13,860] {logging_mixin.py:109} INFO - [2021-11-24 13:32:13,860] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:32:13,872] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:32:13,880] {logging_mixin.py:109} INFO - [2021-11-24 13:32:13,880] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:13,887] {logging_mixin.py:109} INFO - [2021-11-24 13:32:13,887] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:32:13,895] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.038 seconds
+[2021-11-24 13:32:50,288] {processor.py:163} INFO - Started process (PID=48396) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:32:50,297] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:32:50,297] {logging_mixin.py:109} INFO - [2021-11-24 13:32:50,297] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:32:50,312] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:32:50,320] {logging_mixin.py:109} INFO - [2021-11-24 13:32:50,320] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:50,329] {logging_mixin.py:109} INFO - [2021-11-24 13:32:50,329] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:32:50,342] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.055 seconds
+[2021-11-24 13:33:33,591] {processor.py:163} INFO - Started process (PID=48521) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:33:33,603] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:33:33,604] {logging_mixin.py:109} INFO - [2021-11-24 13:33:33,604] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:33:33,623] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:33:33,631] {logging_mixin.py:109} INFO - [2021-11-24 13:33:33,631] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:33,640] {logging_mixin.py:109} INFO - [2021-11-24 13:33:33,640] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:33:33,653] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.069 seconds
+[2021-11-24 13:34:12,514] {processor.py:163} INFO - Started process (PID=48695) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:34:12,523] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:34:12,523] {logging_mixin.py:109} INFO - [2021-11-24 13:34:12,523] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:34:12,539] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:34:12,547] {logging_mixin.py:109} INFO - [2021-11-24 13:34:12,547] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:12,556] {logging_mixin.py:109} INFO - [2021-11-24 13:34:12,556] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:34:12,564] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.052 seconds
+[2021-11-24 13:34:52,368] {processor.py:163} INFO - Started process (PID=48802) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:34:52,379] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:34:52,380] {logging_mixin.py:109} INFO - [2021-11-24 13:34:52,380] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:34:52,401] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:34:52,411] {logging_mixin.py:109} INFO - [2021-11-24 13:34:52,411] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:52,423] {logging_mixin.py:109} INFO - [2021-11-24 13:34:52,423] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:34:52,448] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.088 seconds
+[2021-11-24 13:35:30,590] {processor.py:163} INFO - Started process (PID=48918) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:35:30,601] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:35:30,603] {logging_mixin.py:109} INFO - [2021-11-24 13:35:30,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:35:30,642] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:35:30,666] {logging_mixin.py:109} INFO - [2021-11-24 13:35:30,666] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:30,689] {logging_mixin.py:109} INFO - [2021-11-24 13:35:30,689] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:35:30,719] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.133 seconds
+[2021-11-24 13:36:10,633] {processor.py:163} INFO - Started process (PID=48982) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:36:10,644] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:36:10,646] {logging_mixin.py:109} INFO - [2021-11-24 13:36:10,646] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:36:10,678] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:36:10,687] {logging_mixin.py:109} INFO - [2021-11-24 13:36:10,687] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:10,696] {logging_mixin.py:109} INFO - [2021-11-24 13:36:10,696] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:36:10,704] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.077 seconds
+[2021-11-24 13:36:50,651] {processor.py:163} INFO - Started process (PID=49121) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:36:50,655] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:36:50,657] {logging_mixin.py:109} INFO - [2021-11-24 13:36:50,657] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:36:50,690] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:36:50,698] {logging_mixin.py:109} INFO - [2021-11-24 13:36:50,698] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:50,710] {logging_mixin.py:109} INFO - [2021-11-24 13:36:50,710] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:36:50,720] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.075 seconds
+[2021-11-24 13:37:31,847] {processor.py:163} INFO - Started process (PID=49274) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:37:31,856] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:37:31,857] {logging_mixin.py:109} INFO - [2021-11-24 13:37:31,857] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:37:31,881] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:37:31,891] {logging_mixin.py:109} INFO - [2021-11-24 13:37:31,891] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:31,900] {logging_mixin.py:109} INFO - [2021-11-24 13:37:31,900] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:37:31,913] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.068 seconds
+[2021-11-24 13:38:17,571] {processor.py:163} INFO - Started process (PID=49383) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:38:17,576] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:38:17,578] {logging_mixin.py:109} INFO - [2021-11-24 13:38:17,577] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:38:17,610] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:38:17,619] {logging_mixin.py:109} INFO - [2021-11-24 13:38:17,619] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:17,628] {logging_mixin.py:109} INFO - [2021-11-24 13:38:17,627] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:38:17,635] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.070 seconds
+[2021-11-24 13:39:02,923] {processor.py:163} INFO - Started process (PID=49460) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:39:02,925] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:39:02,926] {logging_mixin.py:109} INFO - [2021-11-24 13:39:02,925] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:39:02,942] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:39:02,951] {logging_mixin.py:109} INFO - [2021-11-24 13:39:02,951] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:02,960] {logging_mixin.py:109} INFO - [2021-11-24 13:39:02,960] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:39:02,967] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.046 seconds
+[2021-11-24 13:39:41,518] {processor.py:163} INFO - Started process (PID=49610) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:39:41,527] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:39:41,527] {logging_mixin.py:109} INFO - [2021-11-24 13:39:41,527] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:39:41,543] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:39:41,552] {logging_mixin.py:109} INFO - [2021-11-24 13:39:41,552] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:41,560] {logging_mixin.py:109} INFO - [2021-11-24 13:39:41,560] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:39:41,574] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.058 seconds
+[2021-11-24 13:40:20,348] {processor.py:163} INFO - Started process (PID=49698) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:40:20,349] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:40:20,350] {logging_mixin.py:109} INFO - [2021-11-24 13:40:20,350] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:40:20,365] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:40:20,373] {logging_mixin.py:109} INFO - [2021-11-24 13:40:20,373] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:20,382] {logging_mixin.py:109} INFO - [2021-11-24 13:40:20,382] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:40:20,391] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.045 seconds
+[2021-11-24 13:41:00,820] {processor.py:163} INFO - Started process (PID=49774) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:41:00,829] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:41:00,830] {logging_mixin.py:109} INFO - [2021-11-24 13:41:00,830] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:41:00,845] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:41:00,853] {logging_mixin.py:109} INFO - [2021-11-24 13:41:00,853] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:00,862] {logging_mixin.py:109} INFO - [2021-11-24 13:41:00,862] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:41:00,896] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.078 seconds
+[2021-11-24 13:41:36,095] {processor.py:163} INFO - Started process (PID=49842) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:41:36,104] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:41:36,105] {logging_mixin.py:109} INFO - [2021-11-24 13:41:36,104] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:41:36,119] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:41:36,127] {logging_mixin.py:109} INFO - [2021-11-24 13:41:36,127] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:36,136] {logging_mixin.py:109} INFO - [2021-11-24 13:41:36,136] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:41:36,145] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.052 seconds
+[2021-11-24 13:42:12,615] {processor.py:163} INFO - Started process (PID=49979) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:42:12,624] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py for tasks to queue
+[2021-11-24 13:42:12,625] {logging_mixin.py:109} INFO - [2021-11-24 13:42:12,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:42:12,646] {processor.py:632} INFO - DAG(s) dict_keys(['example_kubernetes_executor_config']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py
+[2021-11-24 13:42:12,656] {logging_mixin.py:109} INFO - [2021-11-24 13:42:12,656] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:42:12,665] {logging_mixin.py:109} INFO - [2021-11-24 13:42:12,665] {dag.py:2921} INFO - Setting next_dagrun for example_kubernetes_executor_config to None
+[2021-11-24 13:42:12,672] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor_config.py took 0.059 seconds

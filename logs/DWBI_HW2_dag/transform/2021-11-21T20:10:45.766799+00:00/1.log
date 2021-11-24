@@ -1,0 +1,24 @@
+[2021-11-21 21:15:17,302] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.transform manual__2021-11-21T20:10:45.766799+00:00 [queued]>
+[2021-11-21 21:15:17,308] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.transform manual__2021-11-21T20:10:45.766799+00:00 [queued]>
+[2021-11-21 21:15:17,308] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:15:17,308] {taskinstance.py:1242} INFO - Starting attempt 1 of 6
+[2021-11-21 21:15:17,308] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:15:17,318] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): transform> on 2021-11-21 20:10:45.766799+00:00
+[2021-11-21 21:15:17,321] {standard_task_runner.py:52} INFO - Started process 32490 to run task
+[2021-11-21 21:15:17,324] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'DWBI_HW2_dag', 'transform', 'manual__2021-11-21T20:10:45.766799+00:00', '--job-id', '95', '--raw', '--subdir', '/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py', '--cfg-path', '/tmp/tmp03anevn8', '--error-file', '/tmp/tmpajm_6oci']
+[2021-11-21 21:15:17,325] {standard_task_runner.py:77} INFO - Job 95: Subtask transform
+[2021-11-21 21:15:17,348] {logging_mixin.py:109} INFO - Running <TaskInstance: DWBI_HW2_dag.transform manual__2021-11-21T20:10:45.766799+00:00 [running]> on host dj-XPS
+[2021-11-21 21:15:17,376] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=dj
+AIRFLOW_CTX_DAG_ID=DWBI_HW2_dag
+AIRFLOW_CTX_TASK_ID=transform
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-21T20:10:45.766799+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-21T20:10:45.766799+00:00
+[2021-11-21 21:15:17,384] {logging_mixin.py:109} INFO - Successfully fetched the data
+[2021-11-21 21:15:17,386] {logging_mixin.py:109} INFO - True
+[2021-11-21 21:15:17,386] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-21 21:15:17,473] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=DWBI_HW2_dag, task_id=transform, execution_date=20211121T201045, start_date=20211121T201517, end_date=20211121T201517
+[2021-11-21 21:15:17,536] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-21 21:15:17,557] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

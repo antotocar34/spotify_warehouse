@@ -1,0 +1,441 @@
+[2021-11-24 13:01:58,445] {processor.py:163} INFO - Started process (PID=42700) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:01:58,446] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:01:58,447] {logging_mixin.py:109} INFO - [2021-11-24 13:01:58,447] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:01:58,462] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:01:58,470] {logging_mixin.py:109} INFO - [2021-11-24 13:01:58,470] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:01:58,481] {logging_mixin.py:109} INFO - [2021-11-24 13:01:58,481] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:01:58.481415+00:00
+[2021-11-24 13:01:58,497] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-11-24 13:02:35,312] {processor.py:163} INFO - Started process (PID=42750) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:02:35,315] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:02:35,316] {logging_mixin.py:109} INFO - [2021-11-24 13:02:35,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:02:35,346] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:02:35,354] {logging_mixin.py:109} INFO - [2021-11-24 13:02:35,354] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:35,364] {logging_mixin.py:109} INFO - [2021-11-24 13:02:35,364] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:02:35.364093+00:00
+[2021-11-24 13:02:35,372] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2021-11-24 13:03:14,634] {processor.py:163} INFO - Started process (PID=42865) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:03:14,643] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:03:14,644] {logging_mixin.py:109} INFO - [2021-11-24 13:03:14,644] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:03:14,664] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:03:14,675] {logging_mixin.py:109} INFO - [2021-11-24 13:03:14,675] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:14,685] {logging_mixin.py:109} INFO - [2021-11-24 13:03:14,684] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:03:14.684764+00:00
+[2021-11-24 13:03:14,693] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2021-11-24 13:03:53,437] {processor.py:163} INFO - Started process (PID=42935) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:03:53,449] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:03:53,451] {logging_mixin.py:109} INFO - [2021-11-24 13:03:53,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:03:53,485] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:03:53,495] {logging_mixin.py:109} INFO - [2021-11-24 13:03:53,495] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:53,506] {logging_mixin.py:109} INFO - [2021-11-24 13:03:53,506] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:03:53.505765+00:00
+[2021-11-24 13:03:53,528] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.098 seconds
+[2021-11-24 13:04:32,779] {processor.py:163} INFO - Started process (PID=42989) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:04:32,784] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:04:32,786] {logging_mixin.py:109} INFO - [2021-11-24 13:04:32,785] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:04:32,812] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:04:32,822] {logging_mixin.py:109} INFO - [2021-11-24 13:04:32,822] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:32,836] {logging_mixin.py:109} INFO - [2021-11-24 13:04:32,836] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:04:32.836019+00:00
+[2021-11-24 13:04:32,848] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2021-11-24 13:05:14,949] {processor.py:163} INFO - Started process (PID=43210) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:05:14,959] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:05:14,959] {logging_mixin.py:109} INFO - [2021-11-24 13:05:14,959] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:05:14,982] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:05:14,991] {logging_mixin.py:109} INFO - [2021-11-24 13:05:14,991] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:15,000] {logging_mixin.py:109} INFO - [2021-11-24 13:05:15,000] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:05:15.000085+00:00
+[2021-11-24 13:05:15,007] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-11-24 13:05:55,542] {processor.py:163} INFO - Started process (PID=43274) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:05:55,545] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:05:55,546] {logging_mixin.py:109} INFO - [2021-11-24 13:05:55,546] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:05:55,563] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:05:55,572] {logging_mixin.py:109} INFO - [2021-11-24 13:05:55,572] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:55,582] {logging_mixin.py:109} INFO - [2021-11-24 13:05:55,582] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:05:55.581913+00:00
+[2021-11-24 13:05:55,589] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-11-24 13:06:34,649] {processor.py:163} INFO - Started process (PID=43336) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:06:34,658] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:06:34,658] {logging_mixin.py:109} INFO - [2021-11-24 13:06:34,658] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:06:34,673] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:06:34,681] {logging_mixin.py:109} INFO - [2021-11-24 13:06:34,681] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:34,691] {logging_mixin.py:109} INFO - [2021-11-24 13:06:34,691] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:06:34.690962+00:00
+[2021-11-24 13:06:34,699] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-11-24 13:07:14,234] {processor.py:163} INFO - Started process (PID=43417) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:07:14,236] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:07:14,237] {logging_mixin.py:109} INFO - [2021-11-24 13:07:14,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:07:14,254] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:07:14,264] {logging_mixin.py:109} INFO - [2021-11-24 13:07:14,264] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:14,274] {logging_mixin.py:109} INFO - [2021-11-24 13:07:14,274] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:07:14.273942+00:00
+[2021-11-24 13:07:14,281] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-11-24 13:07:51,891] {processor.py:163} INFO - Started process (PID=43465) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:07:51,900] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:07:51,901] {logging_mixin.py:109} INFO - [2021-11-24 13:07:51,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:07:51,927] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:07:51,936] {logging_mixin.py:109} INFO - [2021-11-24 13:07:51,936] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:51,945] {logging_mixin.py:109} INFO - [2021-11-24 13:07:51,945] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:07:51.945445+00:00
+[2021-11-24 13:07:51,958] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2021-11-24 13:08:30,880] {processor.py:163} INFO - Started process (PID=43531) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:08:30,882] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:08:30,882] {logging_mixin.py:109} INFO - [2021-11-24 13:08:30,882] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:08:30,899] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:08:30,907] {logging_mixin.py:109} INFO - [2021-11-24 13:08:30,907] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:30,917] {logging_mixin.py:109} INFO - [2021-11-24 13:08:30,917] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:08:30.917202+00:00
+[2021-11-24 13:08:30,925] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2021-11-24 13:09:07,552] {processor.py:163} INFO - Started process (PID=43595) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:09:07,556] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:09:07,556] {logging_mixin.py:109} INFO - [2021-11-24 13:09:07,556] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:09:07,577] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:09:07,587] {logging_mixin.py:109} INFO - [2021-11-24 13:09:07,587] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:07,597] {logging_mixin.py:109} INFO - [2021-11-24 13:09:07,597] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:09:07.597257+00:00
+[2021-11-24 13:09:07,604] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-11-24 13:09:48,708] {processor.py:163} INFO - Started process (PID=43759) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:09:48,718] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:09:48,719] {logging_mixin.py:109} INFO - [2021-11-24 13:09:48,719] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:09:48,744] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:09:48,752] {logging_mixin.py:109} INFO - [2021-11-24 13:09:48,752] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:48,761] {logging_mixin.py:109} INFO - [2021-11-24 13:09:48,761] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:09:48.761004+00:00
+[2021-11-24 13:09:48,784] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2021-11-24 13:10:25,776] {processor.py:163} INFO - Started process (PID=43965) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:10:25,786] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:10:25,786] {logging_mixin.py:109} INFO - [2021-11-24 13:10:25,786] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:10:25,812] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:10:25,824] {logging_mixin.py:109} INFO - [2021-11-24 13:10:25,823] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:25,833] {logging_mixin.py:109} INFO - [2021-11-24 13:10:25,833] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:10:25.833600+00:00
+[2021-11-24 13:10:25,841] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2021-11-24 13:11:05,001] {processor.py:163} INFO - Started process (PID=44128) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:11:05,011] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:11:05,013] {logging_mixin.py:109} INFO - [2021-11-24 13:11:05,013] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:11:05,039] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:11:05,046] {logging_mixin.py:109} INFO - [2021-11-24 13:11:05,046] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:05,055] {logging_mixin.py:109} INFO - [2021-11-24 13:11:05,055] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:11:05.055162+00:00
+[2021-11-24 13:11:05,064] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2021-11-24 13:11:44,265] {processor.py:163} INFO - Started process (PID=44244) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:11:44,276] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:11:44,278] {logging_mixin.py:109} INFO - [2021-11-24 13:11:44,277] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:11:44,293] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:11:44,300] {logging_mixin.py:109} INFO - [2021-11-24 13:11:44,300] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:44,310] {logging_mixin.py:109} INFO - [2021-11-24 13:11:44,310] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:11:44.309794+00:00
+[2021-11-24 13:11:44,327] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2021-11-24 13:12:24,401] {processor.py:163} INFO - Started process (PID=44309) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:12:24,403] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:12:24,404] {logging_mixin.py:109} INFO - [2021-11-24 13:12:24,403] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:12:24,428] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:12:24,437] {logging_mixin.py:109} INFO - [2021-11-24 13:12:24,437] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:24,446] {logging_mixin.py:109} INFO - [2021-11-24 13:12:24,446] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:12:24.446427+00:00
+[2021-11-24 13:12:24,456] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-11-24 13:13:02,249] {processor.py:163} INFO - Started process (PID=44425) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:13:02,261] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:13:02,262] {logging_mixin.py:109} INFO - [2021-11-24 13:13:02,262] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:13:02,292] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:13:02,300] {logging_mixin.py:109} INFO - [2021-11-24 13:13:02,300] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:02,309] {logging_mixin.py:109} INFO - [2021-11-24 13:13:02,309] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:13:02.309611+00:00
+[2021-11-24 13:13:02,331] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2021-11-24 13:13:43,719] {processor.py:163} INFO - Started process (PID=44526) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:13:43,731] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:13:43,732] {logging_mixin.py:109} INFO - [2021-11-24 13:13:43,732] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:13:43,759] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:13:43,767] {logging_mixin.py:109} INFO - [2021-11-24 13:13:43,767] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:43,776] {logging_mixin.py:109} INFO - [2021-11-24 13:13:43,776] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:13:43.776615+00:00
+[2021-11-24 13:13:43,805] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2021-11-24 13:14:20,602] {processor.py:163} INFO - Started process (PID=44586) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:14:20,610] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:14:20,611] {logging_mixin.py:109} INFO - [2021-11-24 13:14:20,611] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:14:20,624] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:14:20,631] {logging_mixin.py:109} INFO - [2021-11-24 13:14:20,631] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:20,641] {logging_mixin.py:109} INFO - [2021-11-24 13:14:20,641] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:14:20.640795+00:00
+[2021-11-24 13:14:20,671] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2021-11-24 13:15:00,841] {processor.py:163} INFO - Started process (PID=44741) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:15:00,852] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:15:00,854] {logging_mixin.py:109} INFO - [2021-11-24 13:15:00,854] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:15:00,890] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:15:00,899] {logging_mixin.py:109} INFO - [2021-11-24 13:15:00,899] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:00,908] {logging_mixin.py:109} INFO - [2021-11-24 13:15:00,908] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:15:00.908522+00:00
+[2021-11-24 13:15:00,941] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.102 seconds
+[2021-11-24 13:15:39,895] {processor.py:163} INFO - Started process (PID=44819) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:15:39,899] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:15:39,900] {logging_mixin.py:109} INFO - [2021-11-24 13:15:39,900] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:15:39,919] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:15:39,931] {logging_mixin.py:109} INFO - [2021-11-24 13:15:39,931] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:39,944] {logging_mixin.py:109} INFO - [2021-11-24 13:15:39,944] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:15:39.944343+00:00
+[2021-11-24 13:15:39,955] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2021-11-24 13:16:21,388] {processor.py:163} INFO - Started process (PID=45346) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:16:21,398] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:16:21,399] {logging_mixin.py:109} INFO - [2021-11-24 13:16:21,398] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:16:21,418] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:16:21,427] {logging_mixin.py:109} INFO - [2021-11-24 13:16:21,427] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:21,436] {logging_mixin.py:109} INFO - [2021-11-24 13:16:21,436] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:16:21.436518+00:00
+[2021-11-24 13:16:21,457] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2021-11-24 13:17:00,156] {processor.py:163} INFO - Started process (PID=45445) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:17:00,165] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:17:00,166] {logging_mixin.py:109} INFO - [2021-11-24 13:17:00,166] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:17:00,188] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:17:00,199] {logging_mixin.py:109} INFO - [2021-11-24 13:17:00,199] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:00,209] {logging_mixin.py:109} INFO - [2021-11-24 13:17:00,209] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:17:00.209192+00:00
+[2021-11-24 13:17:00,217] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2021-11-24 13:17:40,811] {processor.py:163} INFO - Started process (PID=45576) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:17:40,824] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:17:40,825] {logging_mixin.py:109} INFO - [2021-11-24 13:17:40,825] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:17:40,856] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:17:40,864] {logging_mixin.py:109} INFO - [2021-11-24 13:17:40,864] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:40,873] {logging_mixin.py:109} INFO - [2021-11-24 13:17:40,873] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:17:40.873450+00:00
+[2021-11-24 13:17:40,887] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2021-11-24 13:18:20,015] {processor.py:163} INFO - Started process (PID=45641) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:18:20,024] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:18:20,025] {logging_mixin.py:109} INFO - [2021-11-24 13:18:20,024] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:18:20,036] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:18:20,043] {logging_mixin.py:109} INFO - [2021-11-24 13:18:20,043] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:20,052] {logging_mixin.py:109} INFO - [2021-11-24 13:18:20,052] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:18:20.051982+00:00
+[2021-11-24 13:18:20,059] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2021-11-24 13:18:59,258] {processor.py:163} INFO - Started process (PID=45712) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:18:59,262] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:18:59,264] {logging_mixin.py:109} INFO - [2021-11-24 13:18:59,263] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:18:59,291] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:18:59,298] {logging_mixin.py:109} INFO - [2021-11-24 13:18:59,298] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:59,307] {logging_mixin.py:109} INFO - [2021-11-24 13:18:59,307] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:18:59.307227+00:00
+[2021-11-24 13:18:59,315] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2021-11-24 13:19:38,179] {processor.py:163} INFO - Started process (PID=45765) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:19:38,188] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:19:38,189] {logging_mixin.py:109} INFO - [2021-11-24 13:19:38,189] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:19:38,211] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:19:38,222] {logging_mixin.py:109} INFO - [2021-11-24 13:19:38,222] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:38,232] {logging_mixin.py:109} INFO - [2021-11-24 13:19:38,232] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:19:38.231904+00:00
+[2021-11-24 13:19:38,245] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2021-11-24 13:20:21,292] {processor.py:163} INFO - Started process (PID=45824) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:20:21,301] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:20:21,301] {logging_mixin.py:109} INFO - [2021-11-24 13:20:21,301] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:20:21,314] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:20:21,321] {logging_mixin.py:109} INFO - [2021-11-24 13:20:21,321] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:21,329] {logging_mixin.py:109} INFO - [2021-11-24 13:20:21,329] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:20:21.329540+00:00
+[2021-11-24 13:20:21,359] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2021-11-24 13:20:58,082] {processor.py:163} INFO - Started process (PID=45880) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:20:58,091] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:20:58,092] {logging_mixin.py:109} INFO - [2021-11-24 13:20:58,092] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:20:58,110] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:20:58,119] {logging_mixin.py:109} INFO - [2021-11-24 13:20:58,119] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:58,129] {logging_mixin.py:109} INFO - [2021-11-24 13:20:58,129] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:20:58.129692+00:00
+[2021-11-24 13:20:58,137] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-11-24 13:21:36,375] {processor.py:163} INFO - Started process (PID=45968) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:21:36,386] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:21:36,388] {logging_mixin.py:109} INFO - [2021-11-24 13:21:36,388] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:21:36,417] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:21:36,426] {logging_mixin.py:109} INFO - [2021-11-24 13:21:36,425] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:36,435] {logging_mixin.py:109} INFO - [2021-11-24 13:21:36,435] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:21:36.434849+00:00
+[2021-11-24 13:21:36,451] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2021-11-24 13:22:15,966] {processor.py:163} INFO - Started process (PID=46051) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:22:15,976] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:22:15,978] {logging_mixin.py:109} INFO - [2021-11-24 13:22:15,978] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:22:16,007] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:22:16,015] {logging_mixin.py:109} INFO - [2021-11-24 13:22:16,015] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:16,025] {logging_mixin.py:109} INFO - [2021-11-24 13:22:16,025] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:22:16.024863+00:00
+[2021-11-24 13:22:16,032] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2021-11-24 13:22:56,606] {processor.py:163} INFO - Started process (PID=46354) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:22:56,608] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:22:56,608] {logging_mixin.py:109} INFO - [2021-11-24 13:22:56,608] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:22:56,626] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:22:56,636] {logging_mixin.py:109} INFO - [2021-11-24 13:22:56,636] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:56,651] {logging_mixin.py:109} INFO - [2021-11-24 13:22:56,651] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:22:56.650912+00:00
+[2021-11-24 13:22:56,663] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-11-24 13:23:37,062] {processor.py:163} INFO - Started process (PID=46497) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:23:37,066] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:23:37,067] {logging_mixin.py:109} INFO - [2021-11-24 13:23:37,067] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:23:37,083] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:23:37,091] {logging_mixin.py:109} INFO - [2021-11-24 13:23:37,090] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:37,100] {logging_mixin.py:109} INFO - [2021-11-24 13:23:37,100] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:23:37.099855+00:00
+[2021-11-24 13:23:37,107] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-11-24 13:24:14,416] {processor.py:163} INFO - Started process (PID=46566) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:24:14,421] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:24:14,422] {logging_mixin.py:109} INFO - [2021-11-24 13:24:14,421] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:24:14,453] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:24:14,461] {logging_mixin.py:109} INFO - [2021-11-24 13:24:14,461] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:14,470] {logging_mixin.py:109} INFO - [2021-11-24 13:24:14,470] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:24:14.470270+00:00
+[2021-11-24 13:24:14,478] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2021-11-24 13:24:51,849] {processor.py:163} INFO - Started process (PID=46734) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:24:51,860] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:24:51,862] {logging_mixin.py:109} INFO - [2021-11-24 13:24:51,861] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:24:51,888] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:24:51,896] {logging_mixin.py:109} INFO - [2021-11-24 13:24:51,896] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:51,907] {logging_mixin.py:109} INFO - [2021-11-24 13:24:51,907] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:24:51.907486+00:00
+[2021-11-24 13:24:51,916] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2021-11-24 13:25:28,926] {processor.py:163} INFO - Started process (PID=46814) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:25:28,937] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:25:28,938] {logging_mixin.py:109} INFO - [2021-11-24 13:25:28,938] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:25:28,971] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:25:28,979] {logging_mixin.py:109} INFO - [2021-11-24 13:25:28,979] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:28,989] {logging_mixin.py:109} INFO - [2021-11-24 13:25:28,989] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:25:28.988936+00:00
+[2021-11-24 13:25:29,016] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.097 seconds
+[2021-11-24 13:26:09,977] {processor.py:163} INFO - Started process (PID=46896) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:26:09,988] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:26:09,990] {logging_mixin.py:109} INFO - [2021-11-24 13:26:09,990] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:26:10,020] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:26:10,028] {logging_mixin.py:109} INFO - [2021-11-24 13:26:10,028] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:10,037] {logging_mixin.py:109} INFO - [2021-11-24 13:26:10,037] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:26:10.037261+00:00
+[2021-11-24 13:26:10,045] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2021-11-24 13:26:46,329] {processor.py:163} INFO - Started process (PID=46988) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:26:46,330] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:26:46,331] {logging_mixin.py:109} INFO - [2021-11-24 13:26:46,331] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:26:46,348] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:26:46,359] {logging_mixin.py:109} INFO - [2021-11-24 13:26:46,358] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:46,373] {logging_mixin.py:109} INFO - [2021-11-24 13:26:46,373] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:26:46.373183+00:00
+[2021-11-24 13:26:46,391] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2021-11-24 13:27:25,309] {processor.py:163} INFO - Started process (PID=47093) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:27:25,320] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:27:25,321] {logging_mixin.py:109} INFO - [2021-11-24 13:27:25,321] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:27:25,338] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:27:25,346] {logging_mixin.py:109} INFO - [2021-11-24 13:27:25,346] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:25,356] {logging_mixin.py:109} INFO - [2021-11-24 13:27:25,356] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:27:25.356018+00:00
+[2021-11-24 13:27:25,363] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-11-24 13:28:03,547] {processor.py:163} INFO - Started process (PID=47215) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:28:03,549] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:28:03,550] {logging_mixin.py:109} INFO - [2021-11-24 13:28:03,550] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:28:03,566] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:28:03,581] {logging_mixin.py:109} INFO - [2021-11-24 13:28:03,580] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:03,601] {logging_mixin.py:109} INFO - [2021-11-24 13:28:03,601] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:28:03.600839+00:00
+[2021-11-24 13:28:03,612] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2021-11-24 13:28:42,699] {processor.py:163} INFO - Started process (PID=47336) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:28:42,701] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:28:42,702] {logging_mixin.py:109} INFO - [2021-11-24 13:28:42,702] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:28:42,714] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:28:42,722] {logging_mixin.py:109} INFO - [2021-11-24 13:28:42,722] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:42,731] {logging_mixin.py:109} INFO - [2021-11-24 13:28:42,731] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:28:42.731171+00:00
+[2021-11-24 13:28:42,739] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2021-11-24 13:29:19,942] {processor.py:163} INFO - Started process (PID=47422) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:29:19,946] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:29:19,947] {logging_mixin.py:109} INFO - [2021-11-24 13:29:19,946] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:29:19,976] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:29:19,987] {logging_mixin.py:109} INFO - [2021-11-24 13:29:19,986] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:19,996] {logging_mixin.py:109} INFO - [2021-11-24 13:29:19,996] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:29:19.996039+00:00
+[2021-11-24 13:29:20,003] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2021-11-24 13:29:55,468] {processor.py:163} INFO - Started process (PID=47479) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:29:55,477] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:29:55,477] {logging_mixin.py:109} INFO - [2021-11-24 13:29:55,477] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:29:55,495] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:29:55,505] {logging_mixin.py:109} INFO - [2021-11-24 13:29:55,505] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:55,514] {logging_mixin.py:109} INFO - [2021-11-24 13:29:55,514] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:29:55.514554+00:00
+[2021-11-24 13:29:55,536] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2021-11-24 13:30:32,132] {processor.py:163} INFO - Started process (PID=47559) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:30:32,142] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:30:32,143] {logging_mixin.py:109} INFO - [2021-11-24 13:30:32,143] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:30:32,167] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:30:32,175] {logging_mixin.py:109} INFO - [2021-11-24 13:30:32,175] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:32,184] {logging_mixin.py:109} INFO - [2021-11-24 13:30:32,184] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:30:32.183825+00:00
+[2021-11-24 13:30:32,201] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2021-11-24 13:31:08,305] {processor.py:163} INFO - Started process (PID=47611) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:31:08,314] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:31:08,315] {logging_mixin.py:109} INFO - [2021-11-24 13:31:08,315] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:31:08,332] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:31:08,341] {logging_mixin.py:109} INFO - [2021-11-24 13:31:08,340] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:08,350] {logging_mixin.py:109} INFO - [2021-11-24 13:31:08,349] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:31:08.349704+00:00
+[2021-11-24 13:31:08,372] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2021-11-24 13:31:49,620] {processor.py:163} INFO - Started process (PID=47739) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:31:49,630] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:31:49,632] {logging_mixin.py:109} INFO - [2021-11-24 13:31:49,632] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:31:49,665] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:31:49,674] {logging_mixin.py:109} INFO - [2021-11-24 13:31:49,674] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:49,683] {logging_mixin.py:109} INFO - [2021-11-24 13:31:49,683] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:31:49.683370+00:00
+[2021-11-24 13:31:49,704] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2021-11-24 13:32:24,761] {processor.py:163} INFO - Started process (PID=48139) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:32:24,763] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:32:24,764] {logging_mixin.py:109} INFO - [2021-11-24 13:32:24,763] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:32:24,778] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:32:24,785] {logging_mixin.py:109} INFO - [2021-11-24 13:32:24,785] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:24,795] {logging_mixin.py:109} INFO - [2021-11-24 13:32:24,795] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:32:24.794814+00:00
+[2021-11-24 13:32:24,804] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-11-24 13:33:00,385] {processor.py:163} INFO - Started process (PID=48417) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:33:00,394] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:33:00,394] {logging_mixin.py:109} INFO - [2021-11-24 13:33:00,394] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:33:00,407] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:33:00,414] {logging_mixin.py:109} INFO - [2021-11-24 13:33:00,414] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:00,423] {logging_mixin.py:109} INFO - [2021-11-24 13:33:00,423] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:33:00.423485+00:00
+[2021-11-24 13:33:00,432] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-11-24 13:33:41,061] {processor.py:163} INFO - Started process (PID=48528) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:33:41,071] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:33:41,072] {logging_mixin.py:109} INFO - [2021-11-24 13:33:41,071] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:33:41,087] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:33:41,094] {logging_mixin.py:109} INFO - [2021-11-24 13:33:41,094] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:41,103] {logging_mixin.py:109} INFO - [2021-11-24 13:33:41,103] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:33:41.103097+00:00
+[2021-11-24 13:33:41,111] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-11-24 13:34:20,332] {processor.py:163} INFO - Started process (PID=48714) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:34:20,341] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:34:20,342] {logging_mixin.py:109} INFO - [2021-11-24 13:34:20,342] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:34:20,355] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:34:20,362] {logging_mixin.py:109} INFO - [2021-11-24 13:34:20,362] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:20,372] {logging_mixin.py:109} INFO - [2021-11-24 13:34:20,372] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:34:20.372241+00:00
+[2021-11-24 13:34:20,394] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-11-24 13:35:00,945] {processor.py:163} INFO - Started process (PID=48830) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:35:00,955] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:35:00,955] {logging_mixin.py:109} INFO - [2021-11-24 13:35:00,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:35:00,973] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:35:00,982] {logging_mixin.py:109} INFO - [2021-11-24 13:35:00,982] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:00,992] {logging_mixin.py:109} INFO - [2021-11-24 13:35:00,991] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:35:00.991775+00:00
+[2021-11-24 13:35:01,010] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2021-11-24 13:35:38,187] {processor.py:163} INFO - Started process (PID=48929) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:35:38,190] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:35:38,191] {logging_mixin.py:109} INFO - [2021-11-24 13:35:38,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:35:38,208] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:35:38,216] {logging_mixin.py:109} INFO - [2021-11-24 13:35:38,215] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:38,225] {logging_mixin.py:109} INFO - [2021-11-24 13:35:38,225] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:35:38.224742+00:00
+[2021-11-24 13:35:38,233] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-11-24 13:36:17,604] {processor.py:163} INFO - Started process (PID=49028) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:36:17,606] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:36:17,606] {logging_mixin.py:109} INFO - [2021-11-24 13:36:17,606] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:36:17,621] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:36:17,628] {logging_mixin.py:109} INFO - [2021-11-24 13:36:17,628] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:17,640] {logging_mixin.py:109} INFO - [2021-11-24 13:36:17,640] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:36:17.639839+00:00
+[2021-11-24 13:36:17,649] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-11-24 13:36:59,233] {processor.py:163} INFO - Started process (PID=49148) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:36:59,244] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:36:59,246] {logging_mixin.py:109} INFO - [2021-11-24 13:36:59,245] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:36:59,277] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:36:59,285] {logging_mixin.py:109} INFO - [2021-11-24 13:36:59,285] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:59,293] {logging_mixin.py:109} INFO - [2021-11-24 13:36:59,293] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:36:59.293602+00:00
+[2021-11-24 13:36:59,301] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2021-11-24 13:37:37,657] {processor.py:163} INFO - Started process (PID=49294) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:37:37,666] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:37:37,667] {logging_mixin.py:109} INFO - [2021-11-24 13:37:37,667] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:37:37,682] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:37:37,689] {logging_mixin.py:109} INFO - [2021-11-24 13:37:37,689] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:37,699] {logging_mixin.py:109} INFO - [2021-11-24 13:37:37,698] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:37:37.698704+00:00
+[2021-11-24 13:37:37,722] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2021-11-24 13:38:16,393] {processor.py:163} INFO - Started process (PID=49378) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:38:16,402] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:38:16,402] {logging_mixin.py:109} INFO - [2021-11-24 13:38:16,402] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:38:16,418] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:38:16,427] {logging_mixin.py:109} INFO - [2021-11-24 13:38:16,427] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:16,440] {logging_mixin.py:109} INFO - [2021-11-24 13:38:16,440] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:38:16.440565+00:00
+[2021-11-24 13:38:16,448] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-11-24 13:39:00,274] {processor.py:163} INFO - Started process (PID=49457) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:39:00,284] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:39:00,285] {logging_mixin.py:109} INFO - [2021-11-24 13:39:00,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:39:00,312] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:39:00,323] {logging_mixin.py:109} INFO - [2021-11-24 13:39:00,323] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:00,335] {logging_mixin.py:109} INFO - [2021-11-24 13:39:00,335] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:39:00.335034+00:00
+[2021-11-24 13:39:00,346] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2021-11-24 13:39:38,045] {processor.py:163} INFO - Started process (PID=49605) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:39:38,054] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:39:38,054] {logging_mixin.py:109} INFO - [2021-11-24 13:39:38,054] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:39:38,068] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:39:38,076] {logging_mixin.py:109} INFO - [2021-11-24 13:39:38,076] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:38,085] {logging_mixin.py:109} INFO - [2021-11-24 13:39:38,085] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:39:38.085526+00:00
+[2021-11-24 13:39:38,093] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-11-24 13:40:18,340] {processor.py:163} INFO - Started process (PID=49692) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:40:18,349] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:40:18,350] {logging_mixin.py:109} INFO - [2021-11-24 13:40:18,350] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:40:18,374] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:40:18,383] {logging_mixin.py:109} INFO - [2021-11-24 13:40:18,383] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:18,392] {logging_mixin.py:109} INFO - [2021-11-24 13:40:18,392] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:40:18.392563+00:00
+[2021-11-24 13:40:18,419] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2021-11-24 13:40:57,385] {processor.py:163} INFO - Started process (PID=49771) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:40:57,390] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:40:57,392] {logging_mixin.py:109} INFO - [2021-11-24 13:40:57,392] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:40:57,420] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:40:57,428] {logging_mixin.py:109} INFO - [2021-11-24 13:40:57,428] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:57,437] {logging_mixin.py:109} INFO - [2021-11-24 13:40:57,437] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:40:57.437482+00:00
+[2021-11-24 13:40:57,445] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2021-11-24 13:41:33,870] {processor.py:163} INFO - Started process (PID=49839) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:41:33,879] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:41:33,880] {logging_mixin.py:109} INFO - [2021-11-24 13:41:33,880] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:41:33,893] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:41:33,900] {logging_mixin.py:109} INFO - [2021-11-24 13:41:33,900] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:33,909] {logging_mixin.py:109} INFO - [2021-11-24 13:41:33,909] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:41:33.909523+00:00
+[2021-11-24 13:41:33,917] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-11-24 13:42:09,060] {processor.py:163} INFO - Started process (PID=49964) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:42:09,061] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-24 13:42:09,061] {logging_mixin.py:109} INFO - [2021-11-24 13:42:09,061] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:42:09,077] {processor.py:632} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-24 13:42:09,084] {logging_mixin.py:109} INFO - [2021-11-24 13:42:09,084] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:42:09,092] {logging_mixin.py:109} INFO - [2021-11-24 13:42:09,092] {dag.py:2921} INFO - Setting next_dagrun for example_skip_dag to 2021-11-23T12:42:09.092435+00:00
+[2021-11-24 13:42:09,099] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds

@@ -1,0 +1,441 @@
+[2021-11-24 13:02:01,225] {processor.py:163} INFO - Started process (PID=42703) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:02:01,226] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:02:01,226] {logging_mixin.py:109} INFO - [2021-11-24 13:02:01,226] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:02:01,244] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:02:01,380] {logging_mixin.py:109} INFO - [2021-11-24 13:02:01,379] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:01,386] {logging_mixin.py:109} INFO - [2021-11-24 13:02:01,386] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:02:01,405] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.182 seconds
+[2021-11-24 13:02:38,788] {processor.py:163} INFO - Started process (PID=42753) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:02:38,792] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:02:38,793] {logging_mixin.py:109} INFO - [2021-11-24 13:02:38,793] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:02:38,822] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:02:39,038] {logging_mixin.py:109} INFO - [2021-11-24 13:02:39,038] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:39,046] {logging_mixin.py:109} INFO - [2021-11-24 13:02:39,046] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:02:39,055] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.274 seconds
+[2021-11-24 13:03:17,290] {processor.py:163} INFO - Started process (PID=42873) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:03:17,294] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:03:17,295] {logging_mixin.py:109} INFO - [2021-11-24 13:03:17,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:03:17,316] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:03:17,451] {logging_mixin.py:109} INFO - [2021-11-24 13:03:17,451] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:17,458] {logging_mixin.py:109} INFO - [2021-11-24 13:03:17,458] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:03:17,466] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.182 seconds
+[2021-11-24 13:03:57,050] {processor.py:163} INFO - Started process (PID=42940) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:03:57,062] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:03:57,063] {logging_mixin.py:109} INFO - [2021-11-24 13:03:57,063] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:03:57,106] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:03:57,242] {logging_mixin.py:109} INFO - [2021-11-24 13:03:57,242] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:57,249] {logging_mixin.py:109} INFO - [2021-11-24 13:03:57,249] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:03:57,259] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.211 seconds
+[2021-11-24 13:04:39,354] {processor.py:163} INFO - Started process (PID=43078) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:04:39,355] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:04:39,356] {logging_mixin.py:109} INFO - [2021-11-24 13:04:39,356] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:04:39,373] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:04:39,514] {logging_mixin.py:109} INFO - [2021-11-24 13:04:39,513] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:39,521] {logging_mixin.py:109} INFO - [2021-11-24 13:04:39,521] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:04:39,530] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.178 seconds
+[2021-11-24 13:05:22,992] {processor.py:163} INFO - Started process (PID=43219) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:05:22,994] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:05:22,995] {logging_mixin.py:109} INFO - [2021-11-24 13:05:22,995] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:05:23,026] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:05:23,160] {logging_mixin.py:109} INFO - [2021-11-24 13:05:23,160] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:23,166] {logging_mixin.py:109} INFO - [2021-11-24 13:05:23,166] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:05:23,174] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.187 seconds
+[2021-11-24 13:06:01,015] {processor.py:163} INFO - Started process (PID=43287) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:06:01,027] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:06:01,028] {logging_mixin.py:109} INFO - [2021-11-24 13:06:01,028] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:06:01,063] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:06:01,198] {logging_mixin.py:109} INFO - [2021-11-24 13:06:01,198] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:01,206] {logging_mixin.py:109} INFO - [2021-11-24 13:06:01,206] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:06:01,233] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 13:06:42,164] {processor.py:163} INFO - Started process (PID=43372) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:06:42,174] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:06:42,175] {logging_mixin.py:109} INFO - [2021-11-24 13:06:42,175] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:06:42,203] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:06:42,346] {logging_mixin.py:109} INFO - [2021-11-24 13:06:42,346] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:42,356] {logging_mixin.py:109} INFO - [2021-11-24 13:06:42,356] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:06:42,384] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.222 seconds
+[2021-11-24 13:07:20,559] {processor.py:163} INFO - Started process (PID=43423) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:07:20,569] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:07:20,569] {logging_mixin.py:109} INFO - [2021-11-24 13:07:20,569] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:07:20,598] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:07:20,735] {logging_mixin.py:109} INFO - [2021-11-24 13:07:20,735] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:20,743] {logging_mixin.py:109} INFO - [2021-11-24 13:07:20,743] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:07:20,764] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.207 seconds
+[2021-11-24 13:07:59,298] {processor.py:163} INFO - Started process (PID=43472) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:07:59,308] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:07:59,309] {logging_mixin.py:109} INFO - [2021-11-24 13:07:59,309] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:07:59,327] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:07:59,466] {logging_mixin.py:109} INFO - [2021-11-24 13:07:59,466] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:59,473] {logging_mixin.py:109} INFO - [2021-11-24 13:07:59,473] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:07:59,490] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.194 seconds
+[2021-11-24 13:08:37,692] {processor.py:163} INFO - Started process (PID=43548) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:08:37,694] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:08:37,694] {logging_mixin.py:109} INFO - [2021-11-24 13:08:37,694] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:08:37,711] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:08:37,901] {logging_mixin.py:109} INFO - [2021-11-24 13:08:37,901] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:37,911] {logging_mixin.py:109} INFO - [2021-11-24 13:08:37,911] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:08:37,921] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.231 seconds
+[2021-11-24 13:09:15,345] {processor.py:163} INFO - Started process (PID=43613) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:09:15,356] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:09:15,357] {logging_mixin.py:109} INFO - [2021-11-24 13:09:15,357] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:09:15,391] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:09:15,539] {logging_mixin.py:109} INFO - [2021-11-24 13:09:15,539] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:15,547] {logging_mixin.py:109} INFO - [2021-11-24 13:09:15,546] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:09:15,554] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.215 seconds
+[2021-11-24 13:09:58,677] {processor.py:163} INFO - Started process (PID=43811) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:09:58,687] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:09:58,689] {logging_mixin.py:109} INFO - [2021-11-24 13:09:58,688] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:09:58,720] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:09:58,868] {logging_mixin.py:109} INFO - [2021-11-24 13:09:58,868] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:58,875] {logging_mixin.py:109} INFO - [2021-11-24 13:09:58,875] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:09:58,883] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.213 seconds
+[2021-11-24 13:10:40,072] {processor.py:163} INFO - Started process (PID=44005) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:10:40,076] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:10:40,078] {logging_mixin.py:109} INFO - [2021-11-24 13:10:40,078] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:10:40,136] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:10:40,577] {logging_mixin.py:109} INFO - [2021-11-24 13:10:40,577] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:40,586] {logging_mixin.py:109} INFO - [2021-11-24 13:10:40,586] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:10:40,596] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.529 seconds
+[2021-11-24 13:11:21,838] {processor.py:163} INFO - Started process (PID=44161) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:11:21,848] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:11:21,848] {logging_mixin.py:109} INFO - [2021-11-24 13:11:21,848] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:11:21,881] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:11:22,023] {logging_mixin.py:109} INFO - [2021-11-24 13:11:22,023] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:22,030] {logging_mixin.py:109} INFO - [2021-11-24 13:11:22,030] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:11:22,040] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.205 seconds
+[2021-11-24 13:12:01,121] {processor.py:163} INFO - Started process (PID=44269) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:12:01,130] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:12:01,131] {logging_mixin.py:109} INFO - [2021-11-24 13:12:01,131] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:12:01,158] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:12:01,295] {logging_mixin.py:109} INFO - [2021-11-24 13:12:01,295] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:01,301] {logging_mixin.py:109} INFO - [2021-11-24 13:12:01,301] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:12:01,309] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.191 seconds
+[2021-11-24 13:12:40,935] {processor.py:163} INFO - Started process (PID=44334) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:12:40,937] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:12:40,938] {logging_mixin.py:109} INFO - [2021-11-24 13:12:40,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:12:40,959] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:12:41,095] {logging_mixin.py:109} INFO - [2021-11-24 13:12:41,095] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:41,101] {logging_mixin.py:109} INFO - [2021-11-24 13:12:41,101] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:12:41,118] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.186 seconds
+[2021-11-24 13:13:17,866] {processor.py:163} INFO - Started process (PID=44483) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:13:17,871] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:13:17,872] {logging_mixin.py:109} INFO - [2021-11-24 13:13:17,872] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:13:17,907] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:13:18,041] {logging_mixin.py:109} INFO - [2021-11-24 13:13:18,041] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:18,048] {logging_mixin.py:109} INFO - [2021-11-24 13:13:18,048] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:13:18,056] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.196 seconds
+[2021-11-24 13:13:58,057] {processor.py:163} INFO - Started process (PID=44552) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:13:58,068] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:13:58,070] {logging_mixin.py:109} INFO - [2021-11-24 13:13:58,069] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:13:58,110] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:13:58,246] {logging_mixin.py:109} INFO - [2021-11-24 13:13:58,246] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:58,253] {logging_mixin.py:109} INFO - [2021-11-24 13:13:58,253] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:13:58,285] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.231 seconds
+[2021-11-24 13:14:36,338] {processor.py:163} INFO - Started process (PID=44688) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:14:36,341] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:14:36,342] {logging_mixin.py:109} INFO - [2021-11-24 13:14:36,342] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:14:36,372] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:14:36,514] {logging_mixin.py:109} INFO - [2021-11-24 13:14:36,514] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:36,521] {logging_mixin.py:109} INFO - [2021-11-24 13:14:36,521] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:14:36,530] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.196 seconds
+[2021-11-24 13:15:15,113] {processor.py:163} INFO - Started process (PID=44779) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:15:15,123] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:15:15,124] {logging_mixin.py:109} INFO - [2021-11-24 13:15:15,123] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:15:15,148] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:15:15,291] {logging_mixin.py:109} INFO - [2021-11-24 13:15:15,291] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:15,298] {logging_mixin.py:109} INFO - [2021-11-24 13:15:15,297] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:15:15,337] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.226 seconds
+[2021-11-24 13:15:55,326] {processor.py:163} INFO - Started process (PID=45060) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:15:55,327] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:15:55,328] {logging_mixin.py:109} INFO - [2021-11-24 13:15:55,328] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:15:55,343] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:15:55,525] {logging_mixin.py:109} INFO - [2021-11-24 13:15:55,525] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:55,541] {logging_mixin.py:109} INFO - [2021-11-24 13:15:55,541] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:15:55,556] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.232 seconds
+[2021-11-24 13:16:35,813] {processor.py:163} INFO - Started process (PID=45387) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:16:35,816] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:16:35,818] {logging_mixin.py:109} INFO - [2021-11-24 13:16:35,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:16:35,845] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:16:36,016] {logging_mixin.py:109} INFO - [2021-11-24 13:16:36,016] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:36,024] {logging_mixin.py:109} INFO - [2021-11-24 13:16:36,024] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:16:36,033] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 13:17:12,430] {processor.py:163} INFO - Started process (PID=45544) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:17:12,431] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:17:12,432] {logging_mixin.py:109} INFO - [2021-11-24 13:17:12,432] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:17:12,463] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:17:12,664] {logging_mixin.py:109} INFO - [2021-11-24 13:17:12,664] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:12,672] {logging_mixin.py:109} INFO - [2021-11-24 13:17:12,672] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:17:12,681] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.254 seconds
+[2021-11-24 13:17:49,276] {processor.py:163} INFO - Started process (PID=45591) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:17:49,278] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:17:49,278] {logging_mixin.py:109} INFO - [2021-11-24 13:17:49,278] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:17:49,294] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:17:49,453] {logging_mixin.py:109} INFO - [2021-11-24 13:17:49,453] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:49,461] {logging_mixin.py:109} INFO - [2021-11-24 13:17:49,461] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:17:49,470] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.196 seconds
+[2021-11-24 13:18:29,337] {processor.py:163} INFO - Started process (PID=45651) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:18:29,348] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:18:29,349] {logging_mixin.py:109} INFO - [2021-11-24 13:18:29,349] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:18:29,368] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:18:29,532] {logging_mixin.py:109} INFO - [2021-11-24 13:18:29,532] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:29,540] {logging_mixin.py:109} INFO - [2021-11-24 13:18:29,540] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:18:29,554] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 13:19:07,325] {processor.py:163} INFO - Started process (PID=45722) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:19:07,334] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:19:07,335] {logging_mixin.py:109} INFO - [2021-11-24 13:19:07,334] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:19:07,350] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:19:07,501] {logging_mixin.py:109} INFO - [2021-11-24 13:19:07,501] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:07,509] {logging_mixin.py:109} INFO - [2021-11-24 13:19:07,509] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:19:07,520] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.196 seconds
+[2021-11-24 13:19:47,955] {processor.py:163} INFO - Started process (PID=45775) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:19:47,965] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:19:47,966] {logging_mixin.py:109} INFO - [2021-11-24 13:19:47,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:19:48,002] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:19:48,136] {logging_mixin.py:109} INFO - [2021-11-24 13:19:48,136] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:48,143] {logging_mixin.py:109} INFO - [2021-11-24 13:19:48,143] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:19:48,173] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.221 seconds
+[2021-11-24 13:20:29,322] {processor.py:163} INFO - Started process (PID=45831) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:20:29,331] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:20:29,332] {logging_mixin.py:109} INFO - [2021-11-24 13:20:29,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:20:29,352] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:20:29,484] {logging_mixin.py:109} INFO - [2021-11-24 13:20:29,484] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:29,491] {logging_mixin.py:109} INFO - [2021-11-24 13:20:29,491] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:20:29,499] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.179 seconds
+[2021-11-24 13:21:05,642] {processor.py:163} INFO - Started process (PID=45887) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:21:05,653] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:21:05,654] {logging_mixin.py:109} INFO - [2021-11-24 13:21:05,654] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:21:05,692] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:21:05,825] {logging_mixin.py:109} INFO - [2021-11-24 13:21:05,825] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:05,833] {logging_mixin.py:109} INFO - [2021-11-24 13:21:05,833] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:21:05,864] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 13:21:46,077] {processor.py:163} INFO - Started process (PID=45991) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:21:46,087] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:21:46,089] {logging_mixin.py:109} INFO - [2021-11-24 13:21:46,089] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:21:46,125] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:21:46,260] {logging_mixin.py:109} INFO - [2021-11-24 13:21:46,260] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:46,267] {logging_mixin.py:109} INFO - [2021-11-24 13:21:46,267] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:21:46,278] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.208 seconds
+[2021-11-24 13:22:24,169] {processor.py:163} INFO - Started process (PID=46060) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:22:24,181] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:22:24,183] {logging_mixin.py:109} INFO - [2021-11-24 13:22:24,182] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:22:24,214] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:22:24,360] {logging_mixin.py:109} INFO - [2021-11-24 13:22:24,360] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:24,369] {logging_mixin.py:109} INFO - [2021-11-24 13:22:24,369] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:22:24,388] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.225 seconds
+[2021-11-24 13:23:07,106] {processor.py:163} INFO - Started process (PID=46443) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:23:07,116] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:23:07,118] {logging_mixin.py:109} INFO - [2021-11-24 13:23:07,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:23:07,151] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:23:07,282] {logging_mixin.py:109} INFO - [2021-11-24 13:23:07,282] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:07,289] {logging_mixin.py:109} INFO - [2021-11-24 13:23:07,289] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:23:07,296] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.197 seconds
+[2021-11-24 13:23:47,009] {processor.py:163} INFO - Started process (PID=46509) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:23:47,018] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:23:47,019] {logging_mixin.py:109} INFO - [2021-11-24 13:23:47,019] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:23:47,038] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:23:47,184] {logging_mixin.py:109} INFO - [2021-11-24 13:23:47,184] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:47,192] {logging_mixin.py:109} INFO - [2021-11-24 13:23:47,192] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:23:47,202] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.196 seconds
+[2021-11-24 13:24:23,223] {processor.py:163} INFO - Started process (PID=46574) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:24:23,232] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:24:23,233] {logging_mixin.py:109} INFO - [2021-11-24 13:24:23,233] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:24:23,252] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:24:23,392] {logging_mixin.py:109} INFO - [2021-11-24 13:24:23,392] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:23,399] {logging_mixin.py:109} INFO - [2021-11-24 13:24:23,399] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:24:23,411] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.189 seconds
+[2021-11-24 13:25:04,054] {processor.py:163} INFO - Started process (PID=46768) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:25:04,065] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:25:04,067] {logging_mixin.py:109} INFO - [2021-11-24 13:25:04,066] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:25:04,100] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:25:04,241] {logging_mixin.py:109} INFO - [2021-11-24 13:25:04,241] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:04,248] {logging_mixin.py:109} INFO - [2021-11-24 13:25:04,248] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:25:04,262] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.215 seconds
+[2021-11-24 13:25:40,747] {processor.py:163} INFO - Started process (PID=46836) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:25:40,759] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:25:40,761] {logging_mixin.py:109} INFO - [2021-11-24 13:25:40,760] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:25:40,796] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:25:40,935] {logging_mixin.py:109} INFO - [2021-11-24 13:25:40,935] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:40,942] {logging_mixin.py:109} INFO - [2021-11-24 13:25:40,942] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:25:40,958] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.218 seconds
+[2021-11-24 13:26:16,287] {processor.py:163} INFO - Started process (PID=46910) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:26:16,298] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:26:16,299] {logging_mixin.py:109} INFO - [2021-11-24 13:26:16,299] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:26:16,337] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:26:16,471] {logging_mixin.py:109} INFO - [2021-11-24 13:26:16,471] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:16,478] {logging_mixin.py:109} INFO - [2021-11-24 13:26:16,478] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:26:16,499] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.214 seconds
+[2021-11-24 13:26:55,504] {processor.py:163} INFO - Started process (PID=47046) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:26:55,513] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:26:55,514] {logging_mixin.py:109} INFO - [2021-11-24 13:26:55,514] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:26:55,537] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:26:55,695] {logging_mixin.py:109} INFO - [2021-11-24 13:26:55,695] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:55,703] {logging_mixin.py:109} INFO - [2021-11-24 13:26:55,703] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:26:55,712] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.211 seconds
+[2021-11-24 13:27:34,382] {processor.py:163} INFO - Started process (PID=47103) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:27:34,390] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:27:34,391] {logging_mixin.py:109} INFO - [2021-11-24 13:27:34,391] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:27:34,414] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:27:34,544] {logging_mixin.py:109} INFO - [2021-11-24 13:27:34,544] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:34,551] {logging_mixin.py:109} INFO - [2021-11-24 13:27:34,551] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:27:34,559] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.179 seconds
+[2021-11-24 13:28:13,526] {processor.py:163} INFO - Started process (PID=47245) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:28:13,527] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:28:13,528] {logging_mixin.py:109} INFO - [2021-11-24 13:28:13,528] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:28:13,553] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:28:13,738] {logging_mixin.py:109} INFO - [2021-11-24 13:28:13,738] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:13,749] {logging_mixin.py:109} INFO - [2021-11-24 13:28:13,749] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:28:13,761] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.237 seconds
+[2021-11-24 13:28:50,878] {processor.py:163} INFO - Started process (PID=47368) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:28:50,881] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:28:50,882] {logging_mixin.py:109} INFO - [2021-11-24 13:28:50,882] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:28:50,909] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:28:51,199] {logging_mixin.py:109} INFO - [2021-11-24 13:28:51,199] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:51,208] {logging_mixin.py:109} INFO - [2021-11-24 13:28:51,208] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:28:51,217] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.343 seconds
+[2021-11-24 13:29:27,731] {processor.py:163} INFO - Started process (PID=47430) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:29:27,732] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:29:27,733] {logging_mixin.py:109} INFO - [2021-11-24 13:29:27,733] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:29:27,748] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:29:27,927] {logging_mixin.py:109} INFO - [2021-11-24 13:29:27,927] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:27,935] {logging_mixin.py:109} INFO - [2021-11-24 13:29:27,935] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:29:27,945] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.217 seconds
+[2021-11-24 13:30:04,048] {processor.py:163} INFO - Started process (PID=47493) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:30:04,057] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:30:04,057] {logging_mixin.py:109} INFO - [2021-11-24 13:30:04,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:30:04,079] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:30:04,222] {logging_mixin.py:109} INFO - [2021-11-24 13:30:04,222] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:04,229] {logging_mixin.py:109} INFO - [2021-11-24 13:30:04,229] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:30:04,240] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.195 seconds
+[2021-11-24 13:30:40,703] {processor.py:163} INFO - Started process (PID=47568) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:30:40,712] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:30:40,712] {logging_mixin.py:109} INFO - [2021-11-24 13:30:40,712] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:30:40,730] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:30:40,882] {logging_mixin.py:109} INFO - [2021-11-24 13:30:40,882] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:40,890] {logging_mixin.py:109} INFO - [2021-11-24 13:30:40,890] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:30:40,899] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.198 seconds
+[2021-11-24 13:31:15,494] {processor.py:163} INFO - Started process (PID=47620) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:31:15,505] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:31:15,506] {logging_mixin.py:109} INFO - [2021-11-24 13:31:15,506] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:31:15,533] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:31:15,673] {logging_mixin.py:109} INFO - [2021-11-24 13:31:15,673] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:15,681] {logging_mixin.py:109} INFO - [2021-11-24 13:31:15,681] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:31:15,705] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.213 seconds
+[2021-11-24 13:31:57,100] {processor.py:163} INFO - Started process (PID=47762) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:31:57,110] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:31:57,111] {logging_mixin.py:109} INFO - [2021-11-24 13:31:57,111] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:31:57,141] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:31:57,279] {logging_mixin.py:109} INFO - [2021-11-24 13:31:57,279] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:57,286] {logging_mixin.py:109} INFO - [2021-11-24 13:31:57,286] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:31:57,294] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.197 seconds
+[2021-11-24 13:32:34,046] {processor.py:163} INFO - Started process (PID=48276) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:32:34,055] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:32:34,055] {logging_mixin.py:109} INFO - [2021-11-24 13:32:34,055] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:32:34,076] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:32:34,213] {logging_mixin.py:109} INFO - [2021-11-24 13:32:34,213] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:34,221] {logging_mixin.py:109} INFO - [2021-11-24 13:32:34,221] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:32:34,231] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.187 seconds
+[2021-11-24 13:33:10,287] {processor.py:163} INFO - Started process (PID=48446) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:33:10,297] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:33:10,299] {logging_mixin.py:109} INFO - [2021-11-24 13:33:10,298] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:33:10,333] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:33:10,477] {logging_mixin.py:109} INFO - [2021-11-24 13:33:10,477] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:10,485] {logging_mixin.py:109} INFO - [2021-11-24 13:33:10,485] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:33:10,494] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.214 seconds
+[2021-11-24 13:33:46,969] {processor.py:163} INFO - Started process (PID=48586) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:33:46,971] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:33:46,971] {logging_mixin.py:109} INFO - [2021-11-24 13:33:46,971] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:33:46,990] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:33:47,127] {logging_mixin.py:109} INFO - [2021-11-24 13:33:47,127] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:47,133] {logging_mixin.py:109} INFO - [2021-11-24 13:33:47,133] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:33:47,141] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.175 seconds
+[2021-11-24 13:34:25,489] {processor.py:163} INFO - Started process (PID=48722) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:34:25,498] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:34:25,499] {logging_mixin.py:109} INFO - [2021-11-24 13:34:25,499] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:34:25,518] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:34:25,657] {logging_mixin.py:109} INFO - [2021-11-24 13:34:25,657] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:25,664] {logging_mixin.py:109} INFO - [2021-11-24 13:34:25,664] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:34:25,673] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.186 seconds
+[2021-11-24 13:35:06,658] {processor.py:163} INFO - Started process (PID=48841) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:35:06,661] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:35:06,662] {logging_mixin.py:109} INFO - [2021-11-24 13:35:06,662] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:35:06,696] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:35:06,836] {logging_mixin.py:109} INFO - [2021-11-24 13:35:06,836] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:06,843] {logging_mixin.py:109} INFO - [2021-11-24 13:35:06,843] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:35:06,851] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.198 seconds
+[2021-11-24 13:35:44,500] {processor.py:163} INFO - Started process (PID=48937) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:35:44,509] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:35:44,510] {logging_mixin.py:109} INFO - [2021-11-24 13:35:44,510] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:35:44,534] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:35:44,684] {logging_mixin.py:109} INFO - [2021-11-24 13:35:44,684] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:44,691] {logging_mixin.py:109} INFO - [2021-11-24 13:35:44,691] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:35:44,710] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.212 seconds
+[2021-11-24 13:36:24,385] {processor.py:163} INFO - Started process (PID=49035) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:36:24,387] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:36:24,388] {logging_mixin.py:109} INFO - [2021-11-24 13:36:24,388] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:36:24,416] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:36:24,572] {logging_mixin.py:109} INFO - [2021-11-24 13:36:24,572] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:24,585] {logging_mixin.py:109} INFO - [2021-11-24 13:36:24,585] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:36:24,599] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.219 seconds
+[2021-11-24 13:37:06,022] {processor.py:163} INFO - Started process (PID=49162) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:37:06,023] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:37:06,024] {logging_mixin.py:109} INFO - [2021-11-24 13:37:06,024] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:37:06,044] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:37:06,221] {logging_mixin.py:109} INFO - [2021-11-24 13:37:06,221] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:06,232] {logging_mixin.py:109} INFO - [2021-11-24 13:37:06,232] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:37:06,243] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 13:37:42,826] {processor.py:163} INFO - Started process (PID=49300) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:37:42,828] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:37:42,829] {logging_mixin.py:109} INFO - [2021-11-24 13:37:42,829] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:37:42,846] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:37:43,004] {logging_mixin.py:109} INFO - [2021-11-24 13:37:43,003] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:43,013] {logging_mixin.py:109} INFO - [2021-11-24 13:37:43,013] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:37:43,023] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.198 seconds
+[2021-11-24 13:38:25,085] {processor.py:163} INFO - Started process (PID=49403) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:38:25,095] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:38:25,096] {logging_mixin.py:109} INFO - [2021-11-24 13:38:25,096] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:38:25,125] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:38:25,262] {logging_mixin.py:109} INFO - [2021-11-24 13:38:25,262] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:25,269] {logging_mixin.py:109} INFO - [2021-11-24 13:38:25,269] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:38:25,293] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.210 seconds
+[2021-11-24 13:39:09,226] {processor.py:163} INFO - Started process (PID=49501) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:39:09,228] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:39:09,229] {logging_mixin.py:109} INFO - [2021-11-24 13:39:09,229] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:39:09,250] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:39:09,401] {logging_mixin.py:109} INFO - [2021-11-24 13:39:09,401] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:09,409] {logging_mixin.py:109} INFO - [2021-11-24 13:39:09,409] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:39:09,417] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.193 seconds
+[2021-11-24 13:39:45,510] {processor.py:163} INFO - Started process (PID=49614) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:39:45,520] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:39:45,520] {logging_mixin.py:109} INFO - [2021-11-24 13:39:45,520] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:39:45,546] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:39:45,744] {logging_mixin.py:109} INFO - [2021-11-24 13:39:45,744] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:45,752] {logging_mixin.py:109} INFO - [2021-11-24 13:39:45,751] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:39:45,761] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.254 seconds
+[2021-11-24 13:40:25,169] {processor.py:163} INFO - Started process (PID=49717) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:40:25,171] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:40:25,172] {logging_mixin.py:109} INFO - [2021-11-24 13:40:25,172] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:40:25,189] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:40:25,324] {logging_mixin.py:109} INFO - [2021-11-24 13:40:25,324] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:25,331] {logging_mixin.py:109} INFO - [2021-11-24 13:40:25,331] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:40:25,339] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.172 seconds
+[2021-11-24 13:41:05,332] {processor.py:163} INFO - Started process (PID=49785) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:41:05,341] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:41:05,342] {logging_mixin.py:109} INFO - [2021-11-24 13:41:05,342] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:41:05,370] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:41:05,506] {logging_mixin.py:109} INFO - [2021-11-24 13:41:05,506] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:05,512] {logging_mixin.py:109} INFO - [2021-11-24 13:41:05,512] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:41:05,550] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.221 seconds
+[2021-11-24 13:41:41,197] {processor.py:163} INFO - Started process (PID=49886) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:41:41,208] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:41:41,209] {logging_mixin.py:109} INFO - [2021-11-24 13:41:41,209] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:41:41,244] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:41:41,403] {logging_mixin.py:109} INFO - [2021-11-24 13:41:41,403] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:41,413] {logging_mixin.py:109} INFO - [2021-11-24 13:41:41,413] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:41:41,423] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.233 seconds
+[2021-11-24 13:42:17,737] {processor.py:163} INFO - Started process (PID=49993) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:42:17,748] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 13:42:17,750] {logging_mixin.py:109} INFO - [2021-11-24 13:42:17,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:42:17,786] {processor.py:632} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 13:42:17,920] {logging_mixin.py:109} INFO - [2021-11-24 13:42:17,920] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:42:17,927] {logging_mixin.py:109} INFO - [2021-11-24 13:42:17,927] {dag.py:2921} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2021-11-24 13:42:17,954] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds

@@ -1,0 +1,441 @@
+[2021-11-24 13:01:57,206] {processor.py:163} INFO - Started process (PID=42699) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:01:57,207] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:01:57,207] {logging_mixin.py:109} INFO - [2021-11-24 13:01:57,207] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:01:57,239] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:01:57,366] {logging_mixin.py:109} INFO - [2021-11-24 13:01:57,366] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:01:57,373] {logging_mixin.py:109} INFO - [2021-11-24 13:01:57,373] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:01:57.373019+00:00
+[2021-11-24 13:01:57,399] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.195 seconds
+[2021-11-24 13:02:34,809] {processor.py:163} INFO - Started process (PID=42749) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:02:34,819] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:02:34,820] {logging_mixin.py:109} INFO - [2021-11-24 13:02:34,820] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:02:34,849] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:02:34,999] {logging_mixin.py:109} INFO - [2021-11-24 13:02:34,999] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:35,006] {logging_mixin.py:109} INFO - [2021-11-24 13:02:35,006] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:02:35.006264+00:00
+[2021-11-24 13:02:35,016] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.209 seconds
+[2021-11-24 13:03:13,289] {processor.py:163} INFO - Started process (PID=42864) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:03:13,299] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:03:13,300] {logging_mixin.py:109} INFO - [2021-11-24 13:03:13,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:03:13,352] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:03:13,495] {logging_mixin.py:109} INFO - [2021-11-24 13:03:13,495] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:13,503] {logging_mixin.py:109} INFO - [2021-11-24 13:03:13,503] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:03:13.502948+00:00
+[2021-11-24 13:03:13,512] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.226 seconds
+[2021-11-24 13:03:52,259] {processor.py:163} INFO - Started process (PID=42933) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:03:52,271] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:03:52,273] {logging_mixin.py:109} INFO - [2021-11-24 13:03:52,272] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:03:52,322] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:03:52,463] {logging_mixin.py:109} INFO - [2021-11-24 13:03:52,463] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:52,471] {logging_mixin.py:109} INFO - [2021-11-24 13:03:52,471] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:03:52.471167+00:00
+[2021-11-24 13:03:52,481] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.224 seconds
+[2021-11-24 13:04:31,427] {processor.py:163} INFO - Started process (PID=42988) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:04:31,437] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:04:31,438] {logging_mixin.py:109} INFO - [2021-11-24 13:04:31,437] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:04:31,473] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:04:31,615] {logging_mixin.py:109} INFO - [2021-11-24 13:04:31,615] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:31,623] {logging_mixin.py:109} INFO - [2021-11-24 13:04:31,623] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:04:31.623616+00:00
+[2021-11-24 13:04:31,650] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.226 seconds
+[2021-11-24 13:05:13,587] {processor.py:163} INFO - Started process (PID=43208) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:05:13,600] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:05:13,602] {logging_mixin.py:109} INFO - [2021-11-24 13:05:13,601] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:05:13,645] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:05:13,783] {logging_mixin.py:109} INFO - [2021-11-24 13:05:13,783] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:13,791] {logging_mixin.py:109} INFO - [2021-11-24 13:05:13,791] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:05:13.791356+00:00
+[2021-11-24 13:05:13,811] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.230 seconds
+[2021-11-24 13:05:50,068] {processor.py:163} INFO - Started process (PID=43268) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:05:50,080] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:05:50,082] {logging_mixin.py:109} INFO - [2021-11-24 13:05:50,081] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:05:50,129] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:05:50,264] {logging_mixin.py:109} INFO - [2021-11-24 13:05:50,263] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:50,271] {logging_mixin.py:109} INFO - [2021-11-24 13:05:50,271] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:05:50.271347+00:00
+[2021-11-24 13:05:50,280] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.214 seconds
+[2021-11-24 13:06:27,019] {processor.py:163} INFO - Started process (PID=43316) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:06:27,027] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:06:27,028] {logging_mixin.py:109} INFO - [2021-11-24 13:06:27,028] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:06:27,057] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:06:27,208] {logging_mixin.py:109} INFO - [2021-11-24 13:06:27,208] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:27,216] {logging_mixin.py:109} INFO - [2021-11-24 13:06:27,216] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:06:27.216666+00:00
+[2021-11-24 13:06:27,240] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.224 seconds
+[2021-11-24 13:07:08,661] {processor.py:163} INFO - Started process (PID=43406) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:07:08,672] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:07:08,673] {logging_mixin.py:109} INFO - [2021-11-24 13:07:08,673] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:07:08,717] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:07:08,852] {logging_mixin.py:109} INFO - [2021-11-24 13:07:08,851] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:08,861] {logging_mixin.py:109} INFO - [2021-11-24 13:07:08,860] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:07:08.860698+00:00
+[2021-11-24 13:07:08,888] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.229 seconds
+[2021-11-24 13:07:45,348] {processor.py:163} INFO - Started process (PID=43455) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:07:45,358] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:07:45,359] {logging_mixin.py:109} INFO - [2021-11-24 13:07:45,359] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:07:45,393] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:07:45,539] {logging_mixin.py:109} INFO - [2021-11-24 13:07:45,538] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:45,548] {logging_mixin.py:109} INFO - [2021-11-24 13:07:45,548] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:07:45.547814+00:00
+[2021-11-24 13:07:45,559] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.214 seconds
+[2021-11-24 13:08:23,300] {processor.py:163} INFO - Started process (PID=43525) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:08:23,311] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:08:23,313] {logging_mixin.py:109} INFO - [2021-11-24 13:08:23,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:08:23,341] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:08:23,477] {logging_mixin.py:109} INFO - [2021-11-24 13:08:23,477] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:23,484] {logging_mixin.py:109} INFO - [2021-11-24 13:08:23,484] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:08:23.483847+00:00
+[2021-11-24 13:08:23,513] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.220 seconds
+[2021-11-24 13:09:06,199] {processor.py:163} INFO - Started process (PID=43594) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:09:06,208] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:09:06,209] {logging_mixin.py:109} INFO - [2021-11-24 13:09:06,209] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:09:06,242] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:09:06,379] {logging_mixin.py:109} INFO - [2021-11-24 13:09:06,379] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:06,386] {logging_mixin.py:109} INFO - [2021-11-24 13:09:06,386] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:09:06.386609+00:00
+[2021-11-24 13:09:06,420] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.223 seconds
+[2021-11-24 13:09:47,323] {processor.py:163} INFO - Started process (PID=43757) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:09:47,327] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:09:47,328] {logging_mixin.py:109} INFO - [2021-11-24 13:09:47,328] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:09:47,364] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:09:47,510] {logging_mixin.py:109} INFO - [2021-11-24 13:09:47,509] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:47,519] {logging_mixin.py:109} INFO - [2021-11-24 13:09:47,519] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:09:47.519151+00:00
+[2021-11-24 13:09:47,529] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.213 seconds
+[2021-11-24 13:10:24,430] {processor.py:163} INFO - Started process (PID=43949) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:10:24,442] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:10:24,444] {logging_mixin.py:109} INFO - [2021-11-24 13:10:24,443] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:10:24,482] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:10:24,627] {logging_mixin.py:109} INFO - [2021-11-24 13:10:24,627] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:24,635] {logging_mixin.py:109} INFO - [2021-11-24 13:10:24,635] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:10:24.635600+00:00
+[2021-11-24 13:10:24,646] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.223 seconds
+[2021-11-24 13:11:03,631] {processor.py:163} INFO - Started process (PID=44127) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:11:03,642] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:11:03,643] {logging_mixin.py:109} INFO - [2021-11-24 13:11:03,643] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:11:03,688] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:11:03,823] {logging_mixin.py:109} INFO - [2021-11-24 13:11:03,823] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:03,830] {logging_mixin.py:109} INFO - [2021-11-24 13:11:03,830] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:11:03.830343+00:00
+[2021-11-24 13:11:03,839] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.214 seconds
+[2021-11-24 13:11:42,867] {processor.py:163} INFO - Started process (PID=44243) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:11:42,876] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:11:42,877] {logging_mixin.py:109} INFO - [2021-11-24 13:11:42,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:11:42,910] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:11:43,044] {logging_mixin.py:109} INFO - [2021-11-24 13:11:43,044] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:43,051] {logging_mixin.py:109} INFO - [2021-11-24 13:11:43,051] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:11:43.051455+00:00
+[2021-11-24 13:11:43,093] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.228 seconds
+[2021-11-24 13:12:23,056] {processor.py:163} INFO - Started process (PID=44308) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:12:23,066] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:12:23,067] {logging_mixin.py:109} INFO - [2021-11-24 13:12:23,067] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:12:23,101] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:12:23,240] {logging_mixin.py:109} INFO - [2021-11-24 13:12:23,240] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:23,247] {logging_mixin.py:109} INFO - [2021-11-24 13:12:23,247] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:12:23.247493+00:00
+[2021-11-24 13:12:23,283] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.229 seconds
+[2021-11-24 13:13:00,919] {processor.py:163} INFO - Started process (PID=44424) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:13:00,923] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:13:00,924] {logging_mixin.py:109} INFO - [2021-11-24 13:13:00,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:13:00,965] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:13:01,249] {logging_mixin.py:109} INFO - [2021-11-24 13:13:01,249] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:01,272] {logging_mixin.py:109} INFO - [2021-11-24 13:13:01,271] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:13:01.271604+00:00
+[2021-11-24 13:13:01,287] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.375 seconds
+[2021-11-24 13:13:42,369] {processor.py:163} INFO - Started process (PID=44524) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:13:42,373] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:13:42,373] {logging_mixin.py:109} INFO - [2021-11-24 13:13:42,373] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:13:42,400] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:13:42,563] {logging_mixin.py:109} INFO - [2021-11-24 13:13:42,563] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:42,572] {logging_mixin.py:109} INFO - [2021-11-24 13:13:42,571] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:13:42.571716+00:00
+[2021-11-24 13:13:42,581] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.214 seconds
+[2021-11-24 13:14:19,471] {processor.py:163} INFO - Started process (PID=44585) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:14:19,472] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:14:19,472] {logging_mixin.py:109} INFO - [2021-11-24 13:14:19,472] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:14:19,497] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:14:19,643] {logging_mixin.py:109} INFO - [2021-11-24 13:14:19,643] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:19,651] {logging_mixin.py:109} INFO - [2021-11-24 13:14:19,651] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:14:19.651222+00:00
+[2021-11-24 13:14:19,660] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.191 seconds
+[2021-11-24 13:14:59,477] {processor.py:163} INFO - Started process (PID=44738) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:14:59,486] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:14:59,488] {logging_mixin.py:109} INFO - [2021-11-24 13:14:59,487] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:14:59,530] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:14:59,664] {logging_mixin.py:109} INFO - [2021-11-24 13:14:59,664] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:59,672] {logging_mixin.py:109} INFO - [2021-11-24 13:14:59,672] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:14:59.671950+00:00
+[2021-11-24 13:14:59,693] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.219 seconds
+[2021-11-24 13:15:38,546] {processor.py:163} INFO - Started process (PID=44817) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:15:38,548] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:15:38,549] {logging_mixin.py:109} INFO - [2021-11-24 13:15:38,549] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:15:38,574] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:15:38,726] {logging_mixin.py:109} INFO - [2021-11-24 13:15:38,726] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:38,734] {logging_mixin.py:109} INFO - [2021-11-24 13:15:38,734] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:15:38.734567+00:00
+[2021-11-24 13:15:38,744] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.200 seconds
+[2021-11-24 13:16:20,138] {processor.py:163} INFO - Started process (PID=45345) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:16:20,140] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:16:20,141] {logging_mixin.py:109} INFO - [2021-11-24 13:16:20,141] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:16:20,178] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:16:20,314] {logging_mixin.py:109} INFO - [2021-11-24 13:16:20,314] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:20,321] {logging_mixin.py:109} INFO - [2021-11-24 13:16:20,321] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:16:20.320982+00:00
+[2021-11-24 13:16:20,329] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.194 seconds
+[2021-11-24 13:16:56,146] {processor.py:163} INFO - Started process (PID=45439) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:16:56,155] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:16:56,156] {logging_mixin.py:109} INFO - [2021-11-24 13:16:56,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:16:56,195] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:16:56,339] {logging_mixin.py:109} INFO - [2021-11-24 13:16:56,338] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:56,346] {logging_mixin.py:109} INFO - [2021-11-24 13:16:56,346] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:16:56.346038+00:00
+[2021-11-24 13:16:56,357] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.213 seconds
+[2021-11-24 13:17:33,259] {processor.py:163} INFO - Started process (PID=45569) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:17:33,263] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:17:33,264] {logging_mixin.py:109} INFO - [2021-11-24 13:17:33,264] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:17:33,308] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:17:33,521] {logging_mixin.py:109} INFO - [2021-11-24 13:17:33,521] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:33,532] {logging_mixin.py:109} INFO - [2021-11-24 13:17:33,532] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:17:33.531967+00:00
+[2021-11-24 13:17:33,543] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.291 seconds
+[2021-11-24 13:18:13,687] {processor.py:163} INFO - Started process (PID=45627) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:18:13,698] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:18:13,698] {logging_mixin.py:109} INFO - [2021-11-24 13:18:13,698] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:18:13,733] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:18:13,860] {logging_mixin.py:109} INFO - [2021-11-24 13:18:13,860] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:13,867] {logging_mixin.py:109} INFO - [2021-11-24 13:18:13,867] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:18:13.867154+00:00
+[2021-11-24 13:18:13,897] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.213 seconds
+[2021-11-24 13:18:53,887] {processor.py:163} INFO - Started process (PID=45705) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:18:53,889] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:18:53,889] {logging_mixin.py:109} INFO - [2021-11-24 13:18:53,889] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:18:53,920] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:18:54,050] {logging_mixin.py:109} INFO - [2021-11-24 13:18:54,050] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:54,058] {logging_mixin.py:109} INFO - [2021-11-24 13:18:54,058] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:18:54.058613+00:00
+[2021-11-24 13:18:54,067] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.183 seconds
+[2021-11-24 13:19:31,804] {processor.py:163} INFO - Started process (PID=45759) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:19:31,816] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:19:31,817] {logging_mixin.py:109} INFO - [2021-11-24 13:19:31,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:19:31,844] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:19:31,976] {logging_mixin.py:109} INFO - [2021-11-24 13:19:31,976] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:31,983] {logging_mixin.py:109} INFO - [2021-11-24 13:19:31,983] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:19:31.983381+00:00
+[2021-11-24 13:19:31,990] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.193 seconds
+[2021-11-24 13:20:15,371] {processor.py:163} INFO - Started process (PID=45817) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:20:15,382] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:20:15,383] {logging_mixin.py:109} INFO - [2021-11-24 13:20:15,382] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:20:15,411] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:20:15,547] {logging_mixin.py:109} INFO - [2021-11-24 13:20:15,547] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:15,555] {logging_mixin.py:109} INFO - [2021-11-24 13:20:15,555] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:20:15.554894+00:00
+[2021-11-24 13:20:15,568] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.200 seconds
+[2021-11-24 13:20:52,749] {processor.py:163} INFO - Started process (PID=45870) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:20:52,759] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:20:52,760] {logging_mixin.py:109} INFO - [2021-11-24 13:20:52,760] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:20:52,800] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:20:52,929] {logging_mixin.py:109} INFO - [2021-11-24 13:20:52,929] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:52,936] {logging_mixin.py:109} INFO - [2021-11-24 13:20:52,936] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:20:52.936351+00:00
+[2021-11-24 13:20:52,968] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.221 seconds
+[2021-11-24 13:21:32,005] {processor.py:163} INFO - Started process (PID=45935) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:21:32,007] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:21:32,007] {logging_mixin.py:109} INFO - [2021-11-24 13:21:32,007] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:21:32,037] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:21:32,187] {logging_mixin.py:109} INFO - [2021-11-24 13:21:32,187] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:32,199] {logging_mixin.py:109} INFO - [2021-11-24 13:21:32,198] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:21:32.198667+00:00
+[2021-11-24 13:21:32,208] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.206 seconds
+[2021-11-24 13:22:09,677] {processor.py:163} INFO - Started process (PID=46027) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:22:09,687] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:22:09,689] {logging_mixin.py:109} INFO - [2021-11-24 13:22:09,688] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:22:09,728] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:22:09,873] {logging_mixin.py:109} INFO - [2021-11-24 13:22:09,873] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:09,880] {logging_mixin.py:109} INFO - [2021-11-24 13:22:09,880] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:22:09.880660+00:00
+[2021-11-24 13:22:09,890] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.220 seconds
+[2021-11-24 13:22:49,965] {processor.py:163} INFO - Started process (PID=46096) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:22:49,976] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:22:49,977] {logging_mixin.py:109} INFO - [2021-11-24 13:22:49,977] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:22:50,020] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:22:50,165] {logging_mixin.py:109} INFO - [2021-11-24 13:22:50,165] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:50,173] {logging_mixin.py:109} INFO - [2021-11-24 13:22:50,173] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:22:50.173055+00:00
+[2021-11-24 13:22:50,182] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.221 seconds
+[2021-11-24 13:23:31,708] {processor.py:163} INFO - Started process (PID=46491) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:23:31,710] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:23:31,711] {logging_mixin.py:109} INFO - [2021-11-24 13:23:31,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:23:31,735] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:23:31,888] {logging_mixin.py:109} INFO - [2021-11-24 13:23:31,888] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:31,896] {logging_mixin.py:109} INFO - [2021-11-24 13:23:31,896] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:23:31.896526+00:00
+[2021-11-24 13:23:31,906] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.200 seconds
+[2021-11-24 13:24:09,404] {processor.py:163} INFO - Started process (PID=46560) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:24:09,406] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:24:09,407] {logging_mixin.py:109} INFO - [2021-11-24 13:24:09,407] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:24:09,433] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:24:09,567] {logging_mixin.py:109} INFO - [2021-11-24 13:24:09,567] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:09,574] {logging_mixin.py:109} INFO - [2021-11-24 13:24:09,573] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:24:09.573785+00:00
+[2021-11-24 13:24:09,582] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.180 seconds
+[2021-11-24 13:24:50,601] {processor.py:163} INFO - Started process (PID=46733) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:24:50,605] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:24:50,606] {logging_mixin.py:109} INFO - [2021-11-24 13:24:50,606] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:24:50,632] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:24:50,766] {logging_mixin.py:109} INFO - [2021-11-24 13:24:50,765] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:50,772] {logging_mixin.py:109} INFO - [2021-11-24 13:24:50,772] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:24:50.772461+00:00
+[2021-11-24 13:24:50,783] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.184 seconds
+[2021-11-24 13:25:27,552] {processor.py:163} INFO - Started process (PID=46813) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:25:27,553] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:25:27,554] {logging_mixin.py:109} INFO - [2021-11-24 13:25:27,554] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:25:27,596] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:25:27,758] {logging_mixin.py:109} INFO - [2021-11-24 13:25:27,758] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:27,766] {logging_mixin.py:109} INFO - [2021-11-24 13:25:27,766] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:25:27.766463+00:00
+[2021-11-24 13:25:27,775] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.228 seconds
+[2021-11-24 13:26:03,295] {processor.py:163} INFO - Started process (PID=46865) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:26:03,298] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:26:03,300] {logging_mixin.py:109} INFO - [2021-11-24 13:26:03,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:26:03,336] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:26:03,513] {logging_mixin.py:109} INFO - [2021-11-24 13:26:03,513] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:03,521] {logging_mixin.py:109} INFO - [2021-11-24 13:26:03,521] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:26:03.521390+00:00
+[2021-11-24 13:26:03,532] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.245 seconds
+[2021-11-24 13:26:39,396] {processor.py:163} INFO - Started process (PID=46974) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:26:39,406] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:26:39,406] {logging_mixin.py:109} INFO - [2021-11-24 13:26:39,406] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:26:39,456] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:26:39,868] {logging_mixin.py:109} INFO - [2021-11-24 13:26:39,868] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:39,890] {logging_mixin.py:109} INFO - [2021-11-24 13:26:39,890] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:26:39.889964+00:00
+[2021-11-24 13:26:39,926] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.532 seconds
+[2021-11-24 13:27:18,731] {processor.py:163} INFO - Started process (PID=47081) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:27:18,740] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:27:18,740] {logging_mixin.py:109} INFO - [2021-11-24 13:27:18,740] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:27:18,767] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:27:18,913] {logging_mixin.py:109} INFO - [2021-11-24 13:27:18,913] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:18,921] {logging_mixin.py:109} INFO - [2021-11-24 13:27:18,921] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:27:18.921193+00:00
+[2021-11-24 13:27:18,935] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.206 seconds
+[2021-11-24 13:27:57,164] {processor.py:163} INFO - Started process (PID=47156) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:27:57,166] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:27:57,166] {logging_mixin.py:109} INFO - [2021-11-24 13:27:57,166] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:27:57,189] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:27:57,335] {logging_mixin.py:109} INFO - [2021-11-24 13:27:57,335] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:57,343] {logging_mixin.py:109} INFO - [2021-11-24 13:27:57,343] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:27:57.342992+00:00
+[2021-11-24 13:27:57,351] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.189 seconds
+[2021-11-24 13:28:37,551] {processor.py:163} INFO - Started process (PID=47318) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:28:37,555] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:28:37,556] {logging_mixin.py:109} INFO - [2021-11-24 13:28:37,556] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:28:37,598] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:28:37,743] {logging_mixin.py:109} INFO - [2021-11-24 13:28:37,743] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:37,750] {logging_mixin.py:109} INFO - [2021-11-24 13:28:37,750] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:28:37.750071+00:00
+[2021-11-24 13:28:37,759] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.215 seconds
+[2021-11-24 13:29:14,144] {processor.py:163} INFO - Started process (PID=47414) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:29:14,155] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:29:14,156] {logging_mixin.py:109} INFO - [2021-11-24 13:29:14,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:29:14,197] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:29:14,333] {logging_mixin.py:109} INFO - [2021-11-24 13:29:14,333] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:14,339] {logging_mixin.py:109} INFO - [2021-11-24 13:29:14,339] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:29:14.339595+00:00
+[2021-11-24 13:29:14,347] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.209 seconds
+[2021-11-24 13:29:50,092] {processor.py:163} INFO - Started process (PID=47473) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:29:50,101] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:29:50,101] {logging_mixin.py:109} INFO - [2021-11-24 13:29:50,101] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:29:50,132] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:29:50,281] {logging_mixin.py:109} INFO - [2021-11-24 13:29:50,281] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:50,289] {logging_mixin.py:109} INFO - [2021-11-24 13:29:50,289] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:29:50.289652+00:00
+[2021-11-24 13:29:50,299] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.210 seconds
+[2021-11-24 13:30:26,886] {processor.py:163} INFO - Started process (PID=47548) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:30:26,897] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:30:26,899] {logging_mixin.py:109} INFO - [2021-11-24 13:30:26,898] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:30:26,944] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:30:27,081] {logging_mixin.py:109} INFO - [2021-11-24 13:30:27,081] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:27,089] {logging_mixin.py:109} INFO - [2021-11-24 13:30:27,088] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:30:27.088775+00:00
+[2021-11-24 13:30:27,107] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.223 seconds
+[2021-11-24 13:31:02,952] {processor.py:163} INFO - Started process (PID=47600) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:31:02,960] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:31:02,961] {logging_mixin.py:109} INFO - [2021-11-24 13:31:02,961] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:31:02,987] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:31:03,120] {logging_mixin.py:109} INFO - [2021-11-24 13:31:03,120] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:03,126] {logging_mixin.py:109} INFO - [2021-11-24 13:31:03,126] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:31:03.126735+00:00
+[2021-11-24 13:31:03,141] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.191 seconds
+[2021-11-24 13:31:43,212] {processor.py:163} INFO - Started process (PID=47731) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:31:43,214] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:31:43,215] {logging_mixin.py:109} INFO - [2021-11-24 13:31:43,215] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:31:43,254] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:31:43,389] {logging_mixin.py:109} INFO - [2021-11-24 13:31:43,389] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:43,396] {logging_mixin.py:109} INFO - [2021-11-24 13:31:43,396] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:31:43.396130+00:00
+[2021-11-24 13:31:43,405] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.195 seconds
+[2021-11-24 13:32:19,391] {processor.py:163} INFO - Started process (PID=48092) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:32:19,400] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:32:19,400] {logging_mixin.py:109} INFO - [2021-11-24 13:32:19,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:32:19,422] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:32:19,567] {logging_mixin.py:109} INFO - [2021-11-24 13:32:19,567] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:19,575] {logging_mixin.py:109} INFO - [2021-11-24 13:32:19,575] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:32:19.575584+00:00
+[2021-11-24 13:32:19,591] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.202 seconds
+[2021-11-24 13:32:55,325] {processor.py:163} INFO - Started process (PID=48406) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:32:55,337] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:32:55,340] {logging_mixin.py:109} INFO - [2021-11-24 13:32:55,339] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:32:55,382] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:32:55,579] {logging_mixin.py:109} INFO - [2021-11-24 13:32:55,579] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:55,588] {logging_mixin.py:109} INFO - [2021-11-24 13:32:55,588] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:32:55.588072+00:00
+[2021-11-24 13:32:55,598] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.279 seconds
+[2021-11-24 13:33:32,234] {processor.py:163} INFO - Started process (PID=48519) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:33:32,236] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:33:32,236] {logging_mixin.py:109} INFO - [2021-11-24 13:33:32,236] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:33:32,264] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:33:32,431] {logging_mixin.py:109} INFO - [2021-11-24 13:33:32,431] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:32,439] {logging_mixin.py:109} INFO - [2021-11-24 13:33:32,439] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:33:32.439424+00:00
+[2021-11-24 13:33:32,450] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.218 seconds
+[2021-11-24 13:34:11,158] {processor.py:163} INFO - Started process (PID=48694) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:34:11,168] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:34:11,170] {logging_mixin.py:109} INFO - [2021-11-24 13:34:11,169] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:34:11,197] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:34:11,333] {logging_mixin.py:109} INFO - [2021-11-24 13:34:11,333] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:11,341] {logging_mixin.py:109} INFO - [2021-11-24 13:34:11,341] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:34:11.340850+00:00
+[2021-11-24 13:34:11,364] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.213 seconds
+[2021-11-24 13:34:50,992] {processor.py:163} INFO - Started process (PID=48801) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:34:51,001] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:34:51,002] {logging_mixin.py:109} INFO - [2021-11-24 13:34:51,002] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:34:51,026] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:34:51,181] {logging_mixin.py:109} INFO - [2021-11-24 13:34:51,181] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:51,190] {logging_mixin.py:109} INFO - [2021-11-24 13:34:51,190] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:34:51.190587+00:00
+[2021-11-24 13:34:51,201] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.211 seconds
+[2021-11-24 13:35:29,022] {processor.py:163} INFO - Started process (PID=48916) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:35:29,031] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:35:29,032] {logging_mixin.py:109} INFO - [2021-11-24 13:35:29,032] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:35:29,054] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:35:29,424] {logging_mixin.py:109} INFO - [2021-11-24 13:35:29,424] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:29,453] {logging_mixin.py:109} INFO - [2021-11-24 13:35:29,452] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:35:29.452360+00:00
+[2021-11-24 13:35:29,491] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.470 seconds
+[2021-11-24 13:36:09,282] {processor.py:163} INFO - Started process (PID=48979) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:36:09,285] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:36:09,285] {logging_mixin.py:109} INFO - [2021-11-24 13:36:09,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:36:09,332] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:36:09,513] {logging_mixin.py:109} INFO - [2021-11-24 13:36:09,513] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:09,524] {logging_mixin.py:109} INFO - [2021-11-24 13:36:09,524] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:36:09.524068+00:00
+[2021-11-24 13:36:09,533] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.256 seconds
+[2021-11-24 13:36:50,120] {processor.py:163} INFO - Started process (PID=49120) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:36:50,129] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:36:50,129] {logging_mixin.py:109} INFO - [2021-11-24 13:36:50,129] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:36:50,155] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:36:50,298] {logging_mixin.py:109} INFO - [2021-11-24 13:36:50,298] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:50,306] {logging_mixin.py:109} INFO - [2021-11-24 13:36:50,306] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:36:50.305829+00:00
+[2021-11-24 13:36:50,314] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.196 seconds
+[2021-11-24 13:37:30,509] {processor.py:163} INFO - Started process (PID=49273) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:37:30,518] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:37:30,519] {logging_mixin.py:109} INFO - [2021-11-24 13:37:30,519] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:37:30,542] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:37:30,687] {logging_mixin.py:109} INFO - [2021-11-24 13:37:30,687] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:30,694] {logging_mixin.py:109} INFO - [2021-11-24 13:37:30,694] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:37:30.694034+00:00
+[2021-11-24 13:37:30,717] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.210 seconds
+[2021-11-24 13:38:06,677] {processor.py:163} INFO - Started process (PID=49347) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:38:06,679] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:38:06,680] {logging_mixin.py:109} INFO - [2021-11-24 13:38:06,680] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:38:06,708] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:38:07,064] {logging_mixin.py:109} INFO - [2021-11-24 13:38:07,064] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:07,083] {logging_mixin.py:109} INFO - [2021-11-24 13:38:07,083] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:38:07.082798+00:00
+[2021-11-24 13:38:07,103] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.428 seconds
+[2021-11-24 13:38:52,610] {processor.py:163} INFO - Started process (PID=49447) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:38:52,614] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:38:52,615] {logging_mixin.py:109} INFO - [2021-11-24 13:38:52,615] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:38:52,653] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:38:52,875] {logging_mixin.py:109} INFO - [2021-11-24 13:38:52,875] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:52,894] {logging_mixin.py:109} INFO - [2021-11-24 13:38:52,893] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:38:52.893420+00:00
+[2021-11-24 13:38:52,919] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.317 seconds
+[2021-11-24 13:39:34,053] {processor.py:163} INFO - Started process (PID=49601) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:39:34,064] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:39:34,065] {logging_mixin.py:109} INFO - [2021-11-24 13:39:34,065] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:39:34,110] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:39:34,241] {logging_mixin.py:109} INFO - [2021-11-24 13:39:34,241] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:34,247] {logging_mixin.py:109} INFO - [2021-11-24 13:39:34,247] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:39:34.247639+00:00
+[2021-11-24 13:39:34,269] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.218 seconds
+[2021-11-24 13:40:09,318] {processor.py:163} INFO - Started process (PID=49664) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:40:09,322] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:40:09,324] {logging_mixin.py:109} INFO - [2021-11-24 13:40:09,323] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:40:09,402] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:40:09,694] {logging_mixin.py:109} INFO - [2021-11-24 13:40:09,693] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:09,714] {logging_mixin.py:109} INFO - [2021-11-24 13:40:09,714] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:40:09.713734+00:00
+[2021-11-24 13:40:09,733] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.421 seconds
+[2021-11-24 13:40:49,348] {processor.py:163} INFO - Started process (PID=49763) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:40:49,352] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:40:49,353] {logging_mixin.py:109} INFO - [2021-11-24 13:40:49,353] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:40:49,392] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:40:49,543] {logging_mixin.py:109} INFO - [2021-11-24 13:40:49,543] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:49,553] {logging_mixin.py:109} INFO - [2021-11-24 13:40:49,553] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:40:49.553406+00:00
+[2021-11-24 13:40:49,562] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.221 seconds
+[2021-11-24 13:41:27,048] {processor.py:163} INFO - Started process (PID=49825) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:41:27,059] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:41:27,059] {logging_mixin.py:109} INFO - [2021-11-24 13:41:27,059] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:41:27,101] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:41:27,237] {logging_mixin.py:109} INFO - [2021-11-24 13:41:27,237] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:27,244] {logging_mixin.py:109} INFO - [2021-11-24 13:41:27,244] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:41:27.243960+00:00
+[2021-11-24 13:41:27,275] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.230 seconds
+[2021-11-24 13:42:03,717] {processor.py:163} INFO - Started process (PID=49954) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:42:03,719] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-11-24 13:42:03,720] {logging_mixin.py:109} INFO - [2021-11-24 13:42:03,720] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:42:03,742] {processor.py:632} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-11-24 13:42:03,902] {logging_mixin.py:109} INFO - [2021-11-24 13:42:03,902] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:42:03,911] {logging_mixin.py:109} INFO - [2021-11-24 13:42:03,911] {dag.py:2921} INFO - Setting next_dagrun for example_task_group_decorator to 2021-11-23T12:42:03.911268+00:00
+[2021-11-24 13:42:03,921] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.205 seconds

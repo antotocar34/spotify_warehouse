@@ -1,0 +1,29 @@
+[2021-11-21 21:30:38,965] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.filter_rows manual__2021-11-21T20:30:29.204733+00:00 [queued]>
+[2021-11-21 21:30:38,971] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.filter_rows manual__2021-11-21T20:30:29.204733+00:00 [queued]>
+[2021-11-21 21:30:38,971] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:30:38,971] {taskinstance.py:1242} INFO - Starting attempt 1 of 6
+[2021-11-21 21:30:38,971] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:30:38,983] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): filter_rows> on 2021-11-21 20:30:29.204733+00:00
+[2021-11-21 21:30:38,986] {standard_task_runner.py:52} INFO - Started process 36606 to run task
+[2021-11-21 21:30:38,989] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'DWBI_HW2_dag', 'filter_rows', 'manual__2021-11-21T20:30:29.204733+00:00', '--job-id', '124', '--raw', '--subdir', '/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py', '--cfg-path', '/tmp/tmp18n29v9w', '--error-file', '/tmp/tmp781d1wzw']
+[2021-11-21 21:30:38,989] {standard_task_runner.py:77} INFO - Job 124: Subtask filter_rows
+[2021-11-21 21:30:39,013] {logging_mixin.py:109} INFO - Running <TaskInstance: DWBI_HW2_dag.filter_rows manual__2021-11-21T20:30:29.204733+00:00 [running]> on host dj-XPS
+[2021-11-21 21:30:39,041] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=dj
+AIRFLOW_CTX_DAG_ID=DWBI_HW2_dag
+AIRFLOW_CTX_TASK_ID=filter_rows
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-21T20:30:29.204733+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-21T20:30:29.204733+00:00
+[2021-11-21 21:30:39,048] {logging_mixin.py:109} INFO - Successfully fetched the data
+[2021-11-21 21:30:39,068] {logging_mixin.py:109} INFO -    Unnamed: 0     Make     Model  ManufacturingYear     Price  Horsepower EmissionCategory  FuelType         VIN
+0           0  Porsche  Panamera               2021  200000.0       500.0                E  Gasoline    10923857
+1           1  Porsche   Cayenne               2019  130000.0       350.0                C  Gasoline   305982705
+3           3  Porsche     Macan               2018  110000.0       310.0                B  Gasoline  2938579237
+4           4     Audi        Q7               2015   70000.0       240.0                C    Diesel  2035920398
+5           5     Audi        A6               2012   50000.0       272.0                D    Diesel   239405067
+[2021-11-21 21:30:39,166] {python.py:152} INFO - Done. Returned value was: 2021-11-21
+[2021-11-21 21:30:39,179] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=DWBI_HW2_dag, task_id=filter_rows, execution_date=20211121T203029, start_date=20211121T203038, end_date=20211121T203039
+[2021-11-21 21:30:39,201] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-21 21:30:39,223] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

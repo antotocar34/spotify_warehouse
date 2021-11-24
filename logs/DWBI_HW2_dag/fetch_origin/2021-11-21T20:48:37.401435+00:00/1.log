@@ -1,0 +1,22 @@
+[2021-11-21 21:48:42,450] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.fetch_origin manual__2021-11-21T20:48:37.401435+00:00 [queued]>
+[2021-11-21 21:48:42,458] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.fetch_origin manual__2021-11-21T20:48:37.401435+00:00 [queued]>
+[2021-11-21 21:48:42,458] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:48:42,458] {taskinstance.py:1242} INFO - Starting attempt 1 of 6
+[2021-11-21 21:48:42,458] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:48:42,468] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): fetch_origin> on 2021-11-21 20:48:37.401435+00:00
+[2021-11-21 21:48:42,471] {standard_task_runner.py:52} INFO - Started process 41171 to run task
+[2021-11-21 21:48:42,475] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'DWBI_HW2_dag', 'fetch_origin', 'manual__2021-11-21T20:48:37.401435+00:00', '--job-id', '154', '--raw', '--subdir', '/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py', '--cfg-path', '/tmp/tmp5ox2h95m', '--error-file', '/tmp/tmppyinfhzh']
+[2021-11-21 21:48:42,475] {standard_task_runner.py:77} INFO - Job 154: Subtask fetch_origin
+[2021-11-21 21:48:42,503] {logging_mixin.py:109} INFO - Running <TaskInstance: DWBI_HW2_dag.fetch_origin manual__2021-11-21T20:48:37.401435+00:00 [running]> on host dj-XPS
+[2021-11-21 21:48:42,529] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=dj
+AIRFLOW_CTX_DAG_ID=DWBI_HW2_dag
+AIRFLOW_CTX_TASK_ID=fetch_origin
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-21T20:48:37.401435+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-21T20:48:37.401435+00:00
+[2021-11-21 21:48:42,530] {python.py:152} INFO - Done. Returned value was: {'Porsche': 'Germany', 'Audi': 'Germany', 'Toyota': 'Japan'}
+[2021-11-21 21:48:42,542] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=DWBI_HW2_dag, task_id=fetch_origin, execution_date=20211121T204837, start_date=20211121T204842, end_date=20211121T204842
+[2021-11-21 21:48:42,566] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-21 21:48:42,592] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

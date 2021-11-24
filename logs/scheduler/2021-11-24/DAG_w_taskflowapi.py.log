@@ -1,0 +1,511 @@
+[2021-11-24 13:01:34,959] {processor.py:163} INFO - Started process (PID=42578) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:01:34,962] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:01:34,963] {logging_mixin.py:109} INFO - [2021-11-24 13:01:34,963] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:01:34,997] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:01:35,129] {logging_mixin.py:109} INFO - [2021-11-24 13:01:35,129] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:01:35,137] {logging_mixin.py:109} INFO - [2021-11-24 13:01:35,137] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:01:35,153] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.200 seconds
+[2021-11-24 13:02:13,174] {processor.py:163} INFO - Started process (PID=42724) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:02:13,176] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:02:13,176] {logging_mixin.py:109} INFO - [2021-11-24 13:02:13,176] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:02:13,200] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:02:13,338] {logging_mixin.py:109} INFO - [2021-11-24 13:02:13,338] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:13,345] {logging_mixin.py:109} INFO - [2021-11-24 13:02:13,345] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:02:13,364] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.192 seconds
+[2021-11-24 13:02:50,728] {processor.py:163} INFO - Started process (PID=42772) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:02:50,737] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:02:50,737] {logging_mixin.py:109} INFO - [2021-11-24 13:02:50,737] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:02:50,772] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:02:51,045] {logging_mixin.py:109} INFO - [2021-11-24 13:02:51,045] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:51,055] {logging_mixin.py:109} INFO - [2021-11-24 13:02:51,054] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:02:51,064] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.338 seconds
+[2021-11-24 13:03:27,637] {processor.py:163} INFO - Started process (PID=42890) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:03:27,639] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:03:27,639] {logging_mixin.py:109} INFO - [2021-11-24 13:03:27,639] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:03:27,658] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:03:27,813] {logging_mixin.py:109} INFO - [2021-11-24 13:03:27,813] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:27,822] {logging_mixin.py:109} INFO - [2021-11-24 13:03:27,822] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:03:27,832] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.197 seconds
+[2021-11-24 13:03:58,726] {processor.py:163} INFO - Started process (PID=42942) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:03:58,730] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:03:58,731] {logging_mixin.py:109} INFO - [2021-11-24 13:03:58,731] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:03:58,767] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:03:58,914] {logging_mixin.py:109} INFO - [2021-11-24 13:03:58,913] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:58,922] {logging_mixin.py:109} INFO - [2021-11-24 13:03:58,922] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:03:58,931] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.211 seconds
+[2021-11-24 13:04:30,048] {processor.py:163} INFO - Started process (PID=42983) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:04:30,051] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:04:30,051] {logging_mixin.py:109} INFO - [2021-11-24 13:04:30,051] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:04:30,082] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:04:30,230] {logging_mixin.py:109} INFO - [2021-11-24 13:04:30,230] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:30,238] {logging_mixin.py:109} INFO - [2021-11-24 13:04:30,238] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:04:30,246] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.203 seconds
+[2021-11-24 13:05:07,249] {processor.py:163} INFO - Started process (PID=43187) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:05:07,259] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:05:07,260] {logging_mixin.py:109} INFO - [2021-11-24 13:05:07,259] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:05:07,289] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:05:07,423] {logging_mixin.py:109} INFO - [2021-11-24 13:05:07,423] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:07,431] {logging_mixin.py:109} INFO - [2021-11-24 13:05:07,431] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:05:07,441] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:05:38,393] {processor.py:163} INFO - Started process (PID=43244) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:05:38,403] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:05:38,404] {logging_mixin.py:109} INFO - [2021-11-24 13:05:38,404] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:05:38,432] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:05:38,571] {logging_mixin.py:109} INFO - [2021-11-24 13:05:38,571] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:38,579] {logging_mixin.py:109} INFO - [2021-11-24 13:05:38,579] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:05:38,588] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.197 seconds
+[2021-11-24 13:06:13,661] {processor.py:163} INFO - Started process (PID=43302) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:06:13,670] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:06:13,671] {logging_mixin.py:109} INFO - [2021-11-24 13:06:13,671] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:06:13,701] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:06:13,845] {logging_mixin.py:109} INFO - [2021-11-24 13:06:13,845] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:13,857] {logging_mixin.py:109} INFO - [2021-11-24 13:06:13,857] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:06:13,869] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.210 seconds
+[2021-11-24 13:06:46,743] {processor.py:163} INFO - Started process (PID=43377) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:06:46,755] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:06:46,756] {logging_mixin.py:109} INFO - [2021-11-24 13:06:46,756] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:06:46,794] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:06:46,945] {logging_mixin.py:109} INFO - [2021-11-24 13:06:46,945] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:46,954] {logging_mixin.py:109} INFO - [2021-11-24 13:06:46,954] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:06:46,963] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.227 seconds
+[2021-11-24 13:07:17,699] {processor.py:163} INFO - Started process (PID=43420) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:07:17,709] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:07:17,709] {logging_mixin.py:109} INFO - [2021-11-24 13:07:17,709] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:07:17,741] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:07:17,882] {logging_mixin.py:109} INFO - [2021-11-24 13:07:17,882] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:17,894] {logging_mixin.py:109} INFO - [2021-11-24 13:07:17,894] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:07:17,903] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.206 seconds
+[2021-11-24 13:07:55,345] {processor.py:163} INFO - Started process (PID=43468) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:07:55,355] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:07:55,356] {logging_mixin.py:109} INFO - [2021-11-24 13:07:55,355] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:07:55,375] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:07:55,506] {logging_mixin.py:109} INFO - [2021-11-24 13:07:55,506] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:55,514] {logging_mixin.py:109} INFO - [2021-11-24 13:07:55,514] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:07:55,529] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.186 seconds
+[2021-11-24 13:08:25,819] {processor.py:163} INFO - Started process (PID=43527) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:08:25,830] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:08:25,831] {logging_mixin.py:109} INFO - [2021-11-24 13:08:25,831] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:08:25,864] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:08:26,005] {logging_mixin.py:109} INFO - [2021-11-24 13:08:26,005] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:26,012] {logging_mixin.py:109} INFO - [2021-11-24 13:08:26,012] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:08:26,043] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.227 seconds
+[2021-11-24 13:09:02,251] {processor.py:163} INFO - Started process (PID=43588) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:09:02,260] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:09:02,260] {logging_mixin.py:109} INFO - [2021-11-24 13:09:02,260] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:09:02,276] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:09:02,408] {logging_mixin.py:109} INFO - [2021-11-24 13:09:02,408] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:02,416] {logging_mixin.py:109} INFO - [2021-11-24 13:09:02,416] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:09:02,425] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.176 seconds
+[2021-11-24 13:09:33,092] {processor.py:163} INFO - Started process (PID=43707) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:09:33,102] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:09:33,103] {logging_mixin.py:109} INFO - [2021-11-24 13:09:33,103] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:09:33,128] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:09:33,264] {logging_mixin.py:109} INFO - [2021-11-24 13:09:33,264] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:33,271] {logging_mixin.py:109} INFO - [2021-11-24 13:09:33,271] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:09:33,291] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.200 seconds
+[2021-11-24 13:10:10,060] {processor.py:163} INFO - Started process (PID=43861) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:10:10,069] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:10:10,070] {logging_mixin.py:109} INFO - [2021-11-24 13:10:10,069] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:10:10,089] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:10:10,227] {logging_mixin.py:109} INFO - [2021-11-24 13:10:10,227] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:10,235] {logging_mixin.py:109} INFO - [2021-11-24 13:10:10,235] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:10:10,242] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.185 seconds
+[2021-11-24 13:10:42,882] {processor.py:163} INFO - Started process (PID=44041) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:10:42,891] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:10:42,891] {logging_mixin.py:109} INFO - [2021-11-24 13:10:42,891] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:10:42,910] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:10:43,166] {logging_mixin.py:109} INFO - [2021-11-24 13:10:43,166] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:43,191] {logging_mixin.py:109} INFO - [2021-11-24 13:10:43,191] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:10:43,241] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.361 seconds
+[2021-11-24 13:11:15,769] {processor.py:163} INFO - Started process (PID=44149) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:11:15,771] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:11:15,772] {logging_mixin.py:109} INFO - [2021-11-24 13:11:15,772] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:11:15,799] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:11:15,945] {logging_mixin.py:109} INFO - [2021-11-24 13:11:15,945] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:15,953] {logging_mixin.py:109} INFO - [2021-11-24 13:11:15,953] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:11:15,961] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:11:52,021] {processor.py:163} INFO - Started process (PID=44253) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:11:52,023] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:11:52,023] {logging_mixin.py:109} INFO - [2021-11-24 13:11:52,023] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:11:52,040] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:11:52,176] {logging_mixin.py:109} INFO - [2021-11-24 13:11:52,176] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:52,184] {logging_mixin.py:109} INFO - [2021-11-24 13:11:52,184] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:11:52,192] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.172 seconds
+[2021-11-24 13:12:25,789] {processor.py:163} INFO - Started process (PID=44311) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:12:25,791] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:12:25,791] {logging_mixin.py:109} INFO - [2021-11-24 13:12:25,791] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:12:25,811] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:12:25,949] {logging_mixin.py:109} INFO - [2021-11-24 13:12:25,949] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:25,957] {logging_mixin.py:109} INFO - [2021-11-24 13:12:25,957] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:12:25,964] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.178 seconds
+[2021-11-24 13:12:56,893] {processor.py:163} INFO - Started process (PID=44358) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:12:56,895] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:12:56,896] {logging_mixin.py:109} INFO - [2021-11-24 13:12:56,896] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:12:56,921] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:12:57,121] {logging_mixin.py:109} INFO - [2021-11-24 13:12:57,121] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:57,130] {logging_mixin.py:109} INFO - [2021-11-24 13:12:57,130] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:12:57,139] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.249 seconds
+[2021-11-24 13:13:28,396] {processor.py:163} INFO - Started process (PID=44506) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:13:28,399] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:13:28,400] {logging_mixin.py:109} INFO - [2021-11-24 13:13:28,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:13:28,422] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:13:28,575] {logging_mixin.py:109} INFO - [2021-11-24 13:13:28,575] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:28,584] {logging_mixin.py:109} INFO - [2021-11-24 13:13:28,584] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:13:28,595] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.206 seconds
+[2021-11-24 13:13:59,770] {processor.py:163} INFO - Started process (PID=44554) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:13:59,774] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:13:59,775] {logging_mixin.py:109} INFO - [2021-11-24 13:13:59,775] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:13:59,816] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:13:59,957] {logging_mixin.py:109} INFO - [2021-11-24 13:13:59,956] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:59,964] {logging_mixin.py:109} INFO - [2021-11-24 13:13:59,964] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:13:59,972] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.208 seconds
+[2021-11-24 13:14:30,987] {processor.py:163} INFO - Started process (PID=44675) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:14:30,988] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:14:30,988] {logging_mixin.py:109} INFO - [2021-11-24 13:14:30,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:14:31,011] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:14:31,188] {logging_mixin.py:109} INFO - [2021-11-24 13:14:31,188] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:31,198] {logging_mixin.py:109} INFO - [2021-11-24 13:14:31,198] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:14:31,207] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.223 seconds
+[2021-11-24 13:15:02,319] {processor.py:163} INFO - Started process (PID=44746) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:15:02,322] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:15:02,324] {logging_mixin.py:109} INFO - [2021-11-24 13:15:02,323] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:15:02,358] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:15:02,502] {logging_mixin.py:109} INFO - [2021-11-24 13:15:02,502] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:02,511] {logging_mixin.py:109} INFO - [2021-11-24 13:15:02,510] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:15:02,519] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.207 seconds
+[2021-11-24 13:15:33,175] {processor.py:163} INFO - Started process (PID=44812) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:15:33,179] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:15:33,180] {logging_mixin.py:109} INFO - [2021-11-24 13:15:33,180] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:15:33,212] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:15:33,361] {logging_mixin.py:109} INFO - [2021-11-24 13:15:33,361] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:33,371] {logging_mixin.py:109} INFO - [2021-11-24 13:15:33,371] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:15:33,379] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.211 seconds
+[2021-11-24 13:16:06,817] {processor.py:163} INFO - Started process (PID=45289) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:16:06,818] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:16:06,818] {logging_mixin.py:109} INFO - [2021-11-24 13:16:06,818] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:16:06,835] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:16:06,990] {logging_mixin.py:109} INFO - [2021-11-24 13:16:06,990] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:07,000] {logging_mixin.py:109} INFO - [2021-11-24 13:16:07,000] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:16:07,011] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:16:38,293] {processor.py:163} INFO - Started process (PID=45404) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:16:38,303] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:16:38,303] {logging_mixin.py:109} INFO - [2021-11-24 13:16:38,303] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:16:38,338] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:16:38,481] {logging_mixin.py:109} INFO - [2021-11-24 13:16:38,481] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:38,490] {logging_mixin.py:109} INFO - [2021-11-24 13:16:38,490] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:16:38,498] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.208 seconds
+[2021-11-24 13:17:13,779] {processor.py:163} INFO - Started process (PID=45545) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:17:13,788] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:17:13,788] {logging_mixin.py:109} INFO - [2021-11-24 13:17:13,788] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:17:13,805] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:17:13,946] {logging_mixin.py:109} INFO - [2021-11-24 13:17:13,946] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:13,955] {logging_mixin.py:109} INFO - [2021-11-24 13:17:13,955] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:17:13,974] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.197 seconds
+[2021-11-24 13:17:50,908] {processor.py:163} INFO - Started process (PID=45594) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:17:50,917] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:17:50,918] {logging_mixin.py:109} INFO - [2021-11-24 13:17:50,918] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:17:50,948] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:17:51,078] {logging_mixin.py:109} INFO - [2021-11-24 13:17:51,078] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:51,086] {logging_mixin.py:109} INFO - [2021-11-24 13:17:51,086] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:17:51,116] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.210 seconds
+[2021-11-24 13:18:22,977] {processor.py:163} INFO - Started process (PID=45644) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:18:22,987] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:18:22,989] {logging_mixin.py:109} INFO - [2021-11-24 13:18:22,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:18:23,027] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:18:23,162] {logging_mixin.py:109} INFO - [2021-11-24 13:18:23,162] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:23,169] {logging_mixin.py:109} INFO - [2021-11-24 13:18:23,169] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:18:23,177] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.203 seconds
+[2021-11-24 13:18:55,122] {processor.py:163} INFO - Started process (PID=45706) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:18:55,131] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:18:55,132] {logging_mixin.py:109} INFO - [2021-11-24 13:18:55,132] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:18:55,157] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:18:55,289] {logging_mixin.py:109} INFO - [2021-11-24 13:18:55,289] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:55,296] {logging_mixin.py:109} INFO - [2021-11-24 13:18:55,296] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:18:55,304] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.184 seconds
+[2021-11-24 13:19:33,058] {processor.py:163} INFO - Started process (PID=45760) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:19:33,068] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:19:33,068] {logging_mixin.py:109} INFO - [2021-11-24 13:19:33,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:19:33,087] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:19:33,218] {logging_mixin.py:109} INFO - [2021-11-24 13:19:33,218] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:33,225] {logging_mixin.py:109} INFO - [2021-11-24 13:19:33,225] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:19:33,233] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.177 seconds
+[2021-11-24 13:20:07,297] {processor.py:163} INFO - Started process (PID=45807) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:20:07,306] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:20:07,307] {logging_mixin.py:109} INFO - [2021-11-24 13:20:07,307] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:20:07,334] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:20:07,470] {logging_mixin.py:109} INFO - [2021-11-24 13:20:07,470] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:07,478] {logging_mixin.py:109} INFO - [2021-11-24 13:20:07,478] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:20:07,490] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:20:40,133] {processor.py:163} INFO - Started process (PID=45851) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:20:40,135] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:20:40,136] {logging_mixin.py:109} INFO - [2021-11-24 13:20:40,136] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:20:40,158] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:20:40,294] {logging_mixin.py:109} INFO - [2021-11-24 13:20:40,294] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:40,303] {logging_mixin.py:109} INFO - [2021-11-24 13:20:40,302] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:20:40,311] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.180 seconds
+[2021-11-24 13:21:13,645] {processor.py:163} INFO - Started process (PID=45908) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:21:13,655] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:21:13,655] {logging_mixin.py:109} INFO - [2021-11-24 13:21:13,655] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:21:13,679] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:21:13,811] {logging_mixin.py:109} INFO - [2021-11-24 13:21:13,811] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:13,819] {logging_mixin.py:109} INFO - [2021-11-24 13:21:13,819] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:21:13,832] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.189 seconds
+[2021-11-24 13:21:47,669] {processor.py:163} INFO - Started process (PID=45995) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:21:47,672] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:21:47,672] {logging_mixin.py:109} INFO - [2021-11-24 13:21:47,672] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:21:47,696] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:21:47,846] {logging_mixin.py:109} INFO - [2021-11-24 13:21:47,846] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:47,856] {logging_mixin.py:109} INFO - [2021-11-24 13:21:47,856] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:21:47,865] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.199 seconds
+[2021-11-24 13:22:18,814] {processor.py:163} INFO - Started process (PID=46054) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:22:18,816] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:22:18,817] {logging_mixin.py:109} INFO - [2021-11-24 13:22:18,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:22:18,833] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:22:19,052] {logging_mixin.py:109} INFO - [2021-11-24 13:22:19,052] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:19,063] {logging_mixin.py:109} INFO - [2021-11-24 13:22:19,063] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:22:19,072] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.260 seconds
+[2021-11-24 13:22:51,347] {processor.py:163} INFO - Started process (PID=46097) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:22:51,358] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:22:51,360] {logging_mixin.py:109} INFO - [2021-11-24 13:22:51,359] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:22:51,392] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:22:51,545] {logging_mixin.py:109} INFO - [2021-11-24 13:22:51,544] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:51,554] {logging_mixin.py:109} INFO - [2021-11-24 13:22:51,554] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:22:51,573] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.232 seconds
+[2021-11-24 13:23:25,107] {processor.py:163} INFO - Started process (PID=46485) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:23:25,117] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:23:25,119] {logging_mixin.py:109} INFO - [2021-11-24 13:23:25,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:23:25,161] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:23:25,297] {logging_mixin.py:109} INFO - [2021-11-24 13:23:25,297] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:25,304] {logging_mixin.py:109} INFO - [2021-11-24 13:23:25,304] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:23:25,335] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.231 seconds
+[2021-11-24 13:23:56,564] {processor.py:163} INFO - Started process (PID=46536) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:23:56,567] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:23:56,569] {logging_mixin.py:109} INFO - [2021-11-24 13:23:56,569] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:23:56,602] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:23:56,740] {logging_mixin.py:109} INFO - [2021-11-24 13:23:56,740] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:56,755] {logging_mixin.py:109} INFO - [2021-11-24 13:23:56,755] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:23:56,770] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.213 seconds
+[2021-11-24 13:24:32,122] {processor.py:163} INFO - Started process (PID=46664) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:24:32,124] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:24:32,125] {logging_mixin.py:109} INFO - [2021-11-24 13:24:32,125] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:24:32,146] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:24:32,327] {logging_mixin.py:109} INFO - [2021-11-24 13:24:32,327] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:32,338] {logging_mixin.py:109} INFO - [2021-11-24 13:24:32,338] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:24:32,347] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.227 seconds
+[2021-11-24 13:25:06,897] {processor.py:163} INFO - Started process (PID=46782) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:25:06,899] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:25:06,899] {logging_mixin.py:109} INFO - [2021-11-24 13:25:06,899] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:25:06,924] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:25:07,087] {logging_mixin.py:109} INFO - [2021-11-24 13:25:07,087] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:07,096] {logging_mixin.py:109} INFO - [2021-11-24 13:25:07,096] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:25:07,105] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.210 seconds
+[2021-11-24 13:25:43,603] {processor.py:163} INFO - Started process (PID=46840) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:25:43,607] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:25:43,608] {logging_mixin.py:109} INFO - [2021-11-24 13:25:43,608] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:25:43,647] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:25:43,789] {logging_mixin.py:109} INFO - [2021-11-24 13:25:43,789] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:43,797] {logging_mixin.py:109} INFO - [2021-11-24 13:25:43,797] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:25:43,805] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.205 seconds
+[2021-11-24 13:26:19,127] {processor.py:163} INFO - Started process (PID=46913) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:26:19,130] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:26:19,132] {logging_mixin.py:109} INFO - [2021-11-24 13:26:19,131] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:26:19,170] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:26:19,300] {logging_mixin.py:109} INFO - [2021-11-24 13:26:19,300] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:19,308] {logging_mixin.py:109} INFO - [2021-11-24 13:26:19,308] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:26:19,316] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:26:51,889] {processor.py:163} INFO - Started process (PID=47041) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:26:51,891] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:26:51,893] {logging_mixin.py:109} INFO - [2021-11-24 13:26:51,892] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:26:51,929] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:26:52,087] {logging_mixin.py:109} INFO - [2021-11-24 13:26:52,087] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:52,097] {logging_mixin.py:109} INFO - [2021-11-24 13:26:52,097] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:26:52,105] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.225 seconds
+[2021-11-24 13:27:29,236] {processor.py:163} INFO - Started process (PID=47097) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:27:29,239] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:27:29,241] {logging_mixin.py:109} INFO - [2021-11-24 13:27:29,240] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:27:29,281] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:27:29,413] {logging_mixin.py:109} INFO - [2021-11-24 13:27:29,413] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:29,421] {logging_mixin.py:109} INFO - [2021-11-24 13:27:29,421] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:27:29,429] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:27:59,695] {processor.py:163} INFO - Started process (PID=47159) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:27:59,706] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:27:59,707] {logging_mixin.py:109} INFO - [2021-11-24 13:27:59,707] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:27:59,738] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:27:59,884] {logging_mixin.py:109} INFO - [2021-11-24 13:27:59,884] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:59,892] {logging_mixin.py:109} INFO - [2021-11-24 13:27:59,892] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:27:59,901] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.213 seconds
+[2021-11-24 13:28:32,264] {processor.py:163} INFO - Started process (PID=47308) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:28:32,275] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:28:32,277] {logging_mixin.py:109} INFO - [2021-11-24 13:28:32,277] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:28:32,314] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:28:32,471] {logging_mixin.py:109} INFO - [2021-11-24 13:28:32,471] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:32,483] {logging_mixin.py:109} INFO - [2021-11-24 13:28:32,483] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:28:32,494] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.237 seconds
+[2021-11-24 13:29:09,233] {processor.py:163} INFO - Started process (PID=47401) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:29:09,242] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:29:09,242] {logging_mixin.py:109} INFO - [2021-11-24 13:29:09,242] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:29:09,264] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:29:09,415] {logging_mixin.py:109} INFO - [2021-11-24 13:29:09,415] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:09,425] {logging_mixin.py:109} INFO - [2021-11-24 13:29:09,424] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:29:09,434] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.204 seconds
+[2021-11-24 13:29:44,953] {processor.py:163} INFO - Started process (PID=47459) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:29:44,963] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:29:44,964] {logging_mixin.py:109} INFO - [2021-11-24 13:29:44,964] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:29:44,995] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:29:45,141] {logging_mixin.py:109} INFO - [2021-11-24 13:29:45,141] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:45,149] {logging_mixin.py:109} INFO - [2021-11-24 13:29:45,149] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:29:45,168] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.218 seconds
+[2021-11-24 13:30:21,746] {processor.py:163} INFO - Started process (PID=47543) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:30:21,748] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:30:21,748] {logging_mixin.py:109} INFO - [2021-11-24 13:30:21,748] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:30:21,772] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:30:21,910] {logging_mixin.py:109} INFO - [2021-11-24 13:30:21,910] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:21,918] {logging_mixin.py:109} INFO - [2021-11-24 13:30:21,918] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:30:21,926] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.183 seconds
+[2021-11-24 13:30:58,880] {processor.py:163} INFO - Started process (PID=47595) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:30:58,889] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:30:58,890] {logging_mixin.py:109} INFO - [2021-11-24 13:30:58,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:30:58,909] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:30:59,043] {logging_mixin.py:109} INFO - [2021-11-24 13:30:59,043] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:59,050] {logging_mixin.py:109} INFO - [2021-11-24 13:30:59,050] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:30:59,072] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.193 seconds
+[2021-11-24 13:31:30,635] {processor.py:163} INFO - Started process (PID=47648) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:31:30,644] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:31:30,644] {logging_mixin.py:109} INFO - [2021-11-24 13:31:30,644] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:31:30,662] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:31:30,799] {logging_mixin.py:109} INFO - [2021-11-24 13:31:30,799] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:30,807] {logging_mixin.py:109} INFO - [2021-11-24 13:31:30,807] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:31:30,827] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:32:07,360] {processor.py:163} INFO - Started process (PID=47792) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:32:07,369] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:32:07,370] {logging_mixin.py:109} INFO - [2021-11-24 13:32:07,370] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:32:07,388] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:32:07,539] {logging_mixin.py:109} INFO - [2021-11-24 13:32:07,539] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:07,547] {logging_mixin.py:109} INFO - [2021-11-24 13:32:07,547] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:32:07,571] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.212 seconds
+[2021-11-24 13:32:38,503] {processor.py:163} INFO - Started process (PID=48282) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:32:38,504] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:32:38,504] {logging_mixin.py:109} INFO - [2021-11-24 13:32:38,504] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:32:38,524] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:32:38,657] {logging_mixin.py:109} INFO - [2021-11-24 13:32:38,657] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:38,664] {logging_mixin.py:109} INFO - [2021-11-24 13:32:38,664] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:32:38,693] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.192 seconds
+[2021-11-24 13:33:13,748] {processor.py:163} INFO - Started process (PID=48497) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:33:13,757] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:33:13,758] {logging_mixin.py:109} INFO - [2021-11-24 13:33:13,758] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:33:13,778] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:33:13,915] {logging_mixin.py:109} INFO - [2021-11-24 13:33:13,915] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:13,923] {logging_mixin.py:109} INFO - [2021-11-24 13:33:13,922] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:33:13,931] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.185 seconds
+[2021-11-24 13:33:50,154] {processor.py:163} INFO - Started process (PID=48630) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:33:50,163] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:33:50,164] {logging_mixin.py:109} INFO - [2021-11-24 13:33:50,164] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:33:50,191] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:33:50,326] {logging_mixin.py:109} INFO - [2021-11-24 13:33:50,326] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:50,333] {logging_mixin.py:109} INFO - [2021-11-24 13:33:50,333] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:33:50,341] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.190 seconds
+[2021-11-24 13:34:21,465] {processor.py:163} INFO - Started process (PID=48715) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:34:21,474] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:34:21,474] {logging_mixin.py:109} INFO - [2021-11-24 13:34:21,474] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:34:21,492] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:34:21,627] {logging_mixin.py:109} INFO - [2021-11-24 13:34:21,627] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:21,635] {logging_mixin.py:109} INFO - [2021-11-24 13:34:21,634] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:34:21,642] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.180 seconds
+[2021-11-24 13:34:53,498] {processor.py:163} INFO - Started process (PID=48803) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:34:53,507] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:34:53,507] {logging_mixin.py:109} INFO - [2021-11-24 13:34:53,507] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:34:53,526] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:34:53,680] {logging_mixin.py:109} INFO - [2021-11-24 13:34:53,680] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:53,688] {logging_mixin.py:109} INFO - [2021-11-24 13:34:53,688] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:34:53,697] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.201 seconds
+[2021-11-24 13:35:23,977] {processor.py:163} INFO - Started process (PID=48880) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:35:23,986] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:35:23,987] {logging_mixin.py:109} INFO - [2021-11-24 13:35:23,987] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:35:24,016] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:35:24,154] {logging_mixin.py:109} INFO - [2021-11-24 13:35:24,154] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:24,161] {logging_mixin.py:109} INFO - [2021-11-24 13:35:24,161] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:35:24,169] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.194 seconds
+[2021-11-24 13:35:57,733] {processor.py:163} INFO - Started process (PID=48966) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:35:57,743] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:35:57,744] {logging_mixin.py:109} INFO - [2021-11-24 13:35:57,744] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:35:57,778] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:35:58,025] {logging_mixin.py:109} INFO - [2021-11-24 13:35:58,025] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:58,035] {logging_mixin.py:109} INFO - [2021-11-24 13:35:58,035] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:35:58,044] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.316 seconds
+[2021-11-24 13:36:34,938] {processor.py:163} INFO - Started process (PID=49058) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:36:34,947] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:36:34,948] {logging_mixin.py:109} INFO - [2021-11-24 13:36:34,948] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:36:34,983] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:36:35,198] {logging_mixin.py:109} INFO - [2021-11-24 13:36:35,198] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:35,214] {logging_mixin.py:109} INFO - [2021-11-24 13:36:35,214] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:36:35,241] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.307 seconds
+[2021-11-24 13:37:09,649] {processor.py:163} INFO - Started process (PID=49178) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:37:09,658] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:37:09,658] {logging_mixin.py:109} INFO - [2021-11-24 13:37:09,658] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:37:09,682] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:37:09,828] {logging_mixin.py:109} INFO - [2021-11-24 13:37:09,828] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:09,838] {logging_mixin.py:109} INFO - [2021-11-24 13:37:09,838] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:37:09,862] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.216 seconds
+[2021-11-24 13:37:46,509] {processor.py:163} INFO - Started process (PID=49317) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:37:46,519] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:37:46,519] {logging_mixin.py:109} INFO - [2021-11-24 13:37:46,519] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:37:46,546] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:37:46,682] {logging_mixin.py:109} INFO - [2021-11-24 13:37:46,682] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:46,689] {logging_mixin.py:109} INFO - [2021-11-24 13:37:46,689] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:37:46,697] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.191 seconds
+[2021-11-24 13:38:18,679] {processor.py:163} INFO - Started process (PID=49395) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:38:18,683] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:38:18,684] {logging_mixin.py:109} INFO - [2021-11-24 13:38:18,684] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:38:18,716] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:38:18,852] {logging_mixin.py:109} INFO - [2021-11-24 13:38:18,852] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:18,860] {logging_mixin.py:109} INFO - [2021-11-24 13:38:18,860] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:38:18,868] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.195 seconds
+[2021-11-24 13:38:55,227] {processor.py:163} INFO - Started process (PID=49452) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:38:55,229] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:38:55,231] {logging_mixin.py:109} INFO - [2021-11-24 13:38:55,230] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:38:55,266] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:38:55,419] {logging_mixin.py:109} INFO - [2021-11-24 13:38:55,419] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:55,428] {logging_mixin.py:109} INFO - [2021-11-24 13:38:55,428] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:38:55,436] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.216 seconds
+[2021-11-24 13:39:30,085] {processor.py:163} INFO - Started process (PID=49590) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:39:30,097] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:39:30,099] {logging_mixin.py:109} INFO - [2021-11-24 13:39:30,099] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:39:30,135] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:39:30,271] {logging_mixin.py:109} INFO - [2021-11-24 13:39:30,271] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:30,279] {logging_mixin.py:109} INFO - [2021-11-24 13:39:30,279] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:39:30,299] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.221 seconds
+[2021-11-24 13:40:04,899] {processor.py:163} INFO - Started process (PID=49659) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:40:04,908] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:40:04,909] {logging_mixin.py:109} INFO - [2021-11-24 13:40:04,909] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:40:04,937] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:40:05,191] {logging_mixin.py:109} INFO - [2021-11-24 13:40:05,191] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:05,205] {logging_mixin.py:109} INFO - [2021-11-24 13:40:05,205] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:40:05,238] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.342 seconds
+[2021-11-24 13:40:36,670] {processor.py:163} INFO - Started process (PID=49741) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:40:36,671] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:40:36,672] {logging_mixin.py:109} INFO - [2021-11-24 13:40:36,672] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:40:36,694] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:40:36,851] {logging_mixin.py:109} INFO - [2021-11-24 13:40:36,851] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:36,860] {logging_mixin.py:109} INFO - [2021-11-24 13:40:36,860] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:40:36,889] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.221 seconds
+[2021-11-24 13:41:09,285] {processor.py:163} INFO - Started process (PID=49792) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:41:09,295] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:41:09,296] {logging_mixin.py:109} INFO - [2021-11-24 13:41:09,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:41:09,331] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:41:09,482] {logging_mixin.py:109} INFO - [2021-11-24 13:41:09,482] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:09,490] {logging_mixin.py:109} INFO - [2021-11-24 13:41:09,490] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:41:09,521] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.238 seconds
+[2021-11-24 13:41:44,079] {processor.py:163} INFO - Started process (PID=49904) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:41:44,089] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:41:44,090] {logging_mixin.py:109} INFO - [2021-11-24 13:41:44,089] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:41:44,120] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:41:44,267] {logging_mixin.py:109} INFO - [2021-11-24 13:41:44,266] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:44,275] {logging_mixin.py:109} INFO - [2021-11-24 13:41:44,275] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:41:44,298] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.221 seconds
+[2021-11-24 13:42:20,602] {processor.py:163} INFO - Started process (PID=49996) to work on /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:42:20,613] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py for tasks to queue
+[2021-11-24 13:42:20,615] {logging_mixin.py:109} INFO - [2021-11-24 13:42:20,614] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:42:20,651] {processor.py:632} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v01']) retrieved from /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py
+[2021-11-24 13:42:20,791] {logging_mixin.py:109} INFO - [2021-11-24 13:42:20,791] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:42:20,799] {logging_mixin.py:109} INFO - [2021-11-24 13:42:20,799] {dag.py:2921} INFO - Setting next_dagrun for dag_with_taskflow_api_v01 to 2021-11-21T00:00:00+00:00
+[2021-11-24 13:42:20,807] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/dags/DAG_w_taskflowapi.py took 0.212 seconds

@@ -1,0 +1,81 @@
+[2021-11-21 21:13:11,697] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.fetch_origin manual__2021-11-21T20:10:45.766799+00:00 [queued]>
+[2021-11-21 21:13:11,702] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.fetch_origin manual__2021-11-21T20:10:45.766799+00:00 [queued]>
+[2021-11-21 21:13:11,703] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:13:11,703] {taskinstance.py:1242} INFO - Starting attempt 2 of 6
+[2021-11-21 21:13:11,703] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 21:13:11,711] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): fetch_origin> on 2021-11-21 20:10:45.766799+00:00
+[2021-11-21 21:13:11,714] {standard_task_runner.py:52} INFO - Started process 31540 to run task
+[2021-11-21 21:13:11,716] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'DWBI_HW2_dag', 'fetch_origin', 'manual__2021-11-21T20:10:45.766799+00:00', '--job-id', '87', '--raw', '--subdir', '/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py', '--cfg-path', '/tmp/tmp4k4b2jd1', '--error-file', '/tmp/tmpzic99oci']
+[2021-11-21 21:13:11,717] {standard_task_runner.py:77} INFO - Job 87: Subtask fetch_origin
+[2021-11-21 21:13:11,738] {logging_mixin.py:109} INFO - Running <TaskInstance: DWBI_HW2_dag.fetch_origin manual__2021-11-21T20:10:45.766799+00:00 [running]> on host dj-XPS
+[2021-11-21 21:13:11,759] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=dj
+AIRFLOW_CTX_DAG_ID=DWBI_HW2_dag
+AIRFLOW_CTX_TASK_ID=fetch_origin
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-21T20:10:45.766799+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-21T20:10:45.766799+00:00
+[2021-11-21 21:13:11,759] {taskinstance.py:1703} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1332, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1458, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1514, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/decorators/base.py", line 134, in execute
+    return_value = super().execute(context)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/operators/python.py", line 151, in execute
+    return_value = self.execute_callable()
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/operators/python.py", line 162, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py", line 76, in fetch_origin
+    origin_dict = json.loads(origin)
+  File "/home/dante/anaconda3/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/home/dante/anaconda3/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/dante/anaconda3/lib/python3.8/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+[2021-11-21 21:13:11,764] {taskinstance.py:1270} INFO - Marking task as UP_FOR_RETRY. dag_id=DWBI_HW2_dag, task_id=fetch_origin, execution_date=20211121T201045, start_date=20211121T201311, end_date=20211121T201311
+[2021-11-21 21:13:11,775] {standard_task_runner.py:88} ERROR - Failed to execute job 87 for task fetch_origin
+Traceback (most recent call last):
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 292, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1332, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1458, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1514, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/decorators/base.py", line 134, in execute
+    return_value = super().execute(context)
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/operators/python.py", line 151, in execute
+    return_value = self.execute_callable()
+  File "/home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/operators/python.py", line 162, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py", line 76, in fetch_origin
+    origin_dict = json.loads(origin)
+  File "/home/dante/anaconda3/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/home/dante/anaconda3/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/dante/anaconda3/lib/python3.8/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+[2021-11-21 21:13:11,808] {local_task_job.py:154} INFO - Task exited with return code 1
+[2021-11-21 21:13:11,825] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

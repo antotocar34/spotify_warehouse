@@ -1,0 +1,15 @@
+,Make,Model,ManufacturingYear,Price,Horsepower,EmissionCategory,FuelType,VIN
+0,Porsche,Panamera,2021,200000,500,E,Gasoline,10923857
+1,Porsche,Cayenne,2019,130000,350,C,Gasoline,305982705
+2,BMW,530d,2007,40000,313,B,Diesel,23490185
+3,Porsche,Macan,2018,110000,310,B,Gasoline,2938579237
+4,Audi,Q7,2015,70000,240,C,Diesel,2035920398
+5,Audi,A6,2012,50000,272,D,Diesel,239405067
+6,Audi,A6,2014,60000,,D,Diesel,2389547
+7,Porsche,Panamera,2020,170000,,B,Gasoline,3409571
+8,Porsche,Macan,2018,90000,,C,Gasoline,20359802
+9,BMW,530d,2015,80000,,D,Diesel,109585097
+10,BMW,530d,2015,,313,D,Diesel,239487234987
+11,Porsche,Cayenne,2012,,330,C,Diesel,209358023589
+12,Toyota,Camry,2012,,100,C,Diesel,23950230958
+13,Toyota,Camry,2015,,110,B,Diesel,2309423904

@@ -1,0 +1,434 @@
+[2021-11-24 13:02:04,084] {processor.py:163} INFO - Started process (PID=42706) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:02:04,085] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:02:04,085] {logging_mixin.py:109} INFO - [2021-11-24 13:02:04,085] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:02:04,101] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:02:04,109] {logging_mixin.py:109} INFO - [2021-11-24 13:02:04,109] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:04,120] {logging_mixin.py:109} INFO - [2021-11-24 13:02:04,120] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:02:04.120356+00:00
+[2021-11-24 13:02:04,136] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.054 seconds
+[2021-11-24 13:02:41,622] {processor.py:163} INFO - Started process (PID=42757) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:02:41,632] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:02:41,635] {logging_mixin.py:109} INFO - [2021-11-24 13:02:41,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:02:41,663] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:02:41,670] {logging_mixin.py:109} INFO - [2021-11-24 13:02:41,670] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:41,681] {logging_mixin.py:109} INFO - [2021-11-24 13:02:41,681] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:02:41.681639+00:00
+[2021-11-24 13:02:41,690] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.075 seconds
+[2021-11-24 13:03:22,507] {processor.py:163} INFO - Started process (PID=42885) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:03:22,518] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:03:22,520] {logging_mixin.py:109} INFO - [2021-11-24 13:03:22,519] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:03:22,550] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:03:22,558] {logging_mixin.py:109} INFO - [2021-11-24 13:03:22,558] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:22,567] {logging_mixin.py:109} INFO - [2021-11-24 13:03:22,567] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:03:22.567190+00:00
+[2021-11-24 13:03:22,575] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.074 seconds
+[2021-11-24 13:04:01,257] {processor.py:163} INFO - Started process (PID=42945) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:04:01,267] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:04:01,267] {logging_mixin.py:109} INFO - [2021-11-24 13:04:01,267] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:04:01,285] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:04:01,293] {logging_mixin.py:109} INFO - [2021-11-24 13:04:01,293] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:01,302] {logging_mixin.py:109} INFO - [2021-11-24 13:04:01,302] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:04:01.302512+00:00
+[2021-11-24 13:04:01,313] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.058 seconds
+[2021-11-24 13:04:48,944] {processor.py:163} INFO - Started process (PID=43147) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:04:48,955] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:04:48,956] {logging_mixin.py:109} INFO - [2021-11-24 13:04:48,956] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:04:48,986] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:04:48,994] {logging_mixin.py:109} INFO - [2021-11-24 13:04:48,994] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:49,003] {logging_mixin.py:109} INFO - [2021-11-24 13:04:49,003] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:04:49.002947+00:00
+[2021-11-24 13:04:49,020] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.078 seconds
+[2021-11-24 13:05:26,963] {processor.py:163} INFO - Started process (PID=43230) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:05:26,975] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:05:26,976] {logging_mixin.py:109} INFO - [2021-11-24 13:05:26,976] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:05:27,009] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:05:27,016] {logging_mixin.py:109} INFO - [2021-11-24 13:05:27,016] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:27,025] {logging_mixin.py:109} INFO - [2021-11-24 13:05:27,025] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:05:27.025266+00:00
+[2021-11-24 13:05:27,035] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.078 seconds
+[2021-11-24 13:06:04,567] {processor.py:163} INFO - Started process (PID=43291) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:06:04,576] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:06:04,577] {logging_mixin.py:109} INFO - [2021-11-24 13:06:04,576] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:06:04,592] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:06:04,600] {logging_mixin.py:109} INFO - [2021-11-24 13:06:04,600] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:04,608] {logging_mixin.py:109} INFO - [2021-11-24 13:06:04,608] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:06:04.608573+00:00
+[2021-11-24 13:06:04,632] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.067 seconds
+[2021-11-24 13:06:45,587] {processor.py:163} INFO - Started process (PID=43376) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:06:45,596] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:06:45,597] {logging_mixin.py:109} INFO - [2021-11-24 13:06:45,597] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:06:45,611] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:06:45,618] {logging_mixin.py:109} INFO - [2021-11-24 13:06:45,618] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:45,627] {logging_mixin.py:109} INFO - [2021-11-24 13:06:45,627] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:06:45.627210+00:00
+[2021-11-24 13:06:45,652] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.068 seconds
+[2021-11-24 13:07:24,338] {processor.py:163} INFO - Started process (PID=43426) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:07:24,347] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:07:24,348] {logging_mixin.py:109} INFO - [2021-11-24 13:07:24,348] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:07:24,374] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:07:24,385] {logging_mixin.py:109} INFO - [2021-11-24 13:07:24,385] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:24,394] {logging_mixin.py:109} INFO - [2021-11-24 13:07:24,394] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:07:24.394486+00:00
+[2021-11-24 13:07:24,410] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.075 seconds
+[2021-11-24 13:08:02,192] {processor.py:163} INFO - Started process (PID=43476) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:08:02,203] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:08:02,204] {logging_mixin.py:109} INFO - [2021-11-24 13:08:02,204] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:08:02,220] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:08:02,228] {logging_mixin.py:109} INFO - [2021-11-24 13:08:02,228] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:02,238] {logging_mixin.py:109} INFO - [2021-11-24 13:08:02,238] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:08:02.237795+00:00
+[2021-11-24 13:08:02,248] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.057 seconds
+[2021-11-24 13:08:41,353] {processor.py:163} INFO - Started process (PID=43552) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:08:41,363] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:08:41,364] {logging_mixin.py:109} INFO - [2021-11-24 13:08:41,364] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:08:41,391] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:08:41,400] {logging_mixin.py:109} INFO - [2021-11-24 13:08:41,400] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:41,410] {logging_mixin.py:109} INFO - [2021-11-24 13:08:41,410] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:08:41.410074+00:00
+[2021-11-24 13:08:41,419] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.069 seconds
+[2021-11-24 13:09:24,090] {processor.py:163} INFO - Started process (PID=43627) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:09:24,100] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:09:24,101] {logging_mixin.py:109} INFO - [2021-11-24 13:09:24,101] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:09:24,125] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:09:24,145] {logging_mixin.py:109} INFO - [2021-11-24 13:09:24,144] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:24,178] {logging_mixin.py:109} INFO - [2021-11-24 13:09:24,178] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:09:24.177288+00:00
+[2021-11-24 13:09:24,207] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.123 seconds
+[2021-11-24 13:10:06,608] {processor.py:163} INFO - Started process (PID=43824) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:10:06,610] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:10:06,610] {logging_mixin.py:109} INFO - [2021-11-24 13:10:06,610] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:10:06,629] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:10:06,638] {logging_mixin.py:109} INFO - [2021-11-24 13:10:06,638] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:06,649] {logging_mixin.py:109} INFO - [2021-11-24 13:10:06,649] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:10:06.649549+00:00
+[2021-11-24 13:10:06,660] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.056 seconds
+[2021-11-24 13:10:46,885] {processor.py:163} INFO - Started process (PID=44072) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:10:46,888] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:10:46,889] {logging_mixin.py:109} INFO - [2021-11-24 13:10:46,889] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:10:46,918] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:10:46,928] {logging_mixin.py:109} INFO - [2021-11-24 13:10:46,928] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:46,947] {logging_mixin.py:109} INFO - [2021-11-24 13:10:46,947] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:10:46.946677+00:00
+[2021-11-24 13:10:46,963] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.081 seconds
+[2021-11-24 13:11:28,420] {processor.py:163} INFO - Started process (PID=44183) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:11:28,430] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:11:28,431] {logging_mixin.py:109} INFO - [2021-11-24 13:11:28,431] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:11:28,454] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:11:28,462] {logging_mixin.py:109} INFO - [2021-11-24 13:11:28,462] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:28,473] {logging_mixin.py:109} INFO - [2021-11-24 13:11:28,473] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:11:28.472779+00:00
+[2021-11-24 13:11:28,509] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.091 seconds
+[2021-11-24 13:12:07,445] {processor.py:163} INFO - Started process (PID=44288) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:12:07,456] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:12:07,458] {logging_mixin.py:109} INFO - [2021-11-24 13:12:07,458] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:12:07,492] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:12:07,502] {logging_mixin.py:109} INFO - [2021-11-24 13:12:07,502] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:07,513] {logging_mixin.py:109} INFO - [2021-11-24 13:12:07,513] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:12:07.513139+00:00
+[2021-11-24 13:12:07,534] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.095 seconds
+[2021-11-24 13:12:46,581] {processor.py:163} INFO - Started process (PID=44343) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:12:46,590] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:12:46,591] {logging_mixin.py:109} INFO - [2021-11-24 13:12:46,591] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:12:46,604] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:12:46,611] {logging_mixin.py:109} INFO - [2021-11-24 13:12:46,611] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:46,620] {logging_mixin.py:109} INFO - [2021-11-24 13:12:46,620] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:12:46.620118+00:00
+[2021-11-24 13:12:46,628] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.049 seconds
+[2021-11-24 13:13:25,675] {processor.py:163} INFO - Started process (PID=44499) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:13:25,679] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:13:25,680] {logging_mixin.py:109} INFO - [2021-11-24 13:13:25,680] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:13:25,711] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:13:25,719] {logging_mixin.py:109} INFO - [2021-11-24 13:13:25,719] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:25,728] {logging_mixin.py:109} INFO - [2021-11-24 13:13:25,728] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:13:25.728140+00:00
+[2021-11-24 13:13:25,736] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.067 seconds
+[2021-11-24 13:14:04,334] {processor.py:163} INFO - Started process (PID=44559) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:14:04,337] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:14:04,338] {logging_mixin.py:109} INFO - [2021-11-24 13:14:04,337] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:14:04,358] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:14:04,367] {logging_mixin.py:109} INFO - [2021-11-24 13:14:04,367] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:04,377] {logging_mixin.py:109} INFO - [2021-11-24 13:14:04,377] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:14:04.377440+00:00
+[2021-11-24 13:14:04,385] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.053 seconds
+[2021-11-24 13:14:44,056] {processor.py:163} INFO - Started process (PID=44698) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:14:44,068] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:14:44,069] {logging_mixin.py:109} INFO - [2021-11-24 13:14:44,069] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:14:44,103] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:14:44,111] {logging_mixin.py:109} INFO - [2021-11-24 13:14:44,111] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:44,121] {logging_mixin.py:109} INFO - [2021-11-24 13:14:44,121] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:14:44.121204+00:00
+[2021-11-24 13:14:44,130] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.080 seconds
+[2021-11-24 13:15:22,585] {processor.py:163} INFO - Started process (PID=44790) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:15:22,594] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:15:22,594] {logging_mixin.py:109} INFO - [2021-11-24 13:15:22,594] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:15:22,609] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:15:22,616] {logging_mixin.py:109} INFO - [2021-11-24 13:15:22,616] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:22,625] {logging_mixin.py:109} INFO - [2021-11-24 13:15:22,625] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:15:22.625440+00:00
+[2021-11-24 13:15:22,644] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.062 seconds
+[2021-11-24 13:16:03,844] {processor.py:163} INFO - Started process (PID=45262) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:16:03,854] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:16:03,854] {logging_mixin.py:109} INFO - [2021-11-24 13:16:03,854] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:16:03,873] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:16:03,880] {logging_mixin.py:109} INFO - [2021-11-24 13:16:03,880] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:03,890] {logging_mixin.py:109} INFO - [2021-11-24 13:16:03,890] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:16:03.890581+00:00
+[2021-11-24 13:16:03,899] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.058 seconds
+[2021-11-24 13:16:41,166] {processor.py:163} INFO - Started process (PID=45411) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:16:41,171] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:16:41,173] {logging_mixin.py:109} INFO - [2021-11-24 13:16:41,172] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:16:41,201] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:16:41,208] {logging_mixin.py:109} INFO - [2021-11-24 13:16:41,208] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:41,218] {logging_mixin.py:109} INFO - [2021-11-24 13:16:41,217] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:16:41.217725+00:00
+[2021-11-24 13:16:41,225] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.065 seconds
+[2021-11-24 13:17:17,781] {processor.py:163} INFO - Started process (PID=45553) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:17:17,783] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:17:17,783] {logging_mixin.py:109} INFO - [2021-11-24 13:17:17,783] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:17:17,799] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:17:17,806] {logging_mixin.py:109} INFO - [2021-11-24 13:17:17,805] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:17,815] {logging_mixin.py:109} INFO - [2021-11-24 13:17:17,815] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:17:17.815076+00:00
+[2021-11-24 13:17:17,823] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.045 seconds
+[2021-11-24 13:17:55,697] {processor.py:163} INFO - Started process (PID=45599) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:17:55,700] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:17:55,700] {logging_mixin.py:109} INFO - [2021-11-24 13:17:55,700] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:17:55,721] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:17:55,731] {logging_mixin.py:109} INFO - [2021-11-24 13:17:55,730] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:55,740] {logging_mixin.py:109} INFO - [2021-11-24 13:17:55,740] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:17:55.740141+00:00
+[2021-11-24 13:17:55,748] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.053 seconds
+[2021-11-24 13:18:36,260] {processor.py:163} INFO - Started process (PID=45679) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:18:36,270] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:18:36,271] {logging_mixin.py:109} INFO - [2021-11-24 13:18:36,271] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:18:36,298] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:18:36,308] {logging_mixin.py:109} INFO - [2021-11-24 13:18:36,308] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:36,317] {logging_mixin.py:109} INFO - [2021-11-24 13:18:36,317] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:18:36.317471+00:00
+[2021-11-24 13:18:36,326] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.069 seconds
+[2021-11-24 13:19:13,746] {processor.py:163} INFO - Started process (PID=45731) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:19:13,748] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:19:13,748] {logging_mixin.py:109} INFO - [2021-11-24 13:19:13,748] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:19:13,768] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:19:13,776] {logging_mixin.py:109} INFO - [2021-11-24 13:19:13,776] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:13,786] {logging_mixin.py:109} INFO - [2021-11-24 13:19:13,786] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:19:13.786139+00:00
+[2021-11-24 13:19:13,793] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.050 seconds
+[2021-11-24 13:19:54,845] {processor.py:163} INFO - Started process (PID=45785) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:19:54,847] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:19:54,847] {logging_mixin.py:109} INFO - [2021-11-24 13:19:54,847] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:19:54,867] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:19:54,875] {logging_mixin.py:109} INFO - [2021-11-24 13:19:54,875] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:54,884] {logging_mixin.py:109} INFO - [2021-11-24 13:19:54,884] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:19:54.884662+00:00
+[2021-11-24 13:19:54,892] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.050 seconds
+[2021-11-24 13:20:37,579] {processor.py:163} INFO - Started process (PID=45848) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:20:37,581] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:20:37,582] {logging_mixin.py:109} INFO - [2021-11-24 13:20:37,582] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:20:37,616] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:20:37,624] {logging_mixin.py:109} INFO - [2021-11-24 13:20:37,624] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:37,633] {logging_mixin.py:109} INFO - [2021-11-24 13:20:37,633] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:20:37.633422+00:00
+[2021-11-24 13:20:37,641] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.066 seconds
+[2021-11-24 13:21:16,491] {processor.py:163} INFO - Started process (PID=45911) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:21:16,496] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:21:16,497] {logging_mixin.py:109} INFO - [2021-11-24 13:21:16,497] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:21:16,528] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:21:16,535] {logging_mixin.py:109} INFO - [2021-11-24 13:21:16,535] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:16,544] {logging_mixin.py:109} INFO - [2021-11-24 13:21:16,544] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:21:16.544157+00:00
+[2021-11-24 13:21:16,551] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.067 seconds
+[2021-11-24 13:21:53,044] {processor.py:163} INFO - Started process (PID=46003) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:21:53,046] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:21:53,046] {logging_mixin.py:109} INFO - [2021-11-24 13:21:53,046] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:21:53,061] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:21:53,068] {logging_mixin.py:109} INFO - [2021-11-24 13:21:53,068] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:53,077] {logging_mixin.py:109} INFO - [2021-11-24 13:21:53,077] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:21:53.077648+00:00
+[2021-11-24 13:21:53,086] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.045 seconds
+[2021-11-24 13:22:31,818] {processor.py:163} INFO - Started process (PID=46068) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:22:31,821] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:22:31,823] {logging_mixin.py:109} INFO - [2021-11-24 13:22:31,823] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:22:31,852] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:22:31,860] {logging_mixin.py:109} INFO - [2021-11-24 13:22:31,860] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:31,869] {logging_mixin.py:109} INFO - [2021-11-24 13:22:31,869] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:22:31.869075+00:00
+[2021-11-24 13:22:31,877] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.066 seconds
+[2021-11-24 13:23:14,592] {processor.py:163} INFO - Started process (PID=46464) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:23:14,595] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:23:14,596] {logging_mixin.py:109} INFO - [2021-11-24 13:23:14,596] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:23:14,625] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:23:14,632] {logging_mixin.py:109} INFO - [2021-11-24 13:23:14,632] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:14,641] {logging_mixin.py:109} INFO - [2021-11-24 13:23:14,641] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:23:14.641344+00:00
+[2021-11-24 13:23:14,649] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.063 seconds
+[2021-11-24 13:23:53,690] {processor.py:163} INFO - Started process (PID=46526) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:23:53,701] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:23:53,702] {logging_mixin.py:109} INFO - [2021-11-24 13:23:53,702] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:23:53,733] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:23:53,743] {logging_mixin.py:109} INFO - [2021-11-24 13:23:53,743] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:53,752] {logging_mixin.py:109} INFO - [2021-11-24 13:23:53,752] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:23:53.752526+00:00
+[2021-11-24 13:23:53,769] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.086 seconds
+[2021-11-24 13:24:29,730] {processor.py:163} INFO - Started process (PID=46635) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:24:29,732] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:24:29,732] {logging_mixin.py:109} INFO - [2021-11-24 13:24:29,732] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:24:29,748] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:24:29,756] {logging_mixin.py:109} INFO - [2021-11-24 13:24:29,756] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:29,766] {logging_mixin.py:109} INFO - [2021-11-24 13:24:29,766] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:24:29.766636+00:00
+[2021-11-24 13:24:29,774] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.046 seconds
+[2021-11-24 13:25:10,901] {processor.py:163} INFO - Started process (PID=46792) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:25:10,903] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:25:10,904] {logging_mixin.py:109} INFO - [2021-11-24 13:25:10,904] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:25:10,934] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:25:10,948] {logging_mixin.py:109} INFO - [2021-11-24 13:25:10,947] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:10,965] {logging_mixin.py:109} INFO - [2021-11-24 13:25:10,965] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:25:10.964994+00:00
+[2021-11-24 13:25:10,978] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.081 seconds
+[2021-11-24 13:25:47,611] {processor.py:163} INFO - Started process (PID=46846) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:25:47,615] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:25:47,616] {logging_mixin.py:109} INFO - [2021-11-24 13:25:47,616] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:25:47,648] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:25:47,655] {logging_mixin.py:109} INFO - [2021-11-24 13:25:47,655] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:47,666] {logging_mixin.py:109} INFO - [2021-11-24 13:25:47,666] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:25:47.666123+00:00
+[2021-11-24 13:25:47,675] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.071 seconds
+[2021-11-24 13:26:24,466] {processor.py:163} INFO - Started process (PID=46923) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:26:24,468] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:26:24,468] {logging_mixin.py:109} INFO - [2021-11-24 13:26:24,468] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:26:24,482] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:26:24,489] {logging_mixin.py:109} INFO - [2021-11-24 13:26:24,489] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:24,498] {logging_mixin.py:109} INFO - [2021-11-24 13:26:24,497] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:26:24.497724+00:00
+[2021-11-24 13:26:24,505] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.041 seconds
+[2021-11-24 13:27:03,320] {processor.py:163} INFO - Started process (PID=47054) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:27:03,329] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:27:03,330] {logging_mixin.py:109} INFO - [2021-11-24 13:27:03,330] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:27:03,343] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:27:03,350] {logging_mixin.py:109} INFO - [2021-11-24 13:27:03,350] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:03,358] {logging_mixin.py:109} INFO - [2021-11-24 13:27:03,358] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:27:03.358494+00:00
+[2021-11-24 13:27:03,367] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.048 seconds
+[2021-11-24 13:27:42,560] {processor.py:163} INFO - Started process (PID=47115) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:27:42,562] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:27:42,562] {logging_mixin.py:109} INFO - [2021-11-24 13:27:42,562] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:27:42,579] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:27:42,589] {logging_mixin.py:109} INFO - [2021-11-24 13:27:42,588] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:42,597] {logging_mixin.py:109} INFO - [2021-11-24 13:27:42,597] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:27:42.597325+00:00
+[2021-11-24 13:27:42,604] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.046 seconds
+[2021-11-24 13:28:22,683] {processor.py:163} INFO - Started process (PID=47286) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:28:22,692] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:28:22,693] {logging_mixin.py:109} INFO - [2021-11-24 13:28:22,693] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:28:22,711] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:28:22,719] {logging_mixin.py:109} INFO - [2021-11-24 13:28:22,719] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:22,728] {logging_mixin.py:109} INFO - [2021-11-24 13:28:22,728] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:28:22.728532+00:00
+[2021-11-24 13:28:22,743] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.063 seconds
+[2021-11-24 13:28:59,011] {processor.py:163} INFO - Started process (PID=47376) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:28:59,020] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:28:59,021] {logging_mixin.py:109} INFO - [2021-11-24 13:28:59,021] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:28:59,039] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:28:59,047] {logging_mixin.py:109} INFO - [2021-11-24 13:28:59,046] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:59,056] {logging_mixin.py:109} INFO - [2021-11-24 13:28:59,056] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:28:59.055985+00:00
+[2021-11-24 13:28:59,063] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.062 seconds
+[2021-11-24 13:29:36,459] {processor.py:163} INFO - Started process (PID=47441) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:29:36,471] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:29:36,473] {logging_mixin.py:109} INFO - [2021-11-24 13:29:36,473] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:29:36,490] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:29:36,498] {logging_mixin.py:109} INFO - [2021-11-24 13:29:36,498] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:36,508] {logging_mixin.py:109} INFO - [2021-11-24 13:29:36,508] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:29:36.508304+00:00
+[2021-11-24 13:29:36,516] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.059 seconds
+[2021-11-24 13:30:13,227] {processor.py:163} INFO - Started process (PID=47523) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:30:13,229] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:30:13,231] {logging_mixin.py:109} INFO - [2021-11-24 13:30:13,231] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:30:13,260] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:30:13,267] {logging_mixin.py:109} INFO - [2021-11-24 13:30:13,267] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:13,276] {logging_mixin.py:109} INFO - [2021-11-24 13:30:13,276] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:30:13.276641+00:00
+[2021-11-24 13:30:13,284] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.064 seconds
+[2021-11-24 13:30:48,615] {processor.py:163} INFO - Started process (PID=47578) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:30:48,624] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:30:48,625] {logging_mixin.py:109} INFO - [2021-11-24 13:30:48,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:30:48,645] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:30:48,653] {logging_mixin.py:109} INFO - [2021-11-24 13:30:48,653] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:48,662] {logging_mixin.py:109} INFO - [2021-11-24 13:30:48,662] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:30:48.662613+00:00
+[2021-11-24 13:30:48,671] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.058 seconds
+[2021-11-24 13:31:28,881] {processor.py:163} INFO - Started process (PID=47645) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:31:28,892] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:31:28,894] {logging_mixin.py:109} INFO - [2021-11-24 13:31:28,893] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:31:28,923] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:31:28,930] {logging_mixin.py:109} INFO - [2021-11-24 13:31:28,930] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:28,940] {logging_mixin.py:109} INFO - [2021-11-24 13:31:28,940] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:31:28.940174+00:00
+[2021-11-24 13:31:28,947] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.073 seconds
+[2021-11-24 13:32:03,911] {processor.py:163} INFO - Started process (PID=47788) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:32:03,915] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:32:03,916] {logging_mixin.py:109} INFO - [2021-11-24 13:32:03,916] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:32:03,938] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:32:03,945] {logging_mixin.py:109} INFO - [2021-11-24 13:32:03,945] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:03,955] {logging_mixin.py:109} INFO - [2021-11-24 13:32:03,955] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:32:03.954976+00:00
+[2021-11-24 13:32:03,963] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.060 seconds
+[2021-11-24 13:32:41,418] {processor.py:163} INFO - Started process (PID=48286) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:32:41,429] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:32:41,430] {logging_mixin.py:109} INFO - [2021-11-24 13:32:41,430] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:32:41,460] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:32:41,467] {logging_mixin.py:109} INFO - [2021-11-24 13:32:41,467] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:41,476] {logging_mixin.py:109} INFO - [2021-11-24 13:32:41,476] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:32:41.476298+00:00
+[2021-11-24 13:32:41,485] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.074 seconds
+[2021-11-24 13:33:16,617] {processor.py:163} INFO - Started process (PID=48500) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:33:16,629] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:33:16,631] {logging_mixin.py:109} INFO - [2021-11-24 13:33:16,630] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:33:16,649] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:33:16,656] {logging_mixin.py:109} INFO - [2021-11-24 13:33:16,656] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:16,666] {logging_mixin.py:109} INFO - [2021-11-24 13:33:16,666] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:33:16.665846+00:00
+[2021-11-24 13:33:16,674] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.065 seconds
+[2021-11-24 13:33:54,176] {processor.py:163} INFO - Started process (PID=48634) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:33:54,178] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:33:54,179] {logging_mixin.py:109} INFO - [2021-11-24 13:33:54,178] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:33:54,196] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:33:54,203] {logging_mixin.py:109} INFO - [2021-11-24 13:33:54,203] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:54,212] {logging_mixin.py:109} INFO - [2021-11-24 13:33:54,212] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:33:54.212375+00:00
+[2021-11-24 13:33:54,219] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.045 seconds
+[2021-11-24 13:34:33,584] {processor.py:163} INFO - Started process (PID=48750) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:34:33,586] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:34:33,587] {logging_mixin.py:109} INFO - [2021-11-24 13:34:33,587] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:34:33,603] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:34:33,611] {logging_mixin.py:109} INFO - [2021-11-24 13:34:33,611] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:33,621] {logging_mixin.py:109} INFO - [2021-11-24 13:34:33,621] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:34:33.621269+00:00
+[2021-11-24 13:34:33,629] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.048 seconds
+[2021-11-24 13:35:15,495] {processor.py:163} INFO - Started process (PID=48863) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:35:15,496] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:35:15,497] {logging_mixin.py:109} INFO - [2021-11-24 13:35:15,497] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:35:15,520] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:35:15,529] {logging_mixin.py:109} INFO - [2021-11-24 13:35:15,529] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:15,541] {logging_mixin.py:109} INFO - [2021-11-24 13:35:15,541] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:35:15.541167+00:00
+[2021-11-24 13:35:15,550] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.059 seconds
+[2021-11-24 13:35:53,193] {processor.py:163} INFO - Started process (PID=48954) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:35:53,203] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:35:53,204] {logging_mixin.py:109} INFO - [2021-11-24 13:35:53,204] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:35:53,225] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:35:53,234] {logging_mixin.py:109} INFO - [2021-11-24 13:35:53,234] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:53,243] {logging_mixin.py:109} INFO - [2021-11-24 13:35:53,243] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:35:53.243570+00:00
+[2021-11-24 13:35:53,270] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.079 seconds
+[2021-11-24 13:36:32,496] {processor.py:163} INFO - Started process (PID=49054) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:36:32,499] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:36:32,501] {logging_mixin.py:109} INFO - [2021-11-24 13:36:32,500] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:36:32,522] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:36:32,529] {logging_mixin.py:109} INFO - [2021-11-24 13:36:32,529] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:32,538] {logging_mixin.py:109} INFO - [2021-11-24 13:36:32,538] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:36:32.538684+00:00
+[2021-11-24 13:36:32,547] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.058 seconds
+[2021-11-24 13:37:14,895] {processor.py:163} INFO - Started process (PID=49256) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:37:14,904] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:37:14,905] {logging_mixin.py:109} INFO - [2021-11-24 13:37:14,905] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:37:14,919] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:37:14,926] {logging_mixin.py:109} INFO - [2021-11-24 13:37:14,926] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:14,935] {logging_mixin.py:109} INFO - [2021-11-24 13:37:14,935] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:37:14.935202+00:00
+[2021-11-24 13:37:14,942] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.049 seconds
+[2021-11-24 13:37:51,829] {processor.py:163} INFO - Started process (PID=49323) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:37:51,838] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:37:51,839] {logging_mixin.py:109} INFO - [2021-11-24 13:37:51,839] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:37:51,858] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:37:51,866] {logging_mixin.py:109} INFO - [2021-11-24 13:37:51,866] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:51,876] {logging_mixin.py:109} INFO - [2021-11-24 13:37:51,876] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:37:51.875841+00:00
+[2021-11-24 13:37:51,884] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.058 seconds
+[2021-11-24 13:38:34,011] {processor.py:163} INFO - Started process (PID=49413) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:38:34,020] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:38:34,020] {logging_mixin.py:109} INFO - [2021-11-24 13:38:34,020] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:38:34,038] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:38:34,046] {logging_mixin.py:109} INFO - [2021-11-24 13:38:34,046] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:34,056] {logging_mixin.py:109} INFO - [2021-11-24 13:38:34,056] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:38:34.056404+00:00
+[2021-11-24 13:38:34,077] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.068 seconds
+[2021-11-24 13:39:19,423] {processor.py:163} INFO - Started process (PID=49555) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:39:19,432] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:39:19,432] {logging_mixin.py:109} INFO - [2021-11-24 13:39:19,432] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:39:19,447] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:39:19,454] {logging_mixin.py:109} INFO - [2021-11-24 13:39:19,454] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:19,462] {logging_mixin.py:109} INFO - [2021-11-24 13:39:19,462] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:39:19.462315+00:00
+[2021-11-24 13:39:19,488] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.067 seconds
+[2021-11-24 13:39:56,043] {processor.py:163} INFO - Started process (PID=49640) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:39:56,054] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:39:56,056] {logging_mixin.py:109} INFO - [2021-11-24 13:39:56,056] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:39:56,087] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:39:56,095] {logging_mixin.py:109} INFO - [2021-11-24 13:39:56,095] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:56,105] {logging_mixin.py:109} INFO - [2021-11-24 13:39:56,105] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:39:56.104775+00:00
+[2021-11-24 13:39:56,131] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.094 seconds
+[2021-11-24 13:40:35,505] {processor.py:163} INFO - Started process (PID=49740) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:40:35,507] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:40:35,507] {logging_mixin.py:109} INFO - [2021-11-24 13:40:35,507] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:40:35,526] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:40:35,534] {logging_mixin.py:109} INFO - [2021-11-24 13:40:35,534] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:35,544] {logging_mixin.py:109} INFO - [2021-11-24 13:40:35,544] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:40:35.544085+00:00
+[2021-11-24 13:40:35,551] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.049 seconds
+[2021-11-24 13:41:15,909] {processor.py:163} INFO - Started process (PID=49805) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:41:15,918] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:41:15,919] {logging_mixin.py:109} INFO - [2021-11-24 13:41:15,919] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:41:15,946] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:41:15,956] {logging_mixin.py:109} INFO - [2021-11-24 13:41:15,956] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:15,965] {logging_mixin.py:109} INFO - [2021-11-24 13:41:15,965] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:41:15.965357+00:00
+[2021-11-24 13:41:15,985] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.079 seconds
+[2021-11-24 13:41:54,577] {processor.py:163} INFO - Started process (PID=49933) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:41:54,586] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2021-11-24 13:41:54,587] {logging_mixin.py:109} INFO - [2021-11-24 13:41:54,587] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:41:54,600] {processor.py:632} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2021-11-24 13:41:54,607] {logging_mixin.py:109} INFO - [2021-11-24 13:41:54,607] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:54,616] {logging_mixin.py:109} INFO - [2021-11-24 13:41:54,616] {dag.py:2921} INFO - Setting next_dagrun for example_short_circuit_operator to 2021-11-23T12:41:54.616001+00:00
+[2021-11-24 13:41:54,623] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.048 seconds

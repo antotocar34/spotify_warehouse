@@ -1,0 +1,30 @@
+[2021-11-21 20:06:38,896] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.greet manual__2021-11-21T19:06:31.611378+00:00 [queued]>
+[2021-11-21 20:06:38,903] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: DWBI_HW2_dag.greet manual__2021-11-21T19:06:31.611378+00:00 [queued]>
+[2021-11-21 20:06:38,903] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 20:06:38,904] {taskinstance.py:1242} INFO - Starting attempt 1 of 6
+[2021-11-21 20:06:38,904] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-21 20:06:38,914] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): greet> on 2021-11-21 19:06:31.611378+00:00
+[2021-11-21 20:06:38,918] {standard_task_runner.py:52} INFO - Started process 14735 to run task
+[2021-11-21 20:06:38,921] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'DWBI_HW2_dag', 'greet', 'manual__2021-11-21T19:06:31.611378+00:00', '--job-id', '16', '--raw', '--subdir', '/home/dante/DWBI/Apache/dags/DWBI_HW2_dag.py', '--cfg-path', '/tmp/tmp_8xfkxiu', '--error-file', '/tmp/tmpr1lglbka']
+[2021-11-21 20:06:38,921] {standard_task_runner.py:77} INFO - Job 16: Subtask greet
+[2021-11-21 20:06:38,943] {logging_mixin.py:109} INFO - Running <TaskInstance: DWBI_HW2_dag.greet manual__2021-11-21T19:06:31.611378+00:00 [running]> on host dj-XPS
+[2021-11-21 20:06:38,972] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=dj
+AIRFLOW_CTX_DAG_ID=DWBI_HW2_dag
+AIRFLOW_CTX_TASK_ID=greet
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-21T19:06:31.611378+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-21T19:06:31.611378+00:00
+[2021-11-21 20:06:38,973] {logging_mixin.py:109} INFO - Hello world, my name is Jerry Scissorhands and I am 19 years old
+[2021-11-21 20:06:38,973] {logging_mixin.py:109} INFO - Succesfully made contact with the database..
+[2021-11-21 20:06:38,989] {logging_mixin.py:109} INFO -       Make     Model  ManufacturingYear   Price Horsepower EmissionCategory FuelType   VIN
+0  Porsche  Panamera               2021  200000        500                E     None  None
+1  Porsche   Cayenne               2019  130000        350                C     None  None
+2      BMW      530d               2007   40000        313                B     None  None
+3  Porsche     Macan               2018  110000        310                B     None  None
+4     Audi        Q7               2015   70000        240                C     None  None
+[2021-11-21 20:06:38,989] {python.py:152} INFO - Done. Returned value was: True
+[2021-11-21 20:06:39,083] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=DWBI_HW2_dag, task_id=greet, execution_date=20211121T190631, start_date=20211121T190638, end_date=20211121T190639
+[2021-11-21 20:06:39,133] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-21 20:06:39,146] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

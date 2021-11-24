@@ -1,0 +1,476 @@
+[2021-11-24 13:01:39,560] {processor.py:163} INFO - Started process (PID=42647) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:01:39,563] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:01:39,564] {logging_mixin.py:109} INFO - [2021-11-24 13:01:39,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:01:39,589] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:01:39,735] {logging_mixin.py:109} INFO - [2021-11-24 13:01:39,735] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:01:39,742] {logging_mixin.py:109} INFO - [2021-11-24 13:01:39,742] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:01:39,763] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.209 seconds
+[2021-11-24 13:02:18,062] {processor.py:163} INFO - Started process (PID=42728) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:02:18,072] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:02:18,073] {logging_mixin.py:109} INFO - [2021-11-24 13:02:18,073] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:02:18,095] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:02:18,233] {logging_mixin.py:109} INFO - [2021-11-24 13:02:18,233] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:18,240] {logging_mixin.py:109} INFO - [2021-11-24 13:02:18,240] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:02:18,247] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.187 seconds
+[2021-11-24 13:02:56,166] {processor.py:163} INFO - Started process (PID=42780) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:02:56,176] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:02:56,177] {logging_mixin.py:109} INFO - [2021-11-24 13:02:56,176] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:02:56,205] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:02:56,449] {logging_mixin.py:109} INFO - [2021-11-24 13:02:56,449] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:02:56,462] {logging_mixin.py:109} INFO - [2021-11-24 13:02:56,462] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:02:56,474] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.311 seconds
+[2021-11-24 13:03:32,549] {processor.py:163} INFO - Started process (PID=42895) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:03:32,562] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:03:32,564] {logging_mixin.py:109} INFO - [2021-11-24 13:03:32,563] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:03:32,600] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:03:32,732] {logging_mixin.py:109} INFO - [2021-11-24 13:03:32,732] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:03:32,738] {logging_mixin.py:109} INFO - [2021-11-24 13:03:32,738] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:03:32,759] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.216 seconds
+[2021-11-24 13:04:09,261] {processor.py:163} INFO - Started process (PID=42953) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:04:09,263] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:04:09,264] {logging_mixin.py:109} INFO - [2021-11-24 13:04:09,264] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:04:09,284] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:04:09,431] {logging_mixin.py:109} INFO - [2021-11-24 13:04:09,430] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:09,438] {logging_mixin.py:109} INFO - [2021-11-24 13:04:09,438] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:04:09,446] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.187 seconds
+[2021-11-24 13:04:45,422] {processor.py:163} INFO - Started process (PID=43144) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:04:45,432] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:04:45,432] {logging_mixin.py:109} INFO - [2021-11-24 13:04:45,432] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:04:45,454] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:04:45,586] {logging_mixin.py:109} INFO - [2021-11-24 13:04:45,586] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:04:45,593] {logging_mixin.py:109} INFO - [2021-11-24 13:04:45,593] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:04:45,601] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.186 seconds
+[2021-11-24 13:05:20,456] {processor.py:163} INFO - Started process (PID=43217) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:05:20,459] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:05:20,459] {logging_mixin.py:109} INFO - [2021-11-24 13:05:20,459] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:05:20,485] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:05:20,635] {logging_mixin.py:109} INFO - [2021-11-24 13:05:20,635] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:20,644] {logging_mixin.py:109} INFO - [2021-11-24 13:05:20,643] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:05:20,654] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.200 seconds
+[2021-11-24 13:05:54,175] {processor.py:163} INFO - Started process (PID=43272) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:05:54,186] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:05:54,187] {logging_mixin.py:109} INFO - [2021-11-24 13:05:54,187] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:05:54,227] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:05:54,365] {logging_mixin.py:109} INFO - [2021-11-24 13:05:54,365] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:05:54,373] {logging_mixin.py:109} INFO - [2021-11-24 13:05:54,373] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:05:54,382] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.209 seconds
+[2021-11-24 13:06:33,279] {processor.py:163} INFO - Started process (PID=43331) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:06:33,283] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:06:33,284] {logging_mixin.py:109} INFO - [2021-11-24 13:06:33,284] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:06:33,324] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:06:33,460] {logging_mixin.py:109} INFO - [2021-11-24 13:06:33,460] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:06:33,468] {logging_mixin.py:109} INFO - [2021-11-24 13:06:33,468] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:06:33,475] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.198 seconds
+[2021-11-24 13:07:11,385] {processor.py:163} INFO - Started process (PID=43414) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:07:11,395] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:07:11,396] {logging_mixin.py:109} INFO - [2021-11-24 13:07:11,396] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:07:11,431] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:07:11,600] {logging_mixin.py:109} INFO - [2021-11-24 13:07:11,600] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:11,609] {logging_mixin.py:109} INFO - [2021-11-24 13:07:11,609] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:07:11,620] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.240 seconds
+[2021-11-24 13:07:49,019] {processor.py:163} INFO - Started process (PID=43462) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:07:49,022] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:07:49,023] {logging_mixin.py:109} INFO - [2021-11-24 13:07:49,023] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:07:49,042] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:07:49,179] {logging_mixin.py:109} INFO - [2021-11-24 13:07:49,179] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:07:49,186] {logging_mixin.py:109} INFO - [2021-11-24 13:07:49,186] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:07:49,194] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.178 seconds
+[2021-11-24 13:08:27,186] {processor.py:163} INFO - Started process (PID=43528) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:08:27,196] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:08:27,197] {logging_mixin.py:109} INFO - [2021-11-24 13:08:27,197] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:08:27,238] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:08:27,374] {logging_mixin.py:109} INFO - [2021-11-24 13:08:27,374] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:08:27,381] {logging_mixin.py:109} INFO - [2021-11-24 13:08:27,381] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:08:27,391] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.208 seconds
+[2021-11-24 13:09:03,494] {processor.py:163} INFO - Started process (PID=43589) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:09:03,504] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:09:03,504] {logging_mixin.py:109} INFO - [2021-11-24 13:09:03,504] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:09:03,524] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:09:03,660] {logging_mixin.py:109} INFO - [2021-11-24 13:09:03,660] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:03,667] {logging_mixin.py:109} INFO - [2021-11-24 13:09:03,666] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:09:03,676] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.184 seconds
+[2021-11-24 13:09:42,267] {processor.py:163} INFO - Started process (PID=43722) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:09:42,276] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:09:42,276] {logging_mixin.py:109} INFO - [2021-11-24 13:09:42,276] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:09:42,296] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:09:42,440] {logging_mixin.py:109} INFO - [2021-11-24 13:09:42,440] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:09:42,447] {logging_mixin.py:109} INFO - [2021-11-24 13:09:42,447] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:09:42,455] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.192 seconds
+[2021-11-24 13:10:19,266] {processor.py:163} INFO - Started process (PID=43911) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:10:19,277] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:10:19,278] {logging_mixin.py:109} INFO - [2021-11-24 13:10:19,278] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:10:19,312] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:10:19,519] {logging_mixin.py:109} INFO - [2021-11-24 13:10:19,519] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:19,529] {logging_mixin.py:109} INFO - [2021-11-24 13:10:19,529] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:10:19,540] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.280 seconds
+[2021-11-24 13:10:50,473] {processor.py:163} INFO - Started process (PID=44078) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:10:50,484] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:10:50,486] {logging_mixin.py:109} INFO - [2021-11-24 13:10:50,485] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:10:50,530] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:10:50,741] {logging_mixin.py:109} INFO - [2021-11-24 13:10:50,741] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:10:50,749] {logging_mixin.py:109} INFO - [2021-11-24 13:10:50,749] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:10:50,766] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.298 seconds
+[2021-11-24 13:11:23,516] {processor.py:163} INFO - Started process (PID=44163) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:11:23,519] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:11:23,521] {logging_mixin.py:109} INFO - [2021-11-24 13:11:23,520] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:11:23,552] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:11:23,701] {logging_mixin.py:109} INFO - [2021-11-24 13:11:23,701] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:23,709] {logging_mixin.py:109} INFO - [2021-11-24 13:11:23,709] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:11:23,719] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.210 seconds
+[2021-11-24 13:11:57,218] {processor.py:163} INFO - Started process (PID=44265) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:11:57,229] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:11:57,230] {logging_mixin.py:109} INFO - [2021-11-24 13:11:57,230] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:11:57,266] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:11:57,410] {logging_mixin.py:109} INFO - [2021-11-24 13:11:57,410] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:11:57,417] {logging_mixin.py:109} INFO - [2021-11-24 13:11:57,417] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:11:57,438] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.227 seconds
+[2021-11-24 13:12:36,156] {processor.py:163} INFO - Started process (PID=44328) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:12:36,167] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:12:36,167] {logging_mixin.py:109} INFO - [2021-11-24 13:12:36,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:12:36,185] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:12:36,322] {logging_mixin.py:109} INFO - [2021-11-24 13:12:36,322] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:12:36,329] {logging_mixin.py:109} INFO - [2021-11-24 13:12:36,329] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:12:36,338] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.184 seconds
+[2021-11-24 13:13:13,861] {processor.py:163} INFO - Started process (PID=44479) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:13:13,871] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:13:13,872] {logging_mixin.py:109} INFO - [2021-11-24 13:13:13,871] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:13:13,899] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:13:14,033] {logging_mixin.py:109} INFO - [2021-11-24 13:13:14,033] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:14,040] {logging_mixin.py:109} INFO - [2021-11-24 13:13:14,040] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:13:14,072] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.213 seconds
+[2021-11-24 13:13:46,656] {processor.py:163} INFO - Started process (PID=44536) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:13:46,666] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:13:46,666] {logging_mixin.py:109} INFO - [2021-11-24 13:13:46,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:13:46,689] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:13:46,847] {logging_mixin.py:109} INFO - [2021-11-24 13:13:46,847] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:13:46,855] {logging_mixin.py:109} INFO - [2021-11-24 13:13:46,855] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:13:46,864] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.210 seconds
+[2021-11-24 13:14:25,749] {processor.py:163} INFO - Started process (PID=44597) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:14:25,759] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:14:25,759] {logging_mixin.py:109} INFO - [2021-11-24 13:14:25,759] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:14:25,784] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:14:25,913] {logging_mixin.py:109} INFO - [2021-11-24 13:14:25,913] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:14:25,919] {logging_mixin.py:109} INFO - [2021-11-24 13:14:25,919] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:14:25,929] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.182 seconds
+[2021-11-24 13:15:04,014] {processor.py:163} INFO - Started process (PID=44748) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:15:04,023] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:15:04,024] {logging_mixin.py:109} INFO - [2021-11-24 13:15:04,024] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:15:04,052] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:15:04,193] {logging_mixin.py:109} INFO - [2021-11-24 13:15:04,193] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:04,201] {logging_mixin.py:109} INFO - [2021-11-24 13:15:04,201] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:15:04,210] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.199 seconds
+[2021-11-24 13:15:43,902] {processor.py:163} INFO - Started process (PID=44831) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:15:43,907] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:15:43,908] {logging_mixin.py:109} INFO - [2021-11-24 13:15:43,908] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:15:43,934] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:15:44,072] {logging_mixin.py:109} INFO - [2021-11-24 13:15:44,072] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:15:44,079] {logging_mixin.py:109} INFO - [2021-11-24 13:15:44,078] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:15:44,087] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.192 seconds
+[2021-11-24 13:16:17,360] {processor.py:163} INFO - Started process (PID=45342) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:16:17,366] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:16:17,367] {logging_mixin.py:109} INFO - [2021-11-24 13:16:17,367] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:16:17,394] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:16:17,530] {logging_mixin.py:109} INFO - [2021-11-24 13:16:17,530] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:17,537] {logging_mixin.py:109} INFO - [2021-11-24 13:16:17,537] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:16:17,545] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.187 seconds
+[2021-11-24 13:16:52,622] {processor.py:163} INFO - Started process (PID=45427) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:16:52,625] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:16:52,625] {logging_mixin.py:109} INFO - [2021-11-24 13:16:52,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:16:52,647] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:16:52,781] {logging_mixin.py:109} INFO - [2021-11-24 13:16:52,781] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:16:52,787] {logging_mixin.py:109} INFO - [2021-11-24 13:16:52,787] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:16:52,796] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.176 seconds
+[2021-11-24 13:17:29,254] {processor.py:163} INFO - Started process (PID=45564) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:17:29,264] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:17:29,266] {logging_mixin.py:109} INFO - [2021-11-24 13:17:29,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:17:29,303] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:17:29,445] {logging_mixin.py:109} INFO - [2021-11-24 13:17:29,445] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:17:29,452] {logging_mixin.py:109} INFO - [2021-11-24 13:17:29,452] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:17:29,461] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.214 seconds
+[2021-11-24 13:18:07,150] {processor.py:163} INFO - Started process (PID=45612) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:18:07,159] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:18:07,160] {logging_mixin.py:109} INFO - [2021-11-24 13:18:07,160] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:18:07,182] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:18:07,318] {logging_mixin.py:109} INFO - [2021-11-24 13:18:07,317] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:07,324] {logging_mixin.py:109} INFO - [2021-11-24 13:18:07,324] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:18:07,337] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.189 seconds
+[2021-11-24 13:18:39,723] {processor.py:163} INFO - Started process (PID=45683) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:18:39,734] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:18:39,735] {logging_mixin.py:109} INFO - [2021-11-24 13:18:39,735] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:18:39,765] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:18:39,899] {logging_mixin.py:109} INFO - [2021-11-24 13:18:39,899] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:18:39,905] {logging_mixin.py:109} INFO - [2021-11-24 13:18:39,905] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:18:39,915] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.194 seconds
+[2021-11-24 13:19:17,202] {processor.py:163} INFO - Started process (PID=45735) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:19:17,211] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:19:17,212] {logging_mixin.py:109} INFO - [2021-11-24 13:19:17,212] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:19:17,241] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:19:17,372] {logging_mixin.py:109} INFO - [2021-11-24 13:19:17,372] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:17,378] {logging_mixin.py:109} INFO - [2021-11-24 13:19:17,378] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:19:17,387] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.187 seconds
+[2021-11-24 13:19:49,650] {processor.py:163} INFO - Started process (PID=45777) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:19:49,660] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:19:49,661] {logging_mixin.py:109} INFO - [2021-11-24 13:19:49,661] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:19:49,703] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:19:49,837] {logging_mixin.py:109} INFO - [2021-11-24 13:19:49,837] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:19:49,843] {logging_mixin.py:109} INFO - [2021-11-24 13:19:49,843] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:19:49,856] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.209 seconds
+[2021-11-24 13:20:24,523] {processor.py:163} INFO - Started process (PID=45827) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:20:24,534] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:20:24,535] {logging_mixin.py:109} INFO - [2021-11-24 13:20:24,535] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:20:24,561] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:20:24,692] {logging_mixin.py:109} INFO - [2021-11-24 13:20:24,692] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:20:24,700] {logging_mixin.py:109} INFO - [2021-11-24 13:20:24,700] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:20:24,731] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.210 seconds
+[2021-11-24 13:21:00,942] {processor.py:163} INFO - Started process (PID=45883) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:21:00,944] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:21:00,944] {logging_mixin.py:109} INFO - [2021-11-24 13:21:00,944] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:21:00,961] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:21:01,116] {logging_mixin.py:109} INFO - [2021-11-24 13:21:01,116] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:01,125] {logging_mixin.py:109} INFO - [2021-11-24 13:21:01,125] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:21:01,134] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.194 seconds
+[2021-11-24 13:21:33,364] {processor.py:163} INFO - Started process (PID=45936) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:21:33,373] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:21:33,374] {logging_mixin.py:109} INFO - [2021-11-24 13:21:33,374] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:21:33,399] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:21:33,536] {logging_mixin.py:109} INFO - [2021-11-24 13:21:33,536] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:21:33,543] {logging_mixin.py:109} INFO - [2021-11-24 13:21:33,543] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:21:33,554] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.192 seconds
+[2021-11-24 13:22:12,689] {processor.py:163} INFO - Started process (PID=46037) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:22:12,700] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:22:12,702] {logging_mixin.py:109} INFO - [2021-11-24 13:22:12,701] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:22:12,737] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:22:12,882] {logging_mixin.py:109} INFO - [2021-11-24 13:22:12,882] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:12,891] {logging_mixin.py:109} INFO - [2021-11-24 13:22:12,891] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:22:12,901] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.219 seconds
+[2021-11-24 13:22:52,678] {processor.py:163} INFO - Started process (PID=46112) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:22:52,680] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:22:52,680] {logging_mixin.py:109} INFO - [2021-11-24 13:22:52,680] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:22:52,702] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:22:52,952] {logging_mixin.py:109} INFO - [2021-11-24 13:22:52,952] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:22:52,972] {logging_mixin.py:109} INFO - [2021-11-24 13:22:52,972] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:22:52,997] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.322 seconds
+[2021-11-24 13:23:26,451] {processor.py:163} INFO - Started process (PID=46486) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:23:26,461] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:23:26,461] {logging_mixin.py:109} INFO - [2021-11-24 13:23:26,461] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:23:26,491] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:23:26,628] {logging_mixin.py:109} INFO - [2021-11-24 13:23:26,628] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:23:26,635] {logging_mixin.py:109} INFO - [2021-11-24 13:23:26,635] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:23:26,642] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.194 seconds
+[2021-11-24 13:24:05,129] {processor.py:163} INFO - Started process (PID=46553) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:24:05,138] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:24:05,139] {logging_mixin.py:109} INFO - [2021-11-24 13:24:05,138] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:24:05,154] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:24:05,305] {logging_mixin.py:109} INFO - [2021-11-24 13:24:05,305] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:05,313] {logging_mixin.py:109} INFO - [2021-11-24 13:24:05,313] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:24:05,331] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.204 seconds
+[2021-11-24 13:24:38,914] {processor.py:163} INFO - Started process (PID=46715) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:24:38,915] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:24:38,916] {logging_mixin.py:109} INFO - [2021-11-24 13:24:38,916] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:24:38,935] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:24:39,110] {logging_mixin.py:109} INFO - [2021-11-24 13:24:39,110] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:24:39,119] {logging_mixin.py:109} INFO - [2021-11-24 13:24:39,119] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:24:39,129] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.216 seconds
+[2021-11-24 13:25:15,607] {processor.py:163} INFO - Started process (PID=46796) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:25:15,616] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:25:15,617] {logging_mixin.py:109} INFO - [2021-11-24 13:25:15,616] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:25:15,635] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:25:15,784] {logging_mixin.py:109} INFO - [2021-11-24 13:25:15,784] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:15,791] {logging_mixin.py:109} INFO - [2021-11-24 13:25:15,791] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:25:15,805] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.200 seconds
+[2021-11-24 13:25:52,192] {processor.py:163} INFO - Started process (PID=46850) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:25:52,205] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:25:52,205] {logging_mixin.py:109} INFO - [2021-11-24 13:25:52,205] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:25:52,234] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:25:52,396] {logging_mixin.py:109} INFO - [2021-11-24 13:25:52,396] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:25:52,405] {logging_mixin.py:109} INFO - [2021-11-24 13:25:52,405] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:25:52,424] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.235 seconds
+[2021-11-24 13:26:27,553] {processor.py:163} INFO - Started process (PID=46926) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:26:27,563] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:26:27,565] {logging_mixin.py:109} INFO - [2021-11-24 13:26:27,565] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:26:27,600] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:26:27,737] {logging_mixin.py:109} INFO - [2021-11-24 13:26:27,737] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:26:27,744] {logging_mixin.py:109} INFO - [2021-11-24 13:26:27,743] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:26:27,751] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.205 seconds
+[2021-11-24 13:27:07,336] {processor.py:163} INFO - Started process (PID=47059) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:27:07,346] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:27:07,348] {logging_mixin.py:109} INFO - [2021-11-24 13:27:07,348] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:27:07,389] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:27:07,524] {logging_mixin.py:109} INFO - [2021-11-24 13:27:07,524] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:07,531] {logging_mixin.py:109} INFO - [2021-11-24 13:27:07,531] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:27:07,539] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.206 seconds
+[2021-11-24 13:27:44,875] {processor.py:163} INFO - Started process (PID=47118) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:27:44,877] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:27:44,878] {logging_mixin.py:109} INFO - [2021-11-24 13:27:44,878] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:27:44,901] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:27:45,033] {logging_mixin.py:109} INFO - [2021-11-24 13:27:45,033] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:27:45,040] {logging_mixin.py:109} INFO - [2021-11-24 13:27:45,040] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:27:45,049] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.176 seconds
+[2021-11-24 13:28:17,557] {processor.py:163} INFO - Started process (PID=47277) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:28:17,566] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:28:17,566] {logging_mixin.py:109} INFO - [2021-11-24 13:28:17,566] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:28:17,587] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:28:17,738] {logging_mixin.py:109} INFO - [2021-11-24 13:28:17,738] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:17,745] {logging_mixin.py:109} INFO - [2021-11-24 13:28:17,745] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:28:17,761] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.206 seconds
+[2021-11-24 13:28:54,638] {processor.py:163} INFO - Started process (PID=47371) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:28:54,649] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:28:54,650] {logging_mixin.py:109} INFO - [2021-11-24 13:28:54,650] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:28:54,681] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:28:54,839] {logging_mixin.py:109} INFO - [2021-11-24 13:28:54,839] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:28:54,847] {logging_mixin.py:109} INFO - [2021-11-24 13:28:54,847] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:28:54,858] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.226 seconds
+[2021-11-24 13:29:30,428] {processor.py:163} INFO - Started process (PID=47434) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:29:30,439] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:29:30,440] {logging_mixin.py:109} INFO - [2021-11-24 13:29:30,440] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:29:30,476] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:29:30,612] {logging_mixin.py:109} INFO - [2021-11-24 13:29:30,612] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:29:30,618] {logging_mixin.py:109} INFO - [2021-11-24 13:29:30,618] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:29:30,629] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.208 seconds
+[2021-11-24 13:30:08,074] {processor.py:163} INFO - Started process (PID=47501) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:30:08,083] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:30:08,084] {logging_mixin.py:109} INFO - [2021-11-24 13:30:08,084] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:30:08,107] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:30:08,258] {logging_mixin.py:109} INFO - [2021-11-24 13:30:08,258] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:08,264] {logging_mixin.py:109} INFO - [2021-11-24 13:30:08,264] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:30:08,277] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.206 seconds
+[2021-11-24 13:30:43,588] {processor.py:163} INFO - Started process (PID=47573) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:30:43,597] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:30:43,598] {logging_mixin.py:109} INFO - [2021-11-24 13:30:43,597] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:30:43,616] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:30:43,771] {logging_mixin.py:109} INFO - [2021-11-24 13:30:43,771] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:30:43,781] {logging_mixin.py:109} INFO - [2021-11-24 13:30:43,781] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:30:43,791] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.206 seconds
+[2021-11-24 13:31:18,591] {processor.py:163} INFO - Started process (PID=47626) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:31:18,600] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:31:18,601] {logging_mixin.py:109} INFO - [2021-11-24 13:31:18,601] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:31:18,629] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:31:18,783] {logging_mixin.py:109} INFO - [2021-11-24 13:31:18,782] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:18,789] {logging_mixin.py:109} INFO - [2021-11-24 13:31:18,789] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:31:18,798] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.210 seconds
+[2021-11-24 13:31:53,049] {processor.py:163} INFO - Started process (PID=47745) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:31:53,060] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:31:53,061] {logging_mixin.py:109} INFO - [2021-11-24 13:31:53,061] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:31:53,102] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:31:53,241] {logging_mixin.py:109} INFO - [2021-11-24 13:31:53,241] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:31:53,248] {logging_mixin.py:109} INFO - [2021-11-24 13:31:53,248] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:31:53,272] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.229 seconds
+[2021-11-24 13:32:27,051] {processor.py:163} INFO - Started process (PID=48182) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:32:27,060] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:32:27,060] {logging_mixin.py:109} INFO - [2021-11-24 13:32:27,060] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:32:27,076] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:32:27,219] {logging_mixin.py:109} INFO - [2021-11-24 13:32:27,219] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:32:27,226] {logging_mixin.py:109} INFO - [2021-11-24 13:32:27,226] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:32:27,241] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.192 seconds
+[2021-11-24 13:33:00,968] {processor.py:163} INFO - Started process (PID=48418) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:33:00,971] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:33:00,971] {logging_mixin.py:109} INFO - [2021-11-24 13:33:00,971] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:33:00,992] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:33:01,161] {logging_mixin.py:109} INFO - [2021-11-24 13:33:01,161] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:01,169] {logging_mixin.py:109} INFO - [2021-11-24 13:33:01,169] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:33:01,179] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.213 seconds
+[2021-11-24 13:33:34,750] {processor.py:163} INFO - Started process (PID=48522) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:33:34,752] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:33:34,753] {logging_mixin.py:109} INFO - [2021-11-24 13:33:34,753] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:33:34,776] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:33:34,914] {logging_mixin.py:109} INFO - [2021-11-24 13:33:34,914] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:33:34,921] {logging_mixin.py:109} INFO - [2021-11-24 13:33:34,921] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:33:34,931] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.183 seconds
+[2021-11-24 13:34:06,974] {processor.py:163} INFO - Started process (PID=48647) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:34:06,984] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:34:06,984] {logging_mixin.py:109} INFO - [2021-11-24 13:34:06,984] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:34:07,010] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:34:07,149] {logging_mixin.py:109} INFO - [2021-11-24 13:34:07,149] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:07,156] {logging_mixin.py:109} INFO - [2021-11-24 13:34:07,155] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:34:07,164] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.192 seconds
+[2021-11-24 13:34:46,441] {processor.py:163} INFO - Started process (PID=48793) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:34:46,443] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:34:46,444] {logging_mixin.py:109} INFO - [2021-11-24 13:34:46,444] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:34:46,463] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:34:46,616] {logging_mixin.py:109} INFO - [2021-11-24 13:34:46,616] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:34:46,623] {logging_mixin.py:109} INFO - [2021-11-24 13:34:46,623] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:34:46,633] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.196 seconds
+[2021-11-24 13:35:18,937] {processor.py:163} INFO - Started process (PID=48874) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:35:18,948] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:35:18,949] {logging_mixin.py:109} INFO - [2021-11-24 13:35:18,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:35:18,984] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:35:19,128] {logging_mixin.py:109} INFO - [2021-11-24 13:35:19,127] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:19,137] {logging_mixin.py:109} INFO - [2021-11-24 13:35:19,137] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:35:19,162] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.232 seconds
+[2021-11-24 13:35:58,887] {processor.py:163} INFO - Started process (PID=48967) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:35:58,896] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:35:58,897] {logging_mixin.py:109} INFO - [2021-11-24 13:35:58,897] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:35:58,915] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:35:59,063] {logging_mixin.py:109} INFO - [2021-11-24 13:35:59,063] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:35:59,071] {logging_mixin.py:109} INFO - [2021-11-24 13:35:59,071] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:35:59,081] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.195 seconds
+[2021-11-24 13:36:37,591] {processor.py:163} INFO - Started process (PID=49089) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:36:37,600] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:36:37,601] {logging_mixin.py:109} INFO - [2021-11-24 13:36:37,601] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:36:37,623] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:36:37,767] {logging_mixin.py:109} INFO - [2021-11-24 13:36:37,767] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:36:37,776] {logging_mixin.py:109} INFO - [2021-11-24 13:36:37,776] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:36:37,788] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.200 seconds
+[2021-11-24 13:37:11,373] {processor.py:163} INFO - Started process (PID=49226) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:37:11,373] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:37:11,374] {logging_mixin.py:109} INFO - [2021-11-24 13:37:11,374] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:37:11,390] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:37:11,542] {logging_mixin.py:109} INFO - [2021-11-24 13:37:11,542] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:11,550] {logging_mixin.py:109} INFO - [2021-11-24 13:37:11,550] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:37:11,559] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.189 seconds
+[2021-11-24 13:37:48,183] {processor.py:163} INFO - Started process (PID=49320) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:37:48,187] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:37:48,188] {logging_mixin.py:109} INFO - [2021-11-24 13:37:48,188] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:37:48,220] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:37:48,386] {logging_mixin.py:109} INFO - [2021-11-24 13:37:48,386] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:37:48,395] {logging_mixin.py:109} INFO - [2021-11-24 13:37:48,395] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:37:48,405] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.228 seconds
+[2021-11-24 13:38:20,400] {processor.py:163} INFO - Started process (PID=49398) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:38:20,404] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:38:20,405] {logging_mixin.py:109} INFO - [2021-11-24 13:38:20,405] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:38:20,425] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:38:20,567] {logging_mixin.py:109} INFO - [2021-11-24 13:38:20,567] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:20,574] {logging_mixin.py:109} INFO - [2021-11-24 13:38:20,574] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:38:20,582] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.189 seconds
+[2021-11-24 13:38:57,770] {processor.py:163} INFO - Started process (PID=49454) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:38:57,779] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:38:57,779] {logging_mixin.py:109} INFO - [2021-11-24 13:38:57,779] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:38:57,797] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:38:57,947] {logging_mixin.py:109} INFO - [2021-11-24 13:38:57,947] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:38:57,956] {logging_mixin.py:109} INFO - [2021-11-24 13:38:57,956] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:38:57,965] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.197 seconds
+[2021-11-24 13:39:32,577] {processor.py:163} INFO - Started process (PID=49598) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:39:32,586] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:39:32,587] {logging_mixin.py:109} INFO - [2021-11-24 13:39:32,587] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:39:32,617] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:39:32,751] {logging_mixin.py:109} INFO - [2021-11-24 13:39:32,751] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:39:32,758] {logging_mixin.py:109} INFO - [2021-11-24 13:39:32,758] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:39:32,766] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.191 seconds
+[2021-11-24 13:40:07,492] {processor.py:163} INFO - Started process (PID=49661) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:40:07,493] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:40:07,494] {logging_mixin.py:109} INFO - [2021-11-24 13:40:07,494] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:40:07,513] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:40:07,658] {logging_mixin.py:109} INFO - [2021-11-24 13:40:07,658] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:07,665] {logging_mixin.py:109} INFO - [2021-11-24 13:40:07,665] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:40:07,673] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.184 seconds
+[2021-11-24 13:40:45,711] {processor.py:163} INFO - Started process (PID=49760) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:40:45,715] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:40:45,716] {logging_mixin.py:109} INFO - [2021-11-24 13:40:45,716] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:40:45,751] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:40:45,932] {logging_mixin.py:109} INFO - [2021-11-24 13:40:45,932] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:40:45,941] {logging_mixin.py:109} INFO - [2021-11-24 13:40:45,941] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:40:45,951] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.247 seconds
+[2021-11-24 13:41:18,408] {processor.py:163} INFO - Started process (PID=49807) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:41:18,418] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:41:18,419] {logging_mixin.py:109} INFO - [2021-11-24 13:41:18,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:41:18,437] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:41:18,580] {logging_mixin.py:109} INFO - [2021-11-24 13:41:18,580] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:18,588] {logging_mixin.py:109} INFO - [2021-11-24 13:41:18,588] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:41:18,596] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.190 seconds
+[2021-11-24 13:41:51,232] {processor.py:163} INFO - Started process (PID=49930) to work on /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:41:51,234] {processor.py:620} INFO - Processing file /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-11-24 13:41:51,235] {logging_mixin.py:109} INFO - [2021-11-24 13:41:51,234] {dagbag.py:500} INFO - Filling up the DagBag from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:41:51,252] {processor.py:632} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-11-24 13:41:51,423] {logging_mixin.py:109} INFO - [2021-11-24 13:41:51,423] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-24 13:41:51,431] {logging_mixin.py:109} INFO - [2021-11-24 13:41:51,431] {dag.py:2921} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-11-24 13:41:51,441] {processor.py:171} INFO - Processing /home/dante/DWBI/Apache/py_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.211 seconds
