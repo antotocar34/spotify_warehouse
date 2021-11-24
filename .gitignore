@@ -1,0 +1,8 @@
+py_env/
+env/
+.env/
+*.csv
+*.txt
+data/*
+*.toml
+*.envrc
