@@ -4,7 +4,9 @@ env/
 *.csv
 *.txt
 data/*
-*.toml
+pypoetry.toml
+poetry.lock
 *.envrc
 airflow.db
 airflow-webserver.pid
+__pycache__
