@@ -4,7 +4,7 @@ env/
 *.csv
 *.txt
 data/*
-pypoetry.toml
+pyproject.toml
 poetry.lock
 *.envrc
 airflow.db
