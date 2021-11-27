@@ -7,9 +7,7 @@ import pandas as pd
 
 
 def get_dict() -> Dict[Path, Tuple[int, int]]:
-    data_p = Path(
-        f"../data/spotify_playlist_data"
-    )
+    data_p = Path(f"../data/spotify_playlist_data")
 
     assert (
         data_p.exists()
@@ -49,7 +47,7 @@ def get_files_to_download(
     return files_to_download
 
 
-def get_csv_lines(play_dict: Dict, header: bool) -> str:
+def get_df(play_dict: Dict) -> pd.DataFrame:
     cols_to_make = [
         "pos",
         "artist_name",
@@ -62,33 +60,55 @@ def get_csv_lines(play_dict: Dict, header: bool) -> str:
     ]
 
     df = pd.DataFrame(play_dict)
+    try:
+        assert cols_to_make == list(df.iloc[2]["tracks"].keys())
+    except AssertionError:
+        breakpoint()
+
 
     for col in cols_to_make:
         df[col] = df.apply(lambda row: row["tracks"][col], axis=1)
 
     df.drop("tracks", axis=1, inplace=True)
-    csv = df.to_csv(sep=",", header=header, index=False)
-    breakpoint()
-    csv
-    assert csv is not None
-    return csv
+    return df
 
 
 def main():
     files_to_download = get_files_to_download(get_dict())
 
+    cols = [
+        "name",
+        "collaborative",
+        "pid",
+        "modified_at",
+        "num_tracks",
+        "num_albums",
+        "num_followers",
+        "num_edits",
+        "duration_ms",
+        "num_artists",
+        "pos",
+        "artist_name",
+        "track_uri",
+        "artist_uri",
+        "track_name",
+        "album_uri",
+        "album_name",
+    ]
+
+    out_df = pd.DataFrame(columns=cols)
     for i, file in enumerate(files_to_download):
-        header = True if i == 0 else False
-        write_mode = "w" if header else "a"
         print(f"{i} Done: {len(files_to_download) - i} left to go!")
         with open(file, "r") as f:
             play_dict_list = json.load(f)["playlists"]
         for play_dict in play_dict_list:
-            with open("../data/cleaned_playlist_data.csv", write_mode) as f:
-                f.write(get_csv_lines(play_dict, header))
-            header = False
-            write_mode = "a"
+            tmp_df = get_df(play_dict)
+            out_df = out_df.append(tmp_df)
+    #            with open("../data/cleaned_playlist_data.csv", write_mode) as f:
+    #                f.write(get_csv_lines(play_dict, header))
     print("All done! :)")
+    out_df.to_csv("../data/cleaned_playlist_data.csv", index=False)
+
 
 
 if __name__ == "__main__":
