@@ -1,0 +1,501 @@
+,name,collaborative,num_tracks,num_followers,num_artists,playlist_id
+0,Throwbacks,False,52,1,37,299
+52,Awesome Playlist,False,39,1,21,44
+91,korean ,False,64,1,31,402
+155,mat,False,126,1,86,408
+281,90s,False,17,2,16,23
+298,Wedding,False,80,1,56,315
+378,I Put A Spell On You,False,16,1,13,158
+394,2017,False,53,1,48,16
+447,BOP,False,46,2,23,47
+493,old country ,False,21,1,18,424
+514,abby ,False,72,2,40,333
+586,VIBE,False,134,1,99,308
+720,relax,False,9,1,9,445
+729,sleep,False,13,1,12,458
+742,90's ,False,103,1,61,22
+845,New Songs,False,7,1,3,214
+852,slow hands,False,105,1,81,461
+957,Mom's playlist,False,79,1,61,197
+1036,SARAH,False,68,1,55,263
+1104,melancholy,False,85,1,70,411
+1189,mixtape,False,14,3,6,414
+1203,Sad Songs,False,15,1,15,267
+1218,fall '17,False,42,2,37,377
+1260,✔️,False,20,1,7,493
+1280,Twenty one pilots,False,7,1,3,306
+1287,run it,False,41,2,31,451
+1328,Winter 2014,False,26,1,15,320
+1354,smooth ,False,12,1,8,462
+1366,Yeet,False,81,7,37,330
+1447,groovy,False,40,1,39,388
+1487,Garage Rock,False,157,1,9,133
+1644,Running 2.0,False,97,1,83,262
+1741,acoustic,False,106,1,72,334
+1847,morning,False,17,1,11,417
+1864,good good,False,80,1,65,386
+1944,Good Vibes,False,70,1,52,142
+2014, indie rock,False,9,1,5,0
+2023,Hits,False,72,1,55,153
+2095,tb,False,53,1,42,475
+2148,Country,False,58,1,17,90
+2206,2020,False,85,6,71,17
+2291,Belters,False,209,1,55,51
+2500,Road Trippin',False,158,2,106,255
+2658,Country,False,21,1,9,88
+2679,taylor swift,False,33,3,21,474
+2712,angst,False,76,1,54,335
+2788,Running 2,False,11,1,8,261
+2799,Spring 2016,False,15,1,14,280
+2814,Country,False,32,1,13,89
+2846,Gospel,False,45,1,23,146
+2891,SB,False,55,1,31,264
+2946,Kevin,False,54,1,25,169
+3000,Christmas,False,15,5,10,77
+3015,NB,False,105,4,75,210
+3120,Smooth Jazz,False,5,1,4,277
+3125,Tennessee ,False,151,3,27,293
+3276,funky,False,19,1,13,383
+3295,spring 16,False,19,1,15,468
+3314,Gates,False,38,2,3,134
+3352,Favorite Songs,False,136,3,57,122
+3488,Ski,False,66,2,64,275
+3554,Country,False,13,1,8,87
+3567,hype,False,33,2,23,394
+3600,Awesome Mix,False,38,1,34,43
+3638,Elizabeth,False,105,1,61,112
+3743,PlayStation,False,133,1,87,233
+3876,Ashley,False,81,1,72,39
+3957,chill,False,8,1,7,356
+3965,xx,False,174,1,47,488
+4139,art class,False,18,1,13,336
+4157,Random Tunes,False,74,1,47,244
+4231,boat,False,26,1,23,346
+4257,spanish jams,False,197,1,83,466
+4454,new,False,34,1,31,422
+4488,CR,False,5,1,5,62
+4493,Run!!,False,14,2,12,259
+4507,winter '17,False,32,4,29,484
+4539,Workout,False,24,1,12,321
+4563,Traps ,False,16,1,16,303
+4579,Dope,False,16,1,14,107
+4595,Chill,False,66,1,30,67
+4661,rap,False,64,1,24,440
+4725,Gospel,False,25,1,9,145
+4750,Florida,False,69,2,22,126
+4819,Workout2,False,39,1,26,322
+4858,Gym,False,72,2,45,149
+4930,Zoned,False,42,1,23,332
+4972,relax,False,24,1,20,446
+4996,KPOP,False,66,1,12,167
+5062,80's,False,92,1,82,19
+5154,For the Road,False,103,2,41,127
+5257,R & B,False,68,3,37,239
+5325,Tom Petty,False,8,1,3,301
+5333,Catchy Songs,False,98,1,67,65
+5431,relax,False,124,1,97,447
+5555,roadtrippin,False,170,1,90,449
+5725,christmas,False,19,1,10,360
+5744,2012,False,233,1,42,11
+5977,Dave,True,81,1,3,103
+6058,bang bang. ,False,42,2,35,339
+6100,Disneyland,False,22,1,19,106
+6122,#boostyourrun,False,22,1,21,3
+6144,LUV,False,48,1,9,176
+6192,latin,False,177,1,63,404
+6369,JAMS,False,65,1,26,164
+6434,~Rando~,False,115,1,82,490
+6549,Party Rock!!,True,114,1,100,228
+6663,party people,False,62,2,50,433
+6725,The Piano Guys,False,69,1,6,296
+6794,Worship,False,132,1,64,324
+6926,Brasileiras,False,33,2,19,55
+6959,country,False,24,1,16,363
+6983,4/20,True,65,1,61,18
+7048,2016,False,19,1,14,13
+7067,Willie,False,23,1,4,319
+7090,beach,False,194,4,102,341
+7284,Gold Digger,False,12,1,10,139
+7296,Fall 2015,False,13,1,13,120
+7309,dance it out,False,38,1,31,370
+7347,greek,False,23,1,15,387
+7370,All the songs,False,103,1,59,34
+7473,Kyle,False,168,1,82,173
+7641,HALLOWEEN,False,20,1,20,150
+7661,w o r k o u t,False,245,1,171,483
+7906,party music,False,176,2,118,432
+8082,summer,False,53,1,26,471
+8135,XXXMas,False,50,1,48,326
+8185,BBG,True,26,1,24,46
+8211,bae,False,18,1,17,338
+8229,oldies,False,94,3,74,428
+8323,its lit,False,205,2,45,397
+8528,go to,False,99,1,68,384
+8627,Killin' It,True,10,1,10,171
+8637,October 2017,True,20,4,18,219
+8657,Rap/Pop,False,233,1,141,247
+8890,1990's ,False,53,1,39,10
+8943,Rap,False,32,1,22,245
+8975,GUACAMOLE,False,24,1,20,131
+8999,14,False,130,1,103,8
+9129,That New New,False,44,2,40,294
+9173,Relaxing,False,71,1,52,251
+9244,sleep,False,22,1,22,459
+9266,Get It!,False,109,1,47,135
+9375,bumps,False,37,1,17,351
+9412,picks,False,60,4,41,436
+9472,🤘🏼,False,46,1,14,498
+9518,Mashup,False,198,2,34,189
+9716,Ladies,False,10,1,8,177
+9726,Alt Jams,False,141,1,93,36
+9867,Reggae/Ska,False,34,3,16,248
+9901,Top hits,False,130,2,75,302
+10031,jazzy ,False,42,1,32,398
+10073,Pop,False,89,1,66,234
+10162,Emotional,False,29,1,20,114
+10191,Fall,False,50,1,41,119
+10241,ouch,False,24,1,20,431
+10265,Love Music,False,188,2,103,187
+10453,Bang Bang ,False,22,1,16,49
+10475,Solitude,False,102,3,86,278
+10577,feels,False,33,1,27,379
+10610,Silence,False,7,1,7,274
+10617,English ,False,161,2,68,115
+10778,Blues,False,41,1,21,54
+10819,pump,False,61,1,22,437
+10880,volleyball playlist ,False,46,5,35,482
+10926,september ,False,10,2,6,455
+10936,motown,False,55,7,41,419
+10991,folky,False,74,3,23,381
+11065,Rock alternativo,False,12,1,9,258
+11077,Summer Chill,False,134,2,110,284
+11211,Rap Classics,False,52,1,29,246
+11263,My favs,False,29,1,18,207
+11292,motivational ,False,41,1,33,418
+11333,Up Beat,False,95,1,70,307
+11428,Wes Anderson,False,16,1,15,317
+11444,Love,False,18,1,4,185
+11462,basic,False,141,1,73,340
+11603,Another,False,25,1,21,37
+11628,LIT!!!!!!!,False,70,1,38,174
+11698,YEET,False,21,2,20,328
+11719,🤤🤤,False,17,1,6,499
+11736,Summer Playlist,False,27,1,21,285
+11763,high,False,171,5,110,391
+11934,Music,False,85,1,28,201
+12019,Chill Alternative,True,50,1,41,69
+12069,feelz,False,121,5,90,380
+12190,Alexia,False,41,1,21,33
+12231,Mellow.,False,17,1,15,192
+12248,Britt,False,17,1,17,57
+12265,Christian Songs,False,66,2,25,76
+12331,Kendrick Lamar ,False,70,1,11,168
+12401,jesus jams,False,22,2,11,399
+12423,Daddy Issues,False,37,1,26,100
+12460,🔥🔥🔥🔥,False,14,1,12,496
+12474,sb2k17,False,130,1,92,454
+12604,Dance,False,68,1,51,101
+12672,2013,False,29,1,28,12
+12701,Spring16,False,57,1,53,281
+12758,soul,False,25,1,23,465
+12783,Best Songs of 2016,False,79,5,52,52
+12862,Ladies,False,14,1,10,178
+12876,Love ,False,46,1,41,186
+12922,Cash,False,64,1,31,64
+12986,#Workout,False,47,1,37,2
+13033,guitar.,False,10,2,10,389
+13043,running ,False,49,1,40,452
+13092,Shower,False,5,1,5,273
+13097,Saturn,False,44,1,29,271
+13141,Christmas music,False,90,1,31,80
+13231,Bus playlist,False,52,2,34,58
+13283,Xmas,False,123,1,50,327
+13406,My music,False,79,2,45,209
+13485,Latino,False,146,1,68,180
+13631,Mumford & Sons,False,17,1,3,200
+13648,This Is What You Came For,False,157,1,113,298
+13805,On the Run,False,41,2,34,223
+13846,Prayer,False,29,1,11,235
+13875,my country,False,148,1,18,420
+14023,party playlist,False,98,1,74,434
+14121,Funky,False,30,1,11,129
+14151,Musicals,False,68,1,35,204
+14219,Relax,False,15,1,8,250
+14234,Wedding,False,17,1,16,314
+14251,classics,False,120,10,76,362
+14371,Peace,False,115,3,91,230
+14486,Volleyball,False,80,1,51,310
+14566,Madness,False,111,1,47,188
+14677,ride,False,55,1,26,448
+14732,before my time,False,176,1,134,343
+14908,reggae,False,18,1,14,444
+14926,Summer of love,False,24,2,23,286
+14950,Everything,False,229,9,40,117
+15179,Hits,False,50,1,44,152
+15229,shower ,False,5,1,5,457
+15234,RUNNIN,False,43,1,30,242
+15277,My happy place,False,40,1,25,208
+15317,90s hits,False,48,1,40,28
+15365,Old songs,False,92,3,67,221
+15457,Korean,False,22,1,17,172
+15479,Go to ,False,124,1,20,138
+15603,Way Up,False,34,1,23,313
+15637,Tegan and Sara,False,151,18,7,292
+15788,Atlas,False,18,1,14,40
+15806,Elisa,False,123,1,92,111
+15929,Country,False,67,1,33,91
+15996,90s,False,62,1,56,24
+16058,eurotrip,False,67,1,60,376
+16125,Mine,False,18,1,13,196
+16143,Christmas 2016,False,25,1,17,78
+16168,Summer,False,31,1,24,283
+16199,TBT,False,31,1,23,288
+16230,beachy,False,28,1,16,342
+16258,country,False,96,1,25,365
+16354,Drank,False,78,4,53,108
+16432,Trip,False,37,2,23,305
+16469,Christmas Mix,False,32,22,25,79
+16501,TOP,False,66,1,38,289
+16567,rap god,False,37,1,15,441
+16604,#Relaxed,False,38,4,15,1
+16642,blue grass,False,88,1,49,345
+16730,brad paisley ,False,55,1,17,348
+16785,summer16,False,18,1,17,473
+16803,throwback,False,145,1,77,478
+16948,love,False,44,1,32,407
+16992,DA,True,188,4,167,98
+17180,SUMMER 2k17,False,120,1,23,266
+17300,Awesome mix vol. 1,False,12,1,12,45
+17312,POP,False,38,1,21,224
+17350,Road Trip Mix,False,35,1,35,254
+17385,Indie,False,27,1,23,160
+17412,Corridos,False,179,2,80,86
+17591,Mr. Brightside,False,22,1,17,199
+17613,shower,False,13,1,10,456
+17626,workout,False,17,1,17,485
+17643,old people,False,59,1,39,425
+17702,FUN,False,66,1,44,118
+17768,😍😍,False,12,1,11,497
+17780,Hockey,False,46,1,25,154
+17826,dank memes,True,5,1,5,371
+17831,🎵🎵,False,97,1,60,495
+17928,Legendary,False,55,1,27,181
+17983,mayer,False,58,4,5,409
+18041,Game Time,False,34,1,27,132
+18075,car tunes,False,108,1,67,355
+18183,lit,False,73,1,35,405
+18256,wrap,False,99,1,43,487
+18355,Chris,False,42,1,38,75
+18397,chill beats,False,26,1,14,358
+18423,kpop,False,48,1,25,403
+18471,mix,False,10,2,9,412
+18481,Blackout,False,35,1,25,53
+18516,country ,False,70,1,37,367
+18586,Disney,False,38,1,27,104
+18624,CHRISTMASSSSS,False,57,2,10,61
+18681,Aux,False,83,1,42,42
+18764,best christmas,False,47,2,38,344
+18811,Worship ,False,35,11,26,325
+18846,broadway,False,81,1,44,349
+18927,Vibe,False,49,1,19,309
+18976,Say My Name,False,34,1,15,272
+19010,car playlist,False,17,1,16,353
+19027,Music From Baz Luhrmann's Film The Great Gatsby,False,21,1,18,202
+19048,deep,False,105,1,81,372
+19153,Tame Impala,False,43,1,3,291
+19196,<3,False,48,2,29,29
+19244,Running,False,26,3,19,260
+19270,mixtape,False,29,1,12,415
+19299,rawr,False,24,1,20,443
+19323,lit songs ,False,17,1,16,406
+19340,upbeat,False,47,1,42,480
+19387,Good Day,False,51,1,32,140
+19438,AAA,False,56,1,31,31
+19494,Line Dances ,False,23,1,22,182
+19517,Spanish,False,6,1,4,279
+19523,randoms,False,38,1,23,439
+19561,Alright,False,29,2,20,35
+19590,Feelin' Myself,False,54,1,43,124
+19644,RAP,False,30,2,23,240
+19674,Covers,False,11,1,9,95
+19685,Acoustic,False,63,1,38,32
+19748,chill,False,26,2,25,357
+19774,bruno mars,False,31,1,3,350
+19805,stream,False,35,3,29,469
+19840,mix ,False,30,1,12,413
+19870,Me Like,False,74,3,40,190
+19944,Disney Jams,True,34,1,26,105
+19978,family,False,101,3,51,378
+20079,Walking on Sunshine,False,18,1,15,312
+20097,country,False,123,4,48,366
+20220,trap,False,89,3,41,479
+20309,electronic,False,179,1,149,374
+20488,The Drive,False,135,5,92,295
+20623,Julion alvarez,False,60,2,29,166
+20683,studying music,False,55,2,30,470
+20738,90s alternative,False,124,1,80,25
+20862,Litty ,False,143,2,57,183
+21005,oldies but goodies ,False,5,1,4,430
+21010,More Songs,False,8,1,7,198
+21018,((chris)),False,118,1,57,5
+21136,Worship,False,126,4,47,323
+21262,🇲🇽🇲🇽🇲🇽,False,23,1,15,494
+21285,( ͡° ͜ʖ ͡°),False,209,3,127,4
+21494,Dance mix,False,167,1,111,102
+21661,classic ,False,32,1,25,361
+21693,oldies,False,35,1,23,427
+21728,NEW,False,16,6,5,211
+21744,Chill music ,False,12,2,11,74
+21756,karaoke.,False,28,1,3,401
+21784,⚡️⚡️⚡️,False,202,1,76,492
+21986,Road,False,26,1,24,253
+22012,Latin Trap,False,83,1,40,179
+22095,Cali,False,59,1,49,63
+22154,frenchy,False,28,1,18,382
+22182,Thinking,False,23,3,10,297
+22205,Cruisin,False,64,1,45,96
+22269,throw backs,False,70,1,45,477
+22339,2017,False,38,1,23,15
+22377,boris,False,161,1,124,347
+22538,Meow,False,75,1,42,194
+22613,old songs ,False,54,1,45,426
+22667,pg,False,132,1,107,435
+22799,Breezeblocks,False,79,1,63,56
+22878,Favorite Songs,False,236,1,114,123
+23114,Classic Rock,False,101,1,58,82
+23215,Pregame,False,46,1,37,236
+23261,Chill Rock,False,128,15,90,72
+23389,High,False,9,1,4,151
+23398,Guilty pleasure,False,118,1,56,148
+23516,Everyday,False,25,1,12,116
+23541,Salsa clasica,False,60,1,26,269
+23601,CHRISTMAS,False,44,2,27,59
+23645,quiet,False,15,1,14,438
+23660,TRIPPIn,False,10,1,7,290
+23670,happy,False,63,2,36,390
+23733,oldies,False,122,1,88,429
+23855,Chill,False,82,1,36,68
+23937,Studying,False,88,1,66,282
+24025,Classic,False,22,1,12,81
+24047,country,False,69,1,15,364
+24116,Autumnal ,False,99,7,55,41
+24215,Throwbacks ,False,134,3,67,300
+24349,Traveling,False,54,1,33,304
+24403,spin,False,14,2,13,467
+24417,country 2017,False,31,2,29,368
+24448,*** good stuff,False,46,2,37,6
+24494,LM,False,27,1,23,175
+24521,Chill,False,23,1,16,66
+24544,sad,False,5,1,3,453
+24549,Party time,False,29,1,24,229
+24578,mb,False,174,2,140,410
+24752,Samba,False,30,1,27,270
+24782,tears.,False,68,3,47,476
+24850,Go To,False,88,1,70,137
+24938,Friday afternoon...,False,72,1,33,128
+25010,songs that make me think of you ,False,23,1,20,463
+25033,Congratulations,False,61,1,45,85
+25094,Party,False,152,1,75,227
+25246,Random,False,22,1,12,243
+25268,Comedy,False,16,1,10,84
+25284,RAVE,False,28,1,18,241
+25312,summer 2015,False,40,1,30,472
+25352,GET DOWN,False,170,4,133,130
+25522,JAZZ,False,129,1,94,165
+25651,Hype,False,210,4,119,156
+25861,⚡️,False,73,1,17,491
+25934,in my feels,False,214,1,94,395
+26148,90's,False,228,2,73,21
+26376,Piano Music,False,51,1,3,232
+26427,workout mix,False,9,1,8,486
+26436,90s hip hop,False,33,1,22,27
+26469,Metal,False,87,1,10,195
+26556,ashley,False,169,1,104,337
+26725,Country,False,189,2,69,92
+26914,Sweat.It.Out.,True,22,1,21,287
+26936,early 2000's,False,17,1,10,373
+26953,Get pumped ,False,12,1,6,136
+26965,West Coast Swing,False,44,1,29,318
+27009,Rock,False,17,1,6,257
+27026,june,True,18,1,8,400
+27044,Roadtrip,False,121,1,87,256
+27165,Smooth,False,109,1,23,276
+27274,1967,False,23,1,20,9
+27297,Old School,False,55,1,28,220
+27352,New,False,18,1,7,213
+27370,WORSHIP,False,122,1,62,311
+27492,Phone,False,10,1,7,231
+27502,yo,False,90,3,59,489
+27592,PT,False,113,4,81,225
+27705,car rides,False,111,1,72,354
+27816,Music.,False,41,7,33,203
+27857,Rent,False,28,1,11,252
+27885,Feels,False,94,1,74,125
+27979,goldie,False,84,1,74,385
+28063,Sad songs,False,29,1,21,268
+28092,DIEGO$,False,100,1,39,99
+28192,New years,False,44,1,28,215
+28236,Driving,False,151,2,34,109
+28387,April,False,199,1,131,38
+28586,OD,False,92,1,73,216
+28678,housewarming,False,174,2,77,393
+28852,car,False,24,1,19,352
+28876,chill out,False,203,4,141,359
+29079,rap mix,False,195,4,87,442
+29274,Kickin it,False,41,2,36,170
+29315,Chill Out,False,12,1,6,70
+29327,90s baby,False,24,1,16,26
+29351,Oldies,False,42,1,36,222
+29393,Classical,False,166,1,49,83
+29559,My favorites,False,26,1,23,206
+29585,Hyphy,False,16,1,13,157
+29601,Pump up songs,False,74,2,41,237
+29675,Beautiful Things,False,22,1,19,50
+29697,dance,False,77,2,59,369
+29774,my heart,False,159,1,108,421
+29933,issa playlist,False,159,1,36,396
+30092,Party,False,45,1,40,226
+30137,Country,False,240,1,87,93
+30377,roma,False,63,3,52,450
+30440,Intro,False,89,1,71,161
+30529,Dusk,True,102,2,78,110
+30631,slow,False,95,3,64,460
+30726,BUST A MOVE,False,18,2,18,48
+30744,Current jams,False,51,2,33,97
+30795,Fallout,False,32,1,19,121
+30827,2017,False,13,1,13,14
+30840,Punk,False,140,2,20,238
+30980,Homework,False,26,1,14,155
+31006,000,False,130,1,17,7
+31136,Good Times,False,140,4,104,141
+31276,new stuff,False,62,1,12,423
+31338,It's Christmas Time!,False,173,1,70,163
+31511,AA,False,142,1,83,30
+31653,Chill Sesh,False,139,1,26,73
+31792,SPRANG,False,51,1,29,265
+31843,Greatest Hits,False,24,1,3,147
+31867,elevator music,False,175,1,111,375
+32042,YOU,False,78,1,65,329
+32120,Reggaeton,False,12,1,12,249
+32132,Long Car Rides,False,60,1,48,184
+32192,Country favorites,False,51,1,26,94
+32243,Chill Out Music,False,99,1,50,71
+32342,Good songs,False,22,1,11,143
+32364,hip hop,False,6,2,6,392
+32370,vibes,False,241,1,69,481
+32611,INDY,False,21,1,18,159
+32632,90's,False,57,1,52,20
+32689,ODESZA,False,17,1,3,217
+32706,Good stuff,False,41,1,34,144
+32747,CHRISTMAS MUSIC,False,36,1,33,60
+32783,Isis,False,59,1,35,162
+32842,My baby,False,15,1,9,205
+32857,Melting Pot,False,218,2,156,193
+33075,Eminem ,False,34,1,5,113
+33109,Zombies,False,58,1,36,331
+33167,Mega Chill,False,27,1,23,191
+33194,OOOUUU,False,18,1,15,218
+33212,songs to sing in the shower,False,20,1,20,464
+33232,Narcos,False,25,1,24,212
+33257,modern rock,False,71,1,20,416
+33328,Wedding Dance Party,False,87,1,69,316
