@@ -1,0 +1,25 @@
+What do we need to do?
+
+	0.5) CREATE DB2/whatever (LEON & ANTOINE)
+		- What tables will db2 include?
+	1) TASK: EXTRACT
+		- take data from playlist.db
+		- take data from api
+		- combine data from both sources
+		- place combined data in db2.db
+		
+		
+Scenario:
+We are a record company. We have access to spotify data. We want to know what artists should do to make hits!
+
+What are our business requirements?
+1) What characterizes a popular song?
+2) What characterizes a popular playlist?
+3) What characterizes a popular artist?
+
+What are our business intelligence questions?
+1) 
+
+
+Do people put songs that are similar in terms of danceability/anything in their playlists?
+3) 
