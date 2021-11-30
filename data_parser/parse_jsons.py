@@ -6,6 +6,8 @@ from pathlib import Path
 import pandas as pd
 
 
+NUMBER_OF_PLAYLISTS_WANTED: int = 500
+
 def get_dict() -> Dict[Path, Tuple[int, int]]:
     data_p = Path(f"../data/spotify_playlist_data")
 
@@ -28,7 +30,6 @@ file_number_dict = get_dict()
 def get_files_to_download(
     file_number_dict: Dict[Path, Tuple[int, int]]
 ) -> List[Path]:
-    NUMBER_OF_PLAYLISTS_WANTED = 5000
 
     files_to_download: List[Path] = []
 
@@ -101,6 +102,10 @@ def main():
         print(f"{i} Done: {len(files_to_download) - i} left to go!")
         with open(file, "r") as f:
             play_dict_list = json.load(f)["playlists"]
+
+        if len(play_dict_list) > NUMBER_OF_PLAYLISTS_WANTED:
+            play_dict_list = play_dict_list[:NUMBER_OF_PLAYLISTS_WANTED]
+
         for play_dict in play_dict_list:
             tmp_df = get_df(play_dict)
             out_df = out_df.append(tmp_df)
