@@ -147,15 +147,27 @@ def etl():
 
         top_songs_df = api_data_dfs[2]
         top_audio_features_df = api_data_dfs[1]
-        dimension_top_songs = ...
+        dimension_top_songs = top_songs_df.merge(top_audio_features_df, on="track_uri", how="left") \
+                                          .drop_duplicates(subset="track_uri") \
+                                          .drop(['Unnamed: 0_x', 'Unnamed: 0_y', 'duration_ms_x'], axis=1) \
+                                          .rename({"artist": "artist_uri",
+                                                   "duration_ms_y": "duration_ms"
+                                                   }, axis=1)
 
-        dimension_artists = ...
+        dimension_artists = dimension_top_songs.copy() \
+                                               .groupby("artist_uri") \
+                                               .agg({f : "mean" for f in list_of_features}) \
+                                               .reset_index() \
+                                               .merge(songs_table_df[["artist_uri", "artist_name"]], how="left", on="artist_uri") \
+                                               .drop_duplicates(subset="artist_uri") \
+                                               .reset_index()
+                                               
 
-        return ["hi"]
+        return 
 
-    table_ids = extract_db()
+    table_pickles = extract_db()
     api_data_csvs = extract_api_data()
-    out = transform_data(table_ids, api_data_csvs)
+    out = transform_data(table_pickles, api_data_csvs)
 
 
 etl_out = etl()
