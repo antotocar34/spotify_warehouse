@@ -1,4 +1,5 @@
 import os
+
 import requests
 import json
 from typing import List
@@ -42,6 +43,7 @@ def etl():
 
         # Defining the query of interest
         tables = ["songs", "playlists", "playlistssongs"]
+        # Select everythin from the database
         selects = [f"SELECT * FROM {table}" for table in tables]
 
         # Executing the query
@@ -56,7 +58,7 @@ def etl():
             print("Successfully placed data in dataframe.")
             return result_df
 
-        dfs = [df_from_query(query) for query in queries]
+        dfs = {name: df_from_query(query) for query, name in zip(queries, tables)}
 
         # Closing our database connection
         cnx.close()
@@ -64,7 +66,7 @@ def etl():
         # Saving results to a csv file that can then be read by another function
         OUT_PATH = Path(DATA_HOME / "interrim")
         assert OUT_PATH.exists(), "Data output path is not found"
-        for df, table_name in zip(dfs, tables):
+        for table_name, df in dfs.items():
             with open(OUT_PATH / f"{table_name}.pkl", "wb") as f:
                 dump(df, f)
 
@@ -124,7 +126,7 @@ def etl():
                                       .merge(songs_table_df[["artist_uri", "track_uri"]], on="track_uri", how="left") \
                                       .drop("playlist_name", axis=1)
 
-        playlist_analysis["song_popularity_per_playlist"] = playlist_analysis["track_uri"].map(dict(pssongs_df.track_uri.value_counts()))
+        # playlist_analysis["song_popularity_per_playlist"] = playlist_analysis["track_uri"].map(dict(pssongs_df.track_uri.value_counts()))
 
 
         dimension_songs = audio_features_df[["song_uri", "duration_ms"]].merge(
@@ -148,7 +150,7 @@ def etl():
                                                                                 
 
         dimension_top_tracks = top_tracks_df[["track_uri", "track_name", "explicit", "duration_ms"]]
-        dimension_artists = top_tracks_df[["artist", "artist_name"]].rename({"artist":"artist_uri"}, axis=1)
+        dimension_top_artists = top_tracks_df[["artist", "artist_name"]].rename({"artist":"artist_uri"}, axis=1)
 
 
         facts: List[pd.DataFrame] = [playlist_analysis, top_track_analysis]
@@ -168,7 +170,12 @@ def etl():
         return pkl_dimension_names + pkl_fact_names
 
     @task
-    def load(pkl_dimension_names: List[str]):
+    def load(csv_names: List[str]):
+
+        dfs = [pd.read_csv(f"{DATA_HOME}/interrim/") for csv_name in csv_names]
+
+        dimension_playlists, dimension_songs, dimension_top_tracks, dimension_top_artists = dfs[0:3]
+
         def create_connection(db_file):
             """ create a database connection to a SQLite database """
             conn = None
@@ -177,9 +184,12 @@ def etl():
                 print(sqlite3.version)
             except Error as e:
                 print(e)
-            finally:
-                if conn:
-                    conn.close()
+            return conn
+        conn = create_connection(f"{AIRFLOW_HOME}/data/factdb/factdb.db")
+
+
+
+
 
     table_pickles = extract_db()
     api_data_csvs = extract_api_data()
