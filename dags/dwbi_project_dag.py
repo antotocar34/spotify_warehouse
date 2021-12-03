@@ -120,13 +120,13 @@ def etl():
         playlists_table_df = table_dfs[1]
         pssongs_df = table_dfs[2]
 
-        playlist_analysis = pssongs_df.merge(audio_features_df, left_on="track_uri", right_on="song_uri", how="left") \
+        playlist_fact = pssongs_df.merge(audio_features_df, left_on="track_uri", right_on="song_uri", how="left") \
                                       .drop(["song_uri", "Unnamed: 0", "track_href", "analysis_url", "id"], axis=1) \
                                       .merge(playlists_table_df, how="left", on="playlist_id") \
                                       .merge(songs_table_df[["artist_uri", "track_uri"]], on="track_uri", how="left") \
                                       .drop("playlist_name", axis=1)
 
-        # playlist_analysis["song_popularity_per_playlist"] = playlist_analysis["track_uri"].map(dict(pssongs_df.track_uri.value_counts()))
+        # playlist_fact["song_popularity_per_playlist"] = playlist_fact["track_uri"].map(dict(pssongs_df.track_uri.value_counts()))
 
 
         dimension_songs = audio_features_df[["song_uri", "duration_ms"]].merge(
@@ -141,7 +141,7 @@ def etl():
         audio_top_tracks_df = api_data_dfs[1]
         top_tracks_df = api_data_dfs[2].drop_duplicates(subset="track_uri")
 
-        top_track_analysis = top_tracks_df[["track_uri", "artist", "popularity"]].merge(
+        top_track_fact = top_tracks_df[["track_uri", "artist", "popularity"]].merge(
                 audio_top_tracks_df[audio_features + ["track_uri"]], how="left", on="track_uri"
                 ).rename(
                         columns={"artist": "artist_uri",
@@ -153,7 +153,7 @@ def etl():
         dimension_top_artists = top_tracks_df[["artist", "artist_name"]].rename({"artist":"artist_uri"}, axis=1)
 
 
-        facts: List[pd.DataFrame] = [playlist_analysis, top_track_analysis]
+        facts: List[pd.DataFrame] = [playlist_fact, top_track_fact]
 
         dimensions: List[pd.DataFrame] = [dimension_playlists,
                                           dimension_artists,
@@ -162,8 +162,8 @@ def etl():
                                           dimension_top_artists]
 
         
-        pkl_fact_names = list(map(lambda s: f"fact_{s}", ["playlists", "artists", "songs", "top_songs"]))
-        pkl_dimension_names = list(map(lambda s: f"dimension_{s}", ["playlists", "artists", "songs", "top_songs"]))
+        pkl_fact_names = list(map(lambda s: f"fact_{s}", ["playlist", "top_track"]))
+        pkl_dimension_names = list(map(lambda s: f"dimension_{s}", ["playlists", "artists", "songs", "top_songs", "top_artists"]))
         for d, name in zip(dimensions + facts, pkl_dimension_names + pkl_fact_names):
             d.to_csv(f"{DATA_HOME}/interrim/{name}.csv")
 
