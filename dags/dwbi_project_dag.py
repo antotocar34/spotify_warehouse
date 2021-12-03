@@ -150,7 +150,8 @@ def etl():
                                                                                 
 
         dimension_top_tracks = top_tracks_df[["track_uri", "track_name", "explicit", "duration_ms"]]
-        dimension_top_artists = top_tracks_df[["artist", "artist_name"]].rename({"artist":"artist_uri"}, axis=1)
+        dimension_top_artists = top_tracks_df[["artist", "artist_name"]].rename({"artist":"artist_uri"}, axis=1) \
+                                                                        .drop_duplicates(subset="artist_uri")
 
 
         facts: List[pd.DataFrame] = [playlist_fact, top_track_fact]
