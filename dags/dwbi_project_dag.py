@@ -88,7 +88,7 @@ def etl():
     @task()
     def transform_data(table_pickles: List[str], api_data_csvs: List[str]):
         """
-        Create fact and dimension tables
+        Create fact and dimension tables.
         """
         audio_features = [
             "danceability",
@@ -137,7 +137,7 @@ def etl():
         dimension_artists = songs_table_df[["artist_uri", "artist_name"]].drop_duplicates()
 
         audio_top_tracks_df = api_data_dfs[1]
-        top_tracks_df = api_data_dfs[2]
+        top_tracks_df = api_data_dfs[2].drop_duplicates(subset="track_uri")
 
         top_track_analysis = top_tracks_df[["track_uri", "artist", "popularity"]].merge(
                 audio_top_tracks_df[audio_features + ["track_uri"]], how="left", on="track_uri"
@@ -156,7 +156,8 @@ def etl():
         dimensions: List[pd.DataFrame] = [dimension_playlists,
                                           dimension_artists,
                                           dimension_songs,
-                                          dimension_top_tracks]
+                                          dimension_top_tracks,
+                                          dimension_top_artists]
 
         
         pkl_fact_names = list(map(lambda s: f"fact_{s}", ["playlists", "artists", "songs", "top_songs"]))
@@ -164,7 +165,7 @@ def etl():
         for d, name in zip(dimensions + facts, pkl_dimension_names + pkl_fact_names):
             d.to_csv(f"{DATA_HOME}/interrim/{name}.csv")
 
-        return pkl_dimension_names
+        return pkl_dimension_names + pkl_fact_names
 
     @task
     def load(pkl_dimension_names: List[str]):
