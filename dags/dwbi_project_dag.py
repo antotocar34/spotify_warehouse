@@ -9,6 +9,7 @@ from pathlib import Path
 
 from airflow.decorators import dag, task
 import sqlite3
+from sqlite3 import Error
 import sqlalchemy
 from sqlalchemy.orm import sessionmaker
 import pandas as pd
@@ -86,43 +87,10 @@ def etl():
 
     @task()
     def transform_data(table_pickles: List[str], api_data_csvs: List[str]):
-        ## load data
-        table_dfs = [
-            pd.read_pickle(f"{DATA_HOME}/interrim/{table}")
-            for table in table_pickles
-        ]
-        api_data_dfs = [
-            pd.read_csv(f"{DATA_HOME}/{csv}") for csv in api_data_csvs
-        ]
-
-        songs_table_df = table_dfs[0]
-        audio_features_df = api_data_dfs[0]
-
-        merged_df = songs_table_df.merge(
-            audio_features_df,
-            right_on="song_uri",
-            left_on="track_uri",
-            how="left",
-        ).drop("Unnamed: 0", axis=1)
-
-        pssongs_df = table_dfs[2].copy()
-        pssongs_df["playlist_popularity"] = 1
-        pssongs_df.drop(columns=["pos", "playlist_id"], axis=1, inplace=True)
-        track_playlist_popularity_df = (
-            pssongs_df.groupby("track_uri")
-            .sum()
-            .sort_values(by="playlist_popularity", ascending=False)
-            .reset_index()
-        )
-        dimension_songs = merged_df.merge(
-            track_playlist_popularity_df, on="track_uri", how="left"
-        ).drop(
-            ["artist_name", "artist_uri", "album_uri", "song_uri", "id"],
-            axis=1,
-        )
-
-        playlistsongs_df = table_dfs[2]
-        list_of_features = [
+        """
+        Create fact and dimension tables
+        """
+        audio_features = [
             "danceability",
             "energy",
             "key",
@@ -136,34 +104,81 @@ def etl():
             "tempo",
             "duration_ms",
         ]
-        mean_feature_per_playlist = (
-            playlistsongs_df.merge(dimension_songs, on="track_uri", how="left")
-            .groupby("playlist_id")
-            .agg({f: "mean" for f in list_of_features})
-        ).reset_index()
+        ## load data
+        table_dfs = [
+            pd.read_pickle(f"{DATA_HOME}/interrim/{table}")
+            for table in table_pickles
+        ]
+        api_data_dfs = [
+            pd.read_csv(f"{DATA_HOME}/{csv}") for csv in api_data_csvs
+        ]
 
-        dimension_playlists = table_dfs[1].merge(mean_feature_per_playlist, on="playlist_id", how="left") \
-                                          .drop("collaborative", axis=1)
+        songs_table_df = table_dfs[0]
+        audio_features_df = api_data_dfs[0]
+        playlists_table_df = table_dfs[1]
+        pssongs_df = table_dfs[2]
 
-        top_songs_df = api_data_dfs[2]
-        top_audio_features_df = api_data_dfs[1]
-        dimension_top_songs = top_songs_df.merge(top_audio_features_df, on="track_uri", how="left") \
-                                          .drop_duplicates(subset="track_uri") \
-                                          .drop(['Unnamed: 0_x', 'Unnamed: 0_y', 'duration_ms_x'], axis=1) \
-                                          .rename({"artist": "artist_uri",
-                                                   "duration_ms_y": "duration_ms"
-                                                   }, axis=1)
+        playlist_analysis = pssongs_df.merge(audio_features_df, left_on="track_uri", right_on="song_uri", how="left") \
+                                      .drop(["song_uri", "Unnamed: 0", "track_href", "analysis_url", "id"], axis=1) \
+                                      .merge(playlists_table_df, how="left", on="playlist_id") \
+                                      .merge(songs_table_df[["artist_uri", "track_uri"]], on="track_uri", how="left") \
+                                      .drop("playlist_name", axis=1)
 
-        dimension_artists = dimension_top_songs.copy() \
-                                               .groupby("artist_uri") \
-                                               .agg({f : "mean" for f in list_of_features}) \
-                                               .reset_index() \
-                                               .merge(songs_table_df[["artist_uri", "artist_name"]], how="left", on="artist_uri") \
-                                               .drop_duplicates(subset="artist_uri") \
-                                               .reset_index()
-                                               
+        playlist_analysis["song_popularity_per_playlist"] = playlist_analysis["track_uri"].map(dict(pssongs_df.track_uri.value_counts()))
 
-        return 
+
+        dimension_songs = audio_features_df[["song_uri", "duration_ms"]].merge(
+                songs_table_df[["track_uri", "track_name"]], how="right", left_on="song_uri", right_on="track_uri"
+                ).drop("song_uri", axis=1)
+
+
+        dimension_playlists = playlists_table_df.drop("num_followers", axis=1)
+
+        dimension_artists = songs_table_df[["artist_uri", "artist_name"]].drop_duplicates()
+
+        audio_top_tracks_df = api_data_dfs[1]
+        top_tracks_df = api_data_dfs[2]
+
+        top_track_analysis = top_tracks_df[["track_uri", "artist", "popularity"]].merge(
+                audio_top_tracks_df[audio_features + ["track_uri"]], how="left", on="track_uri"
+                ).rename(
+                        columns={"artist": "artist_uri",
+                                 "spotify": "spotify_popularity"}
+                        )
+                                                                                
+
+        dimension_top_tracks = top_tracks_df[["track_uri", "track_name", "explicit", "duration_ms"]]
+        dimension_artists = top_tracks_df[["artist", "artist_name"]].rename({"artist":"artist_uri"}, axis=1)
+
+
+        facts: List[pd.DataFrame] = [playlist_analysis, top_track_analysis]
+
+        dimensions: List[pd.DataFrame] = [dimension_playlists,
+                                          dimension_artists,
+                                          dimension_songs,
+                                          dimension_top_tracks]
+
+        
+        pkl_fact_names = list(map(lambda s: f"fact_{s}", ["playlists", "artists", "songs", "top_songs"]))
+        pkl_dimension_names = list(map(lambda s: f"dimension_{s}", ["playlists", "artists", "songs", "top_songs"]))
+        for d, name in zip(dimensions + facts, pkl_dimension_names + pkl_fact_names):
+            d.to_csv(f"{DATA_HOME}/interrim/{name}.csv")
+
+        return pkl_dimension_names
+
+    @task
+    def load(pkl_dimension_names: List[str]):
+        def create_connection(db_file):
+            """ create a database connection to a SQLite database """
+            conn = None
+            try:
+                conn = sqlite3.connect(db_file)
+                print(sqlite3.version)
+            except Error as e:
+                print(e)
+            finally:
+                if conn:
+                    conn.close()
 
     table_pickles = extract_db()
     api_data_csvs = extract_api_data()
