@@ -10,3 +10,4 @@ poetry.lock
 airflow.db
 airflow-webserver.pid
 __pycache__
+logs/
