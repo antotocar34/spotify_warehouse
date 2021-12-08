@@ -255,7 +255,7 @@ def etl():
             conn = None
             try:
                 conn = sqlite3.connect(db_file)
-                with open(f"{AIRFLOW_HOME}/code/db2_creation.txt", "r") as f:
+                with open(f"{AIRFLOW_HOME}/code/star_schema_creation.txt", "r") as f:
                     create_statement = f.read()
                 conn.executescript(create_statement)
                 print(sqlite3.version)
